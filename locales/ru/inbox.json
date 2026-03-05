@@ -1,0 +1,24 @@
+{
+    "InboxTitle": "Входящие",
+  "InboxTitleMessages": "Сообщения",
+  "InboxTitleGameInvites": "Приглашения в игру",
+  "InboxTitleFriendRequests": "Запросы в друзья",
+
+  "InboxMessagesEmpty": "У вас пока нет сообщений.",
+
+  "InboxGameInvitesEmpty": "Пока нет приглашений в игру.",
+  "InboxAccept": "Принять",
+  "InboxDecline": "Отклонить",
+  "InboxAcceptedTitle": "Принято",
+  "InboxAcceptedMessage": "Вы присоединились к игре!",
+  "InboxDeclinedTitle": "Отклонено",
+  "InboxDeclinedMessage": "Приглашение удалено.",
+  "InboxInviteCardTappedTitle": "Приглашение",
+  "InboxInviteCardTappedMessage": "Перейти к деталям {{sport}}",
+
+  "InboxFriendRequestsEmpty": "Пока нет запросов в друзья.",
+  "InboxFriendAcceptedMessage": "Запрос в друзья принят.",
+  "InboxFriendDeclinedMessage": "Запрос в друзья отклонен.",
+
+  "ChatInputPlaceholder": "Введите сообщение..."
+}

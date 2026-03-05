@@ -32,7 +32,7 @@
     "Komitas": "Komitas",
     "Erebuni": "Erebuni",
 
-    "Back": "Back",
+    "CreateBack": "Back",
     "Next": "Next",
     "Create": "Create",
 
@@ -63,7 +63,7 @@
     "SearchFriends": "Search friends...",
     "MyFriends": "My friends",
     "NoFriendsFound": "No friends found.",
-    "Done": "Done",
+    "CreateDone": "Done",
     "InviteExternal": "Invite via link",
     "InviteExternalSub": "Send an invite to friends not on the app"
 }

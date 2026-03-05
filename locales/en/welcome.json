@@ -58,7 +58,7 @@
     "Mor": "Mor",
     "Aft": "Aft",
     "Eve": "Eve",
-    "Error": "Error",
+    "WelcomeError": "Error",
     "oneSlot": "Please select at least one availability slot.",
     "incorrectEmailOrPassword": "Email or password is incorrect",
     "invalidEmail": "Please enter a valid email address.",

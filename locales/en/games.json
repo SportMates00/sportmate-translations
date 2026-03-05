@@ -44,9 +44,9 @@
   "CourtBooked": "Booked",
   "VerifiedUsersOnly": "Verified Users Only",
 
-  "Sports": "Sports",
-  "Sort": "Sort",
-  "Filter": "Filter",
+  "AllSports": "Sports",
+  "SortEvents": "Sort",
+  "FilterEvents": "Filter",
   "CreateaGame": "Create a Game",
 
   "GameDetailsPlayers": "Players",
