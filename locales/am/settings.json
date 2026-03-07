@@ -39,7 +39,7 @@
   "PrivacyPolicy": "Գաղտնիության քաղաքականություն",
   "TermsConditions": "Օգտագործման պայմաններ",
 
-  "VerifyAccount": "Հաստատել հաշիվը",
+  "VerifyAccount": "hasd հաշիվը",
   "ChangePassword": "Փոխել գաղտնաբառը",
   "ChangeLanguage": "Փոխել լեզուն",
   "Notifications": "Ծանուցումներ",
@@ -76,3 +76,4 @@
   "PasswordChangedSuccess": "Ձեր գաղտնաբառը հաջողությամբ փոխվել է։",
   "PasswordRequirements": "Գաղտնաբառը պետք է լինի առնվազն 8 նիշ, պարունակի առնվազն մեկ մեծատառ և մեկ հատուկ նշան։"
 }
+
