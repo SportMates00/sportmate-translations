@@ -1,5 +1,5 @@
 {
-     "Settings": "settings",
+     "Settings": "Կարգավորումներ",
   "ContactSupport": "Կապ հաստատել աջակցման հետ",
   "Logout": "Ելք",
   "LogoutTitle": "Ելք",
@@ -39,7 +39,7 @@
   "PrivacyPolicy": "Գաղտնիության քաղաքականություն",
   "TermsConditions": "Օգտագործման պայմաններ",
 
-  "VerifyAccount": "hasd հաշիվը",
+  "VerifyAccount": "Հաստատել հաշիվը",
   "ChangePassword": "Փոխել գաղտնաբառը",
   "ChangeLanguage": "Փոխել լեզուն",
   "Notifications": "Ծանուցումներ",
@@ -76,4 +76,5 @@
   "PasswordChangedSuccess": "Ձեր գաղտնաբառը հաջողությամբ փոխվել է։",
   "PasswordRequirements": "Գաղտնաբառը պետք է լինի առնվազն 8 նիշ, պարունակի առնվազն մեկ մեծատառ և մեկ հատուկ նշան։"
 }
+
 
