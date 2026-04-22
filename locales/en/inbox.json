@@ -1,24 +1,24 @@
 {
   "InboxTitle": "Inbox",
   "InboxTitleMessages": "Messages",
-  "InboxTitleGameInvites": "Game Invites",
+  "InboxTitleGameInvites": "Event Invites",
   "InboxTitleFriendRequests": "Friend Requests",
 
   "InboxMessagesEmpty": "You have no messages yet.",
 
-  "InboxGameInvitesEmpty": "No game invites yet.",
+  "InboxGameInvitesEmpty": "No Event invites",
   "InboxAccept": "Accept",
   "InboxDecline": "Decline",
   "InboxAcceptedTitle": "Accepted",
-  "InboxAcceptedMessage": "You joined the game!",
+  "InboxAcceptedMessage": "You’re In!",
   "InboxDeclinedTitle": "Declined",
-  "InboxDeclinedMessage": "Invite removed.",
+  "InboxDeclinedMessage": "Invite Removed.",
   "InboxInviteCardTappedTitle": "Invite",
   "InboxInviteCardTappedMessage": "Navigate to detailed view of {{sport}}",
 
-  "InboxFriendRequestsEmpty": "No friend requests yet.",
-  "InboxFriendAcceptedMessage": "Friend request accepted.",
-  "InboxFriendDeclinedMessage": "Friend request declined.",
+  "InboxFriendRequestsEmpty": "No Requests Yet",
+  "InboxFriendAcceptedMessage": "Request Accepted",
+  "InboxFriendDeclinedMessage": "Request Declined",
 
   "ChatInputPlaceholder": "Type a message..."
 }
