@@ -84,5 +84,24 @@
   "Sep": "սեպ",
   "Oct": "հոկ",
   "Nov": "նոյ",
-  "Dec": "դեկ"
+  "Dec": "դեկ",
+
+  "morning": "Morning",
+  "afternoon": "Afternoon",
+  "evening": "Evening",
+  "latenight": "Latenight",
+
+"DiscoverByRadius": "Բացահայտել շառավղով",
+"DiscoverByRadiusDesc": "Ցույց է տալիս խաղերը ձեր ընթացիկ գտնվելու վայրին մոտ՝ ըստ հեռավորության շառավղի։",
+"DiscoverByRegion": "Բացահայտել տարածաշրջանով",
+"DiscoverByRegionDesc": "Ցույց է տալիս խաղերը ձեր ընտրած երկրից և տարածաշրջանից՝ ձեր կենդանի տեղադրության փոխարեն։",
+"DiscoverModeTitle": "Բացահայտման ռեժիմ",
+"ResetDiscoverMode": "Վերականգնել",
+"CancelDiscoverModeButton": "Չեղարկել",
+"ApplyDiscoverModeButton": "Կիրառել",
+"AllowLocationTitle": "Թույլատրե՞լ տեղադրության հասանելիությունը",
+"AllowLocationDiscoverModeMessage": "Շառավղով խաղեր բացահայտելու համար Sportmate-ին անհրաժեշտ է հասանելիություն ձեր տեղադրությանը հավելվածն օգտագործելիս։",
+"DiscoveryLoading": "Բեռնվում է...",
+"AllowLocationButton": "Թույլատրել",
+"DiscoveryNotNow": "Ոչ հիմա",
 }
