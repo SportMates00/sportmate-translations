@@ -84,5 +84,24 @@
   "Sep": "сен",
   "Oct": "окт",
   "Nov": "ноя",
-  "Dec": "дек"
+  "Dec": "дек",
+
+  "morning": "Morning",
+  "afternoon": "Afternoon",
+  "evening": "Evening",
+  "latenight": "Latenight",
+
+"DiscoverByRadius": "По радиусу",
+"DiscoverByRadiusDesc": "Показывает игры рядом с вашим текущим местоположением по радиусу расстояния.",
+"DiscoverByRegion": "По региону",
+"DiscoverByRegionDesc": "Показывает игры из выбранной вами страны и региона вместо текущего местоположения.",
+"DiscoverModeTitle": "Режим поиска",
+"ResetDiscoverMode": "Сбросить",
+"CancelDiscoverModeButton": "Отмена",
+"ApplyDiscoverModeButton": "Применить",
+"AllowLocationTitle": "Разрешить доступ к геолокации?",
+"AllowLocationDiscoverModeMessage": "Чтобы находить игры по радиусу, Sportmate нужен доступ к вашей геолокации во время использования приложения.",
+"DiscoveryLoading": "Загрузка...",
+"AllowLocationButton": "Разрешить",
+"DiscoveryNotNow": "Не сейчас",
 }
