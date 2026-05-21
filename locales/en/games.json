@@ -50,7 +50,7 @@
   "GameDetailsNotes": "Notes",
   "GameDetailsVerifiedOnly": "Verified Users Only",
   "GameDetailsCourtBooked": "Booked",
-  "GameDetailsEligibility": "Eligiblity",
+  "GameDetailsEligibility": "Eligibility",
   "GameDetailsCourtNotBooked": "Not booked",
   "GameDetailsOpenEveryone": "Open to Everyone",
   "GameDetailsNoNotes": "No Notes",
@@ -87,7 +87,7 @@
   "AllowLocationDiscoverModeMessage": "To discover games by radius, Sportmate needs access to your location while using the app.",
   "DiscoveryLoading": "Loading...",
   "AllowLocationButton": "Allow access",
-  "DiscoveryNotNow": "Not now",
+  "DiscoveryNotNow": "Not now"
   
   
   
