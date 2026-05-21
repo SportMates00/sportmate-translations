@@ -1,12 +1,4 @@
 {
-  "SortGamesEvents": "Sort Events",
-  "ClearSortFilterGames": "Clear",
-  "CancelSortGamesButton": "Cancel",
-  "DoneSortGamesButton": "Done",
-  "SortGamesbyDate": "Date",
-  "SortGamesbyPopularity": "Popularity",
-  "SortGamesbyDistance": "Distance",
-
   "FilterEventsTitle": "Filter Events",
   "FilterClearButton": "Clear",
   "FilterSkillLevel": "Skill Level",
@@ -81,5 +73,24 @@
   "morning": "Morning",
   "afternoon": "Afternoon",
   "evening": "Evening",
-  "latenight": "Latenight"
+  "latenight": "Latenight",
+
+  "DiscoverByRadius": "Discover by radius",
+  "DiscoverByRadiusDesc": "Shows games near your current location using distance radius.",
+  "DiscoverByRegion": "Discover by region",
+  "DiscoverByRegionDesc": "Shows games from your selected country and region instead of your live location.",
+  "DiscoverModeTitle": "Discover Mode",
+  "ResetDiscoverMode": "Reset",
+  "CancelDiscoverModeButton": "Cancel",
+  "ApplyDiscoverModeButton": "Apply",
+  "AllowLocationTitle": "Allow location access?",
+  "AllowLocationDiscoverModeMessage": "To discover games by radius, Sportmate needs access to your location while using the app.",
+  "DiscoveryLoading": "Loading...",
+  "AllowLocationButton": "Allow access",
+  "DiscoveryNotNow": "Not now",
+  
+  
+  
+  
+  
 }
