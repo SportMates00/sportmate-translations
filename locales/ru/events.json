@@ -1,13 +1,5 @@
 {
-  "SortGamesEvents": "Сортировать мероприятия",
-  "ClearSortFilterGames": "Очистить",
-  "CancelSortGamesButton": "Отмена",
-  "DoneSortGamesButton": "Готово",
-  "SortGamesbyDate": "Дата",
-  "SortGamesbyPopularity": "Популярность",
-  "SortGamesbyDistance": "Расстояние",
-
- "FilterEventsTitle": "Фильтр событий",
+"FilterEventsTitle": "Фильтр событий",
 "FilterClearButton": "Очистить",
 "FilterSkillLevel": "Уровень навыков",
 "FilterMatchLevel": "Уровень игры",
