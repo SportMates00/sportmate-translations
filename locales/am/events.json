@@ -1,13 +1,5 @@
 {
-       "SortGamesEvents": "Դասակարգել միջոցառումները",
-  "ClearSortFilterGames": "Մաքրել",
-  "CancelSortGamesButton": "Չեղարկել",
-  "DoneSortGamesButton": "Պատրաստ է",
-  "SortGamesbyDate": "Ամսաթիվ",
-  "SortGamesbyPopularity": "Հանրաճանաչություն",
-  "SortGamesbyDistance": "Հեռավորություն",
-
-  "FilterEventsTitle": "Ֆիլտրել միջոցառումները",
+"FilterEventsTitle": "Ֆիլտրել միջոցառումները",
 "FilterClearButton": "Մաքրել",
 "FilterSkillLevel": "Հմտության մակարդակ",
 "FilterMatchLevel": "Խաղի մակարդակ",
