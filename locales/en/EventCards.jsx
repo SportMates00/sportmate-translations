@@ -1,0 +1,10 @@
+{
+  "VerificationRequired": "Verification required",
+  "VerifiedOnlyEvent": "This event is only available to verified users.",
+  "JoinEventFailed": "Join Event Failed",
+  "JoiningEvent": "Joining Event",
+  "AskToJoin": "Ask To Join",
+  "JoinEvent": "Join Event",
+  "EventSomethingWentWrong": "Something Went Wrong",
+  "EventsViewDetails": "View Details"
+}
