@@ -1,0 +1,23 @@
+{
+  "Male": "Male",
+  "Female": "Female",
+  "Other": "Other",
+  "FilterDateToday": "Today",
+  "FilterDateThisWeek": "This Week",
+  "FilterDateThisMonth": "This Month",
+  "SelectRegion": "Select location",
+  "FilterSkillLevel": "Skill Level",
+  "FilterMatchLevel": "Match Level",
+  "FilterLocation": "Location",
+  "RadiusInKm": "Radius in KM",
+  "Gender": "Gender",
+  "Age": "Age",
+  "UnlockFilters": "Unlock all filters",
+  "FilterGetPremium": "Get Sportmate Premium",
+  "FilterDate": "Date",
+  "FilterTime": "Time",
+  "FilterBy": "Filter By",
+  "FilterClearButton": "Clear",
+  "FilterCancelButton": "Cancel",
+  "FilterApplyButton": "Apply"
+}
