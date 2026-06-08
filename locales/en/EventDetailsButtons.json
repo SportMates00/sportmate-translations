@@ -30,4 +30,9 @@
   "EventDetailsChat": "Chat",
   "CancelReasonTitle": "What is the reason?",
   "ConfirmCancelEventMessage": "Are you sure you want to cancel this event?"
+  "CancelRequest": "Cancel Request",
+  "Cancelling": "Cancelling",
+  "CancelRequestFailed": "Failed to cancel request",
+  "RequestCancelled": "Request Cancelled",
+  "RequestCancelledSuccessMessage": "Your join request has been cancelled successfully."
 }
