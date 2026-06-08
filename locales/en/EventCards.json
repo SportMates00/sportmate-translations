@@ -6,5 +6,7 @@
   "AskToJoin": "Ask To Join",
   "JoinEvent": "Join Event",
   "EventSomethingWentWrong": "Something Went Wrong",
-  "EventsViewDetails": "View Details"
+  "EventsViewDetails": "View Details",
+  "EvenCardsNoEvents": "No Events Found",
+  "EventCardsNoEventMessage": "Try changing your categories or filter options."
 }
