@@ -1,0 +1,12 @@
+{
+  "MyEventsOpen": "Open",
+  "MyEventsCompleted": "Completed",
+  "MyEventsCancelled":"Cancelled",
+  "MyEventsNoOpen": "No open events",
+  "MyEventsNoCompleted": "No completed events",
+  "MyEventsNoCancelled":"No cancelled events",
+  "MyEventsNoOpenMessage": "Create or Join an event to see it here:",
+  "MyEventsNoCompletedMessage": "Completed events will appear here:",
+  "MyEventsNoCancelledMessage":"Cancelled events will appear here:",
+  "MyEventsEventNeedsAction": "Event Needs Action!"
+}
