@@ -1,0 +1,45 @@
+{
+   "CoachFilterAll": "All",
+   "SelectRegion": "Select Region",
+
+   "CoachDataFailed": "Failed to load coach data."
+   "LoginToContinue": "Please login to continue.",
+   "UnknownCoachStatus": "Unknown coach status.",
+
+   "CoachSwitch": "Switch to player account?",
+   "SwitchAccountMessage": "You will return to your normal Sportmate account.",
+   "CoachHeaderCancel": "Cancel",
+   "CoachHeaderSwitch": "Switch",
+
+   "CoachSubscMessage": "Your coach subscription is inactive. Reactivate your package to access this coach feature."
+   "ReactivatePackage": "Reactivate package",
+
+  "CoachApprovedTitle": "You’re approved",
+  "CoachRejectedTitle": "Request rejected",
+  "CoachPendingTitle": "Request under review",
+  "CoachApprovedMessage": "Your coach account has been approved. You can now switch to your coach profile.",
+  "CoachRejectedMessage": "Your coach request was not approved. You can update your information and submit again.",
+  "CoachPendingMessage": "Our team is reviewing your coach profile. You’ll be notified once your request is approved.",
+  "NotProvided": "Not provided",
+  "CoachApplicationSummary": "Application summary",
+  "CoachSport": "Sport",
+  "CoachRegion": "Region",
+  "CoachPrice": "Price",
+  "CoachVenues": "Venues",
+  "CoachReviewProgress": "Review progress",
+  "CoachSubmitted": "Submitted",
+  "CoachSubmittedText": "Your coach request was received.",
+  "CoachSignupRejected": "Rejected",
+  "CoachUnderReview": "Under review",
+  "CoachUnderReviewText": "Sportmate is checking your information.",
+  "CoachDecision": "Decision",
+  "CoachDecisionPending": "Approval decision is pending.",
+  "CoachDecisionApproved": "Your coach account is ready.",
+  "CoachDecisionRejected": "You can update and submit again.",
+  "SwitchToCoach": "Switch to coach",
+  "SubmitAgain": "Submit again",
+  "CoachSignupBack": "Back",
+  "CoachSignupEditRequest": "Edit Request",
+  "CoachSignupEdit": "Edit"
+
+}

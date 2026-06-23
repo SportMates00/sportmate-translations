@@ -1,0 +1,22 @@
+{
+  "EventOK": "Ok",
+  "EventRejected": "Rejected",
+  "NoReasonProvided": "No reason provided.",
+  "EventAccepted": "Accepted",
+  "InviteAccepted": "You accepted the invitation.",
+  "EventCardError": "Error",
+  "SomethingWentWrong": "Something went wrong.",
+  "InviteRejected": "You rejected the invitation.",
+  "InviteReject": "Reject",
+  "InviteAccept": "Accept",
+  "ViewDetails": "View details",
+  "EventJoined": "Joined",
+  "EventPending": "Pending",
+  "ViewReason": "View reason",
+  "EventHost": "Host",
+  "EventPlayed": "Played",
+  "EventHosted": "Hosted",
+  "DidNotJoin": "Did not join",
+  "RequestExpired": "Request expired",
+  "EventCancelled": "Cancelled"
+}

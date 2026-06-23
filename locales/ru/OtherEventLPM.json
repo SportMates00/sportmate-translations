@@ -1,0 +1,12 @@
+{
+  "PermissionNeeded": "Permission needed",
+  "WeNeedLocation": "Please allow location access to pick a location on the map.",
+  "NotFound": "Not found",
+  "AddressNotFound": "We couldn't find that address. Try a simpler query.",
+  "OtherEventLPMError": "Error",
+  "SearchFailed": "Search failed. Please try again.",
+  "PickLocation": "Pick location",
+  "SearchAddress": "Search address or place",
+  "PickLocationHint": "Search a place or drag the pin, then confirm.",
+  "ConfirmLocation": "Confirm location"
+}
