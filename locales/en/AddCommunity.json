@@ -30,5 +30,8 @@
   "AddCommSubmitting": "Submitting...",
   "AddCommSubmit": "Submit request",
   "AddCommFooterNote": "By submitting, you confirm the information is accurate. We may contact you if we need more details.",
-  "AddCommPopupOk": "OK"
+  "AddCommPopupOk": "OK",
+  
+  "AddCommOpeningTimes": "Opening Times"
+
 }
