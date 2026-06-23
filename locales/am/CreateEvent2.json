@@ -1,0 +1,29 @@
+{
+  "CreateTwoToday": "Today",
+  "CreateTwoTomorrow": "Tomorrow",
+  "VerifyRequiredTitleCreateTwo" : "Verification required",
+  "VerifyRequiredBodyCreateTwo" : "You need to verify your profile first to enable Verified Users Only.",
+  "VerifyNowCreateTwo": "Verify now";
+  "CancelCreateTwo": "Cancel";
+  "CourtBookingUnavailable": "Court booking unavailable",
+  "CourtBookingFlexibleMessage": "You cannot mark the court as booked when the event time is flexible. Please select a specific day and time first.",
+  "OKCreateTwo": "Ok",
+  "AllRequirementsMet": "All required fields are completed." ,
+  "MatchLevel": " Skill Level",
+  "MaximumPeople": "Maximum people",
+  "MaxParticipants": "Max Participants",
+  "MaxPeoplePlaceholder": "How many people can join the event?",
+  "VerifiedUsersOnly": "Verified Users Only",
+  "CreateTwoCourtBooked": "Court Booked",
+  "When": "When",
+  "PickADay": "Pick a Day",
+  "ImFlexible": "Im Flexible",
+  "CreateTwoTime": "Time",
+  "AnyTime": "Any Time",
+  "PickADayFirst": "Pick a day first to choose time.",
+  "NoSlotsLeftToday": "No time slots left for today. Please pick another day.",
+  "ExactTime": "Exact Time",
+  "TimeRanges": "Time Ranges",
+  "ChooseTimeMode": "Choose a time option to continue.",
+  "AllRequirementsMet": "All Requirment Met"
+}

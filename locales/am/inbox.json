@@ -1,0 +1,24 @@
+{
+     "InboxTitle": "Մուտքային",
+  "InboxTitleMessages": "Հաղորդագրություններ",
+  "InboxTitleGameInvites": "Խաղի հրավերներ",
+  "InboxTitleFriendRequests": "Ընկերության հարցումներ",
+
+  "InboxMessagesEmpty": "Դուք դեռ հաղորդագրություններ չունեք։",
+
+  "InboxGameInvitesEmpty": "Խաղի հրավերներ դեռ չկան։",
+  "InboxAccept": "Ընդունել",
+  "InboxDecline": "Մերժել",
+  "InboxAcceptedTitle": "Ընդունված է",
+  "InboxAcceptedMessage": "Դուք միացաք խաղին։",
+  "InboxDeclinedTitle": "Մերժված է",
+  "InboxDeclinedMessage": "Հրավերը հեռացվեց։",
+  "InboxInviteCardTappedTitle": "Հրավեր",
+  "InboxInviteCardTappedMessage": "Անցնել {{sport}}-ի մանրամասներին",
+
+  "InboxFriendRequestsEmpty": "Ընկերության հարցումներ դեռ չկան։",
+  "InboxFriendAcceptedMessage": "Ընկերության հարցումն ընդունվել է։",
+  "InboxFriendDeclinedMessage": "Ընկերության հարցումը մերժվել է։",
+
+  "ChatInputPlaceholder": "Գրեք հաղորդագրություն..."
+}
