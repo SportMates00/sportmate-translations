@@ -9,5 +9,26 @@
   "AllCommCreateGameHere": "Create Game Here",
   "AllCommJoinCommunity": "Join Community",
   "AllCommJoined": "Joined",
-  "AllCommViewMore": "View more"
+  "AllCommViewMore": "View more",
+
+  "CommAllCommunities": "All Communities",
+  "CommMyCommunities": "My Communities",
+
+  "CommCatPMChooseCategory": "Choose a category",
+  "CommCatPMChooseCategoryForCommunityEvent": "Select what you want to create at this community",
+  "CommCatPMActivity": "Activity",
+  "CommCatPMSport": "Sport",
+  "CommCatPMCancel": "Cancel",
+
+  "CommFilterSports": "Sports",
+  "CommFilterActivities": "Activities",
+  "CommFilterSelectRegion": "Select region",
+  "CommFilterAll": "All",
+
+  "CommMapExploreMap": "Explore Map",
+  "CommMapLoading": "Loading...",
+  "CommMapCommunities": "Communities",
+  "CommMapLoadingMapCommunities": "Loading communities on the map..."
+  "CommMapCommunity": "Community",
+  "CommMapViewCommunity": "View Community"
 }
