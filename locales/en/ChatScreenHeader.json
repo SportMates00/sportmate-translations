@@ -1,0 +1,16 @@
+{
+  "CSHeaderChatFallback": "Chat",
+  "CSHeaderUnmuteChat": "Unmute chat",
+  "CSHeaderMuteChat": "Mute chat",
+  "CSHeaderReported": "Reported",
+  "CSHeaderReportPlayer": "Report player",
+  "CSHeaderReport": "Report",
+  "CSHeaderRemoveFriend": "Remove friend",
+  "CSHeaderCancelFriendRequest": "Cancel friend request",
+  "CSHeaderAcceptFriendRequest": "Accept friend request",
+  "CSHeaderRejectFriendRequest": "Reject friend request",
+  "CSHeaderAddFriend": "Add friend",
+  "CSHeaderBlockPlayer": "Block player",
+  "CSHeaderDeleteChat": "Delete chat",
+  "CSHeaderGroupInfo": "Group info"
+}
