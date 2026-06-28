@@ -1,0 +1,24 @@
+{
+  "CGDetailsMeFallback": "Me",
+  "CGDetailsGroupInitial": "G",
+  "CGDetailsTitle": "Create group",
+  "CGDetailsSubtitle": "Choose a name and a photo. You can change it later.",
+  "CGDetailsPhotoTitle": "Group photo",
+  "CGDetailsTapToUpload": "Tap to upload",
+  "CGDetailsGroupName": "Group name",
+  "CGDetailsGroupNamePlaceholder": "Komitas Football Squad",
+  "CGDetailsMembers": "Members",
+  "CGDetailsMe": "Me",
+  "CGDetailsUserFallback": "User",
+  "CGDetailsPhotoPopupTitle": "Group photo",
+  "CGDetailsPhotoPopupMessage": "Photo upload is not connected here yet. For now, groups can be created without a photo.",
+  "CGDetailsErrorTitle": "Error",
+  "CGDetailsCreateFailed": "Could not create group.",
+  "CGDetailsCreateBtn": "Create group",
+
+  "InboxTitleMessages": "Messages",
+  "InboxTitleFriendRequests": "Friend requests",
+  "InboxTitleJoinRequests": "Join Requests",
+  "InboxTitle": "Inbox"
+  
+}
