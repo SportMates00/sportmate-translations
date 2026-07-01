@@ -21,5 +21,9 @@
   "EditProfileSelectNationality": "Select nationality",
   "EditProfileAgeAndGender": "Age & Gender",
   "EditProfileAbout": "About",
-  "EditProfileMyFreeTime": "My Free Time"
+  "EditProfileMyFreeTime": "My Free Time",
+
+  "EditProfileLSCountry" : "Country",
+  "EditProfileLSSelectCountry": "Select Country",
+  "EditProfileLSSelectRegion": "Select Region"
 }
