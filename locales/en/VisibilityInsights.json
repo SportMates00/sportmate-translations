@@ -1,0 +1,21 @@
+{
+  "VisibilityInsightsHeader": "Visibility Insights",
+  "VisibilityInsightsTitle": "See how players discover you",
+  "VisibilityInsightsSubtitle": "Track profile reach, event discovery, viewers, interests, and regions.",
+  "VisibilityInsightsUnlockTitle": "Unlock visibility insights",
+  "VisibilityInsightsUnlockSubtitle": "Upgrade to Premium to see your real visibility data.",
+  "VisibilityInsightsLifetimeViewers": "Lifetime Viewers",
+  "VisibilityInsightsEventViews": "Event Views",
+  "VisibilityInsightsTotalDiscovery": "Total Discovery",
+  "VisibilityInsightsJoinConversions": "Join Conversions",
+  "VisibilityInsightsFromEvents": "From Events",
+  "VisibilityInsightsLatestActivity": "Latest Activity",
+  "VisibilityInsightsWeeklyDiscovery": "Weekly Discovery",
+  "VisibilityInsightsDiscoverySources": "Discovery Sources",
+  "VisibilityInsightsTopSignals": "Top Visibility Signals",
+  "VisibilityInsightsRecentViewers": "Recent Profile Viewers",
+  "VisibilityInsightsPremiumTitle": "Premium Required",
+  "VisibilityInsightsPremiumMessage": "Upgrade to Premium to unlock detailed visibility insights, profile viewers, discovery sources, and event analytics.",
+  "VisibilityInsightsGetPremium": "Get Premium",
+  "VisibilityInsightsCancel": "Cancel"
+}
