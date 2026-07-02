@@ -1,0 +1,18 @@
+{
+  "QScheduleTitle": "Availability",
+  "QScheduleSubtitle": "Select the boxes that match your free time.",
+  "QScheduleNext": "Next",
+  "QScheduleError": "Error",
+  "QScheduleOneSlot": "Please select at least one time slot.",
+  "QScheduleSomethingWentWrong": "Something went wrong. Please try again.",
+  "QScheduleMon": "Mon",
+  "QScheduleTue": "Tue",
+  "QScheduleWed": "Wed",
+  "QScheduleThu": "Thu",
+  "QScheduleFri": "Fri",
+  "QScheduleSat": "Sat",
+  "QScheduleSun": "Sun",
+  "QScheduleMor": "Morning",
+  "QScheduleAft": "Afternoon",
+  "QScheduleEve": "Evening"
+}
