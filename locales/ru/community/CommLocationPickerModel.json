@@ -1,0 +1,13 @@
+{
+  "CommLocPickerTitle": "Pick community location",
+  "CommLocPickerSearchPlaceholder": "Search community address or place",
+  "CommLocPickerHint": "Search the community address, tap the map, or drag the pin, then confirm.",
+  "CommLocPickerConfirm": "Confirm location",
+  "CommLocPickerUseMyLocation": "Use my location",
+  "CommLocPickerNotFoundTitle": "Not found",
+  "CommLocPickerNotFoundText": "We couldn't find that address. Try a simpler query.",
+  "CommLocPickerErrorTitle": "Error",
+  "CommLocPickerSearchFailed": "Search failed. Please try again.",
+  "CommLocPickerPermissionTitle": "Permission needed",
+  "CommLocPickerPermissionText": "Please allow location access to use your current location and search accurately."
+}
