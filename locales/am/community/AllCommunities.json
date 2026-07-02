@@ -1,0 +1,34 @@
+{
+  "AllCommNoCommunitiesForCategory": "No communities for {{category}} yet.",
+  "AllCommNoCommunitiesYet": "No communities found in this region yet.",
+  "AllCommCreateFirstForFilter": "Be the first to create a community for this filter in your area.",
+  "AllCommCreateFirst": "Start the first community in your area and let other players join.",
+  "AllCommAddCommunity": "Add Community",
+  "AllCommCommunityFallback": "Community",
+  "AllCommVenueFallback": "Venue",
+  "AllCommCreateGameHere": "Create Game Here",
+  "AllCommJoinCommunity": "Join Community",
+  "AllCommJoined": "Joined",
+  "AllCommViewMore": "View more",
+
+  "CommAllCommunities": "All Communities",
+  "CommMyCommunities": "My Communities",
+
+  "CommCatPMChooseCategory": "Choose a category",
+  "CommCatPMChooseCategoryForCommunityEvent": "Select what you want to create at this community",
+  "CommCatPMActivity": "Activity",
+  "CommCatPMSport": "Sport",
+  "CommCatPMCancel": "Cancel",
+
+  "CommFilterSports": "Sports",
+  "CommFilterActivities": "Activities",
+  "CommFilterSelectRegion": "Select region",
+  "CommFilterAll": "All",
+
+  "CommMapExploreMap": "Explore Map",
+  "CommMapLoading": "Loading...",
+  "CommMapCommunities": "Communities",
+  "CommMapLoadingMapCommunities": "Loading communities on the map..."
+  "CommMapCommunity": "Community",
+  "CommMapViewCommunity": "View Community"
+}

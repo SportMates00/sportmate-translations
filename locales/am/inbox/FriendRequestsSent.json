@@ -1,0 +1,13 @@
+{
+  "FRSentCancelledTitle": "Cancelled",
+  "FRSentFriendCancelMessage": "Friend request cancelled.",
+  "FRSentErrorTitle": "Error",
+  "FRSentFriendCancelFailed": "Could not cancel friend request.",
+  "FRSentRequestsEmpty": "No sent requests.",
+  "FRSentUserFallback": "User",
+  "FRSentRequestSent": "Request sent",
+  "FRSentCancelRequest": "Cancel request",
+
+  "FRTabsRequestsReceived": "Requests Received",
+  "FRTabRequestsSent": "Requests Sent"
+}
