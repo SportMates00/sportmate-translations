@@ -1,0 +1,10 @@
+{
+  "ChatScreenChatNotFound": "Chat not found (missing chatId)",
+  "ChatScreenUserFallback": "User",
+  "ChatScreenChatFallback": "Chat",
+  "ChatScreenSharedItem": "Shared item",
+  "ChatScreenReplying": "Replying",
+  "ChatScreenNotMember": "You are no longer a member of this chat.",
+  "ChatScreenTypeMessage": "Type a message...",
+  "ChatScreenNotMemberPlaceholder": "You are no longer a member of this chat."
+}
