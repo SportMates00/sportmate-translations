@@ -1,0 +1,14 @@
+{
+  "FRReceivedAcceptedTitle": "Accepted",
+  "FRReceivedFriendAcceptedMessage": "Friend request accepted.",
+  "FRReceivedErrorTitle": "Error",
+  "FRReceivedFriendAcceptFailed": "Could not accept friend request.",
+  "FRReceivedDeclinedTitle": "Declined",
+  "FRReceivedFriendDeclinedMessage": "Friend request declined.",
+  "FRReceivedFriendDeclineFailed": "Could not decline friend request.",
+  "FRReceivedEmpty": "No friend requests.",
+  "FRReceivedUserFallback": "User",
+  "FRReceivedWantsToAddYou": "Wants to add you",
+  "FRReceivedReject": "Reject",
+  "FRReceivedAccept": "Accept"
+}
