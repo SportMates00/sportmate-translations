@@ -11,7 +11,7 @@
    "CoachHeaderCancel": "Cancel",
    "CoachHeaderSwitch": "Switch",
 
-   "CoachSubscMessage": "Your coach subscription is inactive. Reactivate your package to access this coach feature."
+   "CoachSubscMessage": "Your coach subscription is inactive. Reactivate your package to access this coach feature.",
    "ReactivatePackage": "Reactivate package",
 
   "CoachApprovedTitle": "You’re approved",
