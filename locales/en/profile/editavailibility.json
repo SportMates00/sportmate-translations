@@ -1,0 +1,12 @@
+{
+  "EditAvailabilityMon": "Mon",
+  "EditAvailabilityTue": "Tue",
+  "EditAvailabilityWed": "Wed",
+  "EditAvailabilityThu": "Thu",
+  "EditAvailabilityFri": "Fri",
+  "EditAvailabilitySat": "Sat",
+  "EditAvailabilitySun": "Sun",
+  "EditAvailabilityMor": "Mor",
+  "EditAvailabilityAft": "Aft",
+  "EditAvailabilityEve": "Eve"
+}

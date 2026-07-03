@@ -1,0 +1,15 @@
+{
+  "CommDetailsCommunity": "Community",
+  "CommDetailsJoinFailed": "Join failed",
+  "CommDetailsCouldNotJoinCommunity": "Could not join this community.",
+  "CommDetailsLeaveFailed": "Leave failed",
+  "CommDetailsCouldNotLeaveCommunity": "Could not leave this community.",
+  "CommDetailsNoMembersJoined": "No members have joined yet",
+  "CommDetailsAll": "All",
+  "CommDetailsChat": "Chat",
+  "CommDetailsJoinCommunity": "Join Community",
+  "CommDetailsLeaveCommunity": "Leave Community",
+  "CommDetailsHome": "Home",
+  "CommDetailsLeaderboard": "Leaderboard",
+  "CommDetailsMatches": "Matches",
+}
