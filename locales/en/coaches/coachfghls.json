@@ -2,7 +2,7 @@
    "CoachFilterAll": "All",
    "SelectRegion": "Select Region",
 
-   "CoachDataFailed": "Failed to load coach data."
+   "CoachDataFailed": "Failed to load coach data.",
    "LoginToContinue": "Please login to continue.",
    "UnknownCoachStatus": "Unknown coach status.",
 
