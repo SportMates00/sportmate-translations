@@ -7,6 +7,6 @@
   "JoinEvent": "Join Event",
   "EventSomethingWentWrong": "Something Went Wrong",
   "EventsViewDetails": "View Details",
-  "EvenCardsNoEvents": "No Events Found",
-  "EventCardsNoEventMessage": "Try changing your categories or filter options."
+  "EventCardsNoEvents": "No Events Found",
+  "EventCardsNoEventsMessage": "Try changing your categories or filter options."
 }
