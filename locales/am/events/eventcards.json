@@ -13,5 +13,11 @@
   "EventsAllEvents": "All Events",
   "EventsMyEvents": "My Events",
   "EventsCreateEvent": "Create Event",
-  "CancelEventModal": "Cancel"
+  "CancelEventModal": "Cancel",
+  "EventMatch": "Match",
+  "CreateSportsMatchMessage": "Create a sports match and invite others to join.",
+  "EventActivity": "Activity",
+  "CreateActivityMessage": "Create an activity and invite others to join.",
+  "EventRequestEvent": "Request Custom Event",
+  "SubmitCustomEvent": "Submit a custom event request for review."
 }
