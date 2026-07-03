@@ -1,0 +1,14 @@
+{
+  "CommHomeSupportedCategories": "Supported Categories",
+  "CommHomeAbout": "About",
+  "CommHomeShowLess": "Show less",
+  "CommHomeReadMore": "Read more",
+  "CommHomeLocation": "Location",
+  "CommHomeOpen": "Open",
+  "CommHomeLocationNumber": "Location {{number}}",
+  "CommHomePhone": "Phone",
+  "CommHomePricing": "Pricing",
+  "CommHomeOpeningTimes": "Opening times",
+  "CommHomeSuggestEdit": "Suggest an edit",
+  "CommHomeLocationFallback": "Location"
+}

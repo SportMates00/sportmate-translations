@@ -1,0 +1,30 @@
+{
+  "NotifCardAccount": "Account",
+  "NotifCardRequests": "Requests",
+  "NotifCardSubscription": "Subscription",
+  "NotifCardAnnouncement": "Announcement",
+  "NotifCardEvents": "Events",
+  "NotifCardSocial": "Social",
+  "NotifCardReports": "Reports",
+  "NotifCardApp": "App",
+  "NotifCardNotification": "Notification",
+
+
+  "NotificationsJustNow": "Just now",
+  "NotificationsMinAgo": "{{count}} min ago",
+  "NotificationsHourAgo": "{{count}} hour ago",
+  "NotificationsHourAgo_plural": "{{count}} hours ago",
+  "NotificationsYesterday": "Yesterday",
+  "NotificationsDaysAgo": "{{count}} days ago",
+  "NotificationsLastWeek": "Last week",
+  "NotificationsClearAllTitle": "Clear notifications?",
+  "NotificationsClearAllMessage": "This will remove all notifications from this list.",
+  "NotificationsClearAllConfirm": "Clear all",
+  "NotificationsCancel": "Cancel",
+  "NotificationsEmptyTitle": "No notifications",
+  "NotificationsEmptyText": "Important updates about your account, requests, subscriptions, and Sportmate news will appear here.",
+  "NotificationsClearAll": "Clear All",
+  "NotificationsMarkAllRead": "Mark All Read",
+  "NotificationsPopupOk": "OK"
+
+}

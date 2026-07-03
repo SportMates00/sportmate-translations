@@ -1,0 +1,15 @@
+{
+  "DiscoverByRadius": "Discover by radius",
+  "DiscoverByRadiusDesc": "Shows games near your current location using distance radius.",
+  "DiscoverByRegion": "Discover by region",
+  "DiscoverByRegionDesc": "Shows games from your selected country and region instead of your live location.",
+  "DiscoverModeTitle": "Discover Mode",
+  "ResetDiscoverMode": "Reset",
+  "CancelDiscoverModeButton": "Cancel",
+  "ApplyDiscoverModeButton": "Apply",
+  "AllowLocationTitle": "Allow location access?",
+  "AllowLocationDiscoverModeMessage": "To discover games by radius, Sportmate needs access to your location while using the app.",
+  "DiscoveryLoading": "Loading...",
+  "AllowLocationButton": "Allow access",
+  "DiscoveryNotNow": "Not now"
+}
