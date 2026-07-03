@@ -9,5 +9,9 @@
   "EventsViewDetails": "View Details",
   "EventCardsNoEvents": "No Events Found",
   "EventCardsNoEventsMessage": "Try changing your categories or filter options.",
-  "EventsCreateEvent": "Create Event"
+
+  "EventsAllEvents": "All Events",
+  "EventsMyEvents": "My Events",
+  "EventsCreateEvent": "Create Event",
+  
 }
