@@ -8,6 +8,6 @@
   "FRSentRequestSent": "Request sent",
   "FRSentCancelRequest": "Cancel request",
 
-  "FRTabsRequestsReceived": "Requests Received",
+  "FRTabRequestsReceived": "Requests Received",
   "FRTabRequestsSent": "Requests Sent"
 }
