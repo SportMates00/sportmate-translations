@@ -3,8 +3,8 @@
   "CreateTwoTomorrow": "Tomorrow",
   "VerifyRequiredTitleCreateTwo" : "Verification required",
   "VerifyRequiredBodyCreateTwo" : "You need to verify your profile first to enable Verified Users Only.",
-  "VerifyNowCreateTwo": "Verify now";
-  "CancelCreateTwo": "Cancel";
+  "VerifyNowCreateTwo": "Verify now",
+  "CancelCreateTwo": "Cancel",
   "CourtBookingUnavailable": "Court booking unavailable",
   "CourtBookingFlexibleMessage": "You cannot mark the court as booked when the event time is flexible. Please select a specific day and time first.",
   "OKCreateTwo": "Ok",
