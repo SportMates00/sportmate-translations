@@ -1,5 +1,6 @@
 {
-  "CommMatchesListTitle": "Matches",
-  "CommMatchesListNoUpcoming": "No upcoming matches yet.",
-  "CommMatchesListEmptySub": "Once matches are created for this community, they will appear here."
+  "CommMatchesListTitle": "Խաղեր",
+  "CommMatchesListNoUpcoming": "Առաջիկա խաղեր դեռ չկան։",
+  "CommMatchesListEmptySub": "Երբ այս համայնքի համար խաղեր ստեղծվեն, դրանք կհայտնվեն այստեղ։"
 }
+
