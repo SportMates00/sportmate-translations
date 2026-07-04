@@ -1,12 +1,12 @@
 { 
-  "CoachPersonalInfo": "Personal Info",
-  "UploadProfilePhoto": "Upload profile photo",
-  "CoachFirstName": "First Name",
-  "CoachLastName": "Last name",
-  "CoachEmail": "Email",
-  "CoachPhoneNumber": "Phone Number",
-  "PhoneNumberPlaceholder": "Phone Number",
-  "CoachAbout": "About",
-  "AboutCoachPlaceholder": "Tell players about your coaching experience...",
-  "CoachSelectPhoneCode": "Select phone code"
+  "CoachPersonalInfo": "Անձնական տվյալներ",
+  "UploadProfilePhoto": "Վերբեռնել պրոֆիլի լուսանկար",
+  "CoachFirstName": "Անուն",
+  "CoachLastName": "Ազգանուն",
+  "CoachEmail": "Էլ․ հասցե",
+  "CoachPhoneNumber": "Հեռախոսահամար",
+  "PhoneNumberPlaceholder": "Հեռախոսահամար",
+  "CoachAbout": "Իմ մասին",
+  "AboutCoachPlaceholder": "Պատմեք խաղացողներին ձեր մարզչական փորձի մասին...",
+  "CoachSelectPhoneCode": "Ընտրել հեռախոսային կոդ"
 }
