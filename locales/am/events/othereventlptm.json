@@ -1,13 +1,13 @@
 {
-  "OtherEventLPMTitle": "Pick location",
-  "OtherEventLPMSearchPlaceholder": "Search address or place",
-  "OtherEventLPMHint": "Search a place, tap the map, or drag the pin, then confirm.",
-  "OtherEventLPMConfirm": "Confirm location",
-  "OtherEventLPMUseMyLocation": "Use my location",
-  "OtherEventLPMNotFoundTitle": "Not found",
-  "OtherEventLPMNotFoundText": "We couldn't find that address. Try a simpler query.",
-  "OtherEventLPMErrorTitle": "Error",
-  "OtherEventLPMSearchFailed": "Search failed. Please try again.",
-  "OtherEventLPMPermissionTitle": "Permission needed",
-  "OtherEventLPMPermissionText": "Please allow location access to use your current location and search accurately."
+  "OtherEventLPMTitle": "Ընտրել վայր",
+  "OtherEventLPMSearchPlaceholder": "Փնտրել հասցե կամ վայր",
+  "OtherEventLPMHint": "Փնտրեք վայրը, հպեք քարտեզին կամ տեղափոխեք նշիչը, ապա հաստատեք։",
+  "OtherEventLPMConfirm": "Հաստատել վայրը",
+  "OtherEventLPMUseMyLocation": "Օգտագործել իմ գտնվելու վայրը",
+  "OtherEventLPMNotFoundTitle": "Չի գտնվել",
+  "OtherEventLPMNotFoundText": "Չկարողացանք գտնել այդ հասցեն։ Փորձեք ավելի պարզ ձևակերպում։",
+  "OtherEventLPMErrorTitle": "Սխալ",
+  "OtherEventLPMSearchFailed": "Որոնումը չհաջողվեց։ Խնդրում ենք փորձել կրկին։",
+  "OtherEventLPMPermissionTitle": "Թույլտվություն է անհրաժեշտ",
+  "OtherEventLPMPermissionText": "Թույլատրեք տեղադրության հասանելիությունը՝ ձեր ընթացիկ վայրը օգտագործելու և ավելի ճշգրիտ որոնելու համար։"
 }
