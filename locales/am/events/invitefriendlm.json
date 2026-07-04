@@ -1,11 +1,12 @@
 {
-  "InviteFriendLMRejected": "Rejected",
-  "InviteFriendLMAccepted": "Accepted",
-  "InviteFriendLMPending": "Pending",
-  "InviteFriendLMCancel": "Cancel",
-  "SelectFriends": "Select friends",
-  "SearchFriends": "Search friends",
-  "MyFriends": "My friends",
-  "NoFriendsFound": "No friends found",
-  "InviteFriendLMDone": "Done"
+  "InviteFriendLMRejected": "Մերժված է",
+  "InviteFriendLMAccepted": "Ընդունված է",
+  "InviteFriendLMPending": "Սպասման մեջ է",
+  "InviteFriendLMCancel": "Չեղարկել",
+  "SelectFriends": "Ընտրել ընկերներին",
+  "SearchFriends": "Փնտրել ընկերներ",
+  "MyFriends": "Իմ ընկերները",
+  "NoFriendsFound": "Ընկերներ չեն գտնվել",
+  "InviteFriendLMDone": "Պատրաստ է"
 }
+
