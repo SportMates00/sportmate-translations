@@ -1,10 +1,11 @@
 {
-  "ProfileUserNotFound": "User not found",
-  "ProfileLoading": "Loading...",
+  "ProfileUserNotFound": "Օգտատերը չի գտնվել",
+  "ProfileLoading": "Բեռնվում է...",
 
-  "ProfileOHAddFriend": "",
-  "ProfileOHBlock": "Block",
-  "ProfileOHReport": "Report",
-  "ProfileOHCancel": "Cancel"
+  "ProfileOHAddFriend": "Ավելացնել ընկեր",
+  "ProfileOHBlock": "Արգելափակել",
+  "ProfileOHReport": "Բողոքարկել",
+  "ProfileOHCancel": "Չեղարկել"
   
 }
+
