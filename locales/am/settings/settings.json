@@ -1,9 +1,9 @@
 {
-  "SettingsTitle": "Settings",
-  "SettingsContactSupport": "Contact Support",
-  "SettingsLogoutTitle": "Log out?",
-  "SettingsLogoutMessage": "Are you sure you want to log out?",
-  "SettingsCancel": "Cancel",
-  "SettingsLogout": "Log out",
-  "SettingsDeleteAccount": "Delete Account"
+  "SettingsTitle": "Կարգավորումներ",
+  "SettingsContactSupport": "Կապվել աջակցության հետ",
+  "SettingsLogoutTitle": "Դուրս գա՞լ հաշվից",
+  "SettingsLogoutMessage": "Վստա՞հ եք, որ ուզում եք դուրս գալ հաշվից։",
+  "SettingsCancel": "Չեղարկել",
+  "SettingsLogout": "Դուրս գալ",
+  "SettingsDeleteAccount": "Ջնջել հաշիվը"
 }
