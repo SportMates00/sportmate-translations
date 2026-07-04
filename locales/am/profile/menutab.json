@@ -1,6 +1,7 @@
 {
-  "MenuTabEditProfile": "Edit Profile",
-  "MenuTabSettings": "Settings",
-  "MenuTabVisibilityInsights": "Visibility Insights",
-  "MenuTabCancel": "Cancel"
+  "MenuTabEditProfile": "Խմբագրել պրոֆիլը",
+  "MenuTabSettings": "Կարգավորումներ",
+  "MenuTabVisibilityInsights": "Տեսանելիության վիճակագրություն",
+  "MenuTabCancel": "Չեղարկել"
 }
+
