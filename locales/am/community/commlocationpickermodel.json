@@ -1,13 +1,15 @@
+
 {
-  "CommLocPickerTitle": "Pick community location",
-  "CommLocPickerSearchPlaceholder": "Search community address or place",
-  "CommLocPickerHint": "Search the community address, tap the map, or drag the pin, then confirm.",
-  "CommLocPickerConfirm": "Confirm location",
-  "CommLocPickerUseMyLocation": "Use my location",
-  "CommLocPickerNotFoundTitle": "Not found",
-  "CommLocPickerNotFoundText": "We couldn't find that address. Try a simpler query.",
-  "CommLocPickerErrorTitle": "Error",
-  "CommLocPickerSearchFailed": "Search failed. Please try again.",
-  "CommLocPickerPermissionTitle": "Permission needed",
-  "CommLocPickerPermissionText": "Please allow location access to use your current location and search accurately."
+  "CommLocPickerTitle": "Ընտրեք համայնքի վայրը",
+  "CommLocPickerSearchPlaceholder": "Փնտրել համայնքի հասցեն կամ վայրը",
+  "CommLocPickerHint": "Փնտրեք համայնքի հասցեն, հպեք քարտեզին կամ տեղափոխեք նշիչը, ապա հաստատեք։",
+  "CommLocPickerConfirm": "Հաստատել վայրը",
+  "CommLocPickerUseMyLocation": "Օգտագործել իմ գտնվելու վայրը",
+  "CommLocPickerNotFoundTitle": "Չի գտնվել",
+  "CommLocPickerNotFoundText": "Չկարողացանք գտնել այդ հասցեն։ Փորձեք ավելի պարզ ձևակերպում։",
+  "CommLocPickerErrorTitle": "Սխալ",
+  "CommLocPickerSearchFailed": "Որոնումը չհաջողվեց։ Խնդրում ենք փորձել կրկին։",
+  "CommLocPickerPermissionTitle": "Թույլտվություն է անհրաժեշտ",
+  "CommLocPickerPermissionText": "Թույլատրեք տեղադրության հասանելիությունը՝ ձեր ընթացիկ վայրը օգտագործելու և ավելի ճշգրիտ որոնելու համար։"
 }
+
