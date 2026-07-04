@@ -1,19 +1,20 @@
 {
-  "JoinedCommUserFallback": "User",
-  "JoinedCommCommunityFallback": "Community",
-  "JoinedCommLeaveTitle": "Leave community",
-  "JoinedCommLeaveConfirm": "Are you sure you want to leave this community? You can join again later.",
-  "JoinedCommCancel": "Cancel",
-  "JoinedCommLeave": "Leave",
-  "JoinedCommEmptyTitle": "You haven’t joined any communities yet.",
-  "JoinedCommEmptySubtitle": "Join communities to create events, open chats, and manage everything from here.",
-  "JoinedCommCreateEvent": "Create Event here",
-  "JoinedCommChat": "Chat",
+  "JoinedCommUserFallback": "Օգտատեր",
+  "JoinedCommCommunityFallback": "Համայնք",
+  "JoinedCommLeaveTitle": "Դուրս գալ համայնքից",
+  "JoinedCommLeaveConfirm": "Վստա՞հ եք, որ ուզում եք դուրս գալ այս համայնքից։ Հետագայում կարող եք կրկին միանալ։",
+  "JoinedCommCancel": "Չեղարկել",
+  "JoinedCommLeave": "Դուրս գալ",
+  "JoinedCommEmptyTitle": "Դուք դեռ ոչ մի համայնքի չեք միացել։",
+  "JoinedCommEmptySubtitle": "Միացեք համայնքներին՝ միջոցառումներ ստեղծելու, չատեր բացելու և ամեն ինչ այստեղից կառավարելու համար։",
+  "JoinedCommCreateEvent": "Ստեղծել միջոցառում այստեղ",
+  "JoinedCommChat": "Չատ",
 
-  "MyCommCommunityFallback": "Community",
-  "MyCommVenueFallback": "Venue",
-  "MyCommViewDetails": "View Details",
-  "MyCommCreateEvent": "Create event here",
-  "MyCommEmptyTitle": "You haven’t joined any communities yet.",
-  "MyCommEmptySubtitle": "Join a community to access its chat and keep it in your inbox."
+  "MyCommCommunityFallback": "Համայնք",
+  "MyCommVenueFallback": "Վայր",
+  "MyCommViewDetails": "Դիտել մանրամասները",
+  "MyCommCreateEvent": "Ստեղծել միջոցառում այստեղ",
+  "MyCommEmptyTitle": "Դուք դեռ ոչ մի համայնքի չեք միացել։",
+  "MyCommEmptySubtitle": "Միացեք համայնքի՝ նրա չատին հասանելիություն ստանալու և այն ձեր մուտքայիններում պահելու համար։"
 }
+
