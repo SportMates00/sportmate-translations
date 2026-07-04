@@ -1,6 +1,7 @@
 {
-  "SelectRegion": "Select Region",
-  "RegionSelectorSearch": "Search",
-  "RegionSelectorCancel": "Cancel",
-  "RegionSelectorApply": "Apply"
+  "SelectRegion": "Ընտրել տարածաշրջան",
+  "RegionSelectorSearch": "Որոնել",
+  "RegionSelectorCancel": "Չեղարկել",
+  "RegionSelectorApply": "Կիրառել"
 }
+
