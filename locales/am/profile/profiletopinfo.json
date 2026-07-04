@@ -1,21 +1,21 @@
 {
-  "ProfileCompletionFirstName": "First Name",
-  "ProfileCompletionLastName": "Last Name",
-  "ProfileCompletionMainInterest": "Main Interest",
-  "ProfileCompletionAvailability": "Availability",
-  "ProfileCompletionDateOfBirth": "Date of Birth",
-  "ProfileCompletionNationality": "Nationality",
-  "ProfileCompletionLocation": "Location",
-  "ProfileCompletionGender": "Gender",
-  "ProfileCompletionProfilePicture": "Profile Picture",
+  "ProfileCompletionFirstName": "Անուն",
+  "ProfileCompletionLastName": "Ազգանուն",
+  "ProfileCompletionMainInterest": "Հիմնական հետաքրքրություն",
+  "ProfileCompletionAvailability": "Հասանելիություն",
+  "ProfileCompletionDateOfBirth": "Ծննդյան ամսաթիվ",
+  "ProfileCompletionNationality": "Ազգություն",
+  "ProfileCompletionLocation": "Գտնվելու վայր",
+  "ProfileCompletionGender": "Սեռ",
+  "ProfileCompletionProfilePicture": "Պրոֆիլի նկար",
 
-  "ProfileTopInfoUnknown": "Unknown",
-  "ProfileTopInfoUser": "User",
-  "ProfileTopInfoFriendsTitleSuffix": "'s friends",
-  "ProfileTopInfoReadMore": "Read More",
-  "ProfileTopInfoReadLess": "Read Less",
+  "ProfileTopInfoUnknown": "Անհայտ",
+  "ProfileTopInfoUser": "Օգտատեր",
+  "ProfileTopInfoFriendsTitleSuffix": "-ի ընկերները",
+  "ProfileTopInfoReadMore": "Կարդալ ավելին",
+  "ProfileTopInfoReadLess": "Կարդալ քիչ",
 
-  "ProgressBarbarCompleteProfileTitle": "Complete your profile",
-  "ProgressBarbarProfileCompletion": "Profile Completion",
-  "ProgressBarbarProfileCompletionCaption": "Complete your profile to help other users know you better."
+  "ProgressBarbarCompleteProfileTitle": "Լրացրեք ձեր պրոֆիլը",
+  "ProgressBarbarProfileCompletion": "Պրոֆիլի լրացվածություն",
+  "ProgressBarbarProfileCompletionCaption": "Լրացրեք ձեր պրոֆիլը, որպեսզի մյուս օգտատերերը ձեզ ավելի լավ ճանաչեն։"
 }
