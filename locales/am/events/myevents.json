@@ -1,12 +1,12 @@
 {
-  "MyEventsOpen": "Open",
-  "MyEventsCompleted": "Completed",
-  "MyEventsCancelled":"Cancelled",
-  "MyEventsNoOpen": "No open events",
-  "MyEventsNoCompleted": "No completed events",
-  "MyEventsNoCancelled":"No cancelled events",
-  "MyEventsNoOpenMessage": "Create or Join an event to see it here:",
-  "MyEventsNoCompletedMessage": "Completed events will appear here:",
-  "MyEventsNoCancelledMessage":"Cancelled events will appear here:",
-  "MyEventsEventNeedsAction": "Event Needs Action!"
+  "MyEventsOpen": "Բաց",
+  "MyEventsCompleted": "Ավարտված",
+  "MyEventsCancelled":"Չեղարկված",
+  "MyEventsNoOpen": "Բաց միջոցառումներ չկան",
+  "MyEventsNoCompleted": "Ավարտված միջոցառումներ չկան",
+  "MyEventsNoCancelled":"Չեղարկված միջոցառումներ չկան",
+  "MyEventsNoOpenMessage": "Ստեղծեք կամ միացեք միջոցառման՝ այն այստեղ տեսնելու համար․",
+  "MyEventsNoCompletedMessage": "Ավարտված միջոցառումները կհայտնվեն այստեղ․",
+  "MyEventsNoCancelledMessage":"Չեղարկված միջոցառումները կհայտնվեն այստեղ․",
+  "MyEventsEventNeedsAction": "Միջոցառումը գործողություն է պահանջում։"
 }
