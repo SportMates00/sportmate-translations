@@ -1,25 +1,16 @@
 {
-  "CGDetailsMeFallback": "Ես",
-  "CGDetailsGroupInitial": "Խ",
-  "CGDetailsTitle": "Ստեղծել խումբ",
-  "CGDetailsSubtitle": "Ընտրեք անուն և լուսանկար։ Հետագայում կարող եք փոխել։",
-  "CGDetailsPhotoTitle": "Խմբի լուսանկար",
-  "CGDetailsTapToUpload": "Հպեք՝ վերբեռնելու համար",
-  "CGDetailsGroupName": "Խմբի անուն",
-  "CGDetailsGroupNamePlaceholder": "Կոմիտասի ֆուտբոլային թիմ",
-  "CGDetailsMembers": "Անդամներ",
-  "CGDetailsMe": "Ես",
-  "CGDetailsUserFallback": "Օգտատեր",
-  "CGDetailsPhotoPopupTitle": "Խմբի լուսանկար",
-  "CGDetailsPhotoPopupMessage": "Լուսանկարի վերբեռնումը այստեղ դեռ միացված չէ։ Առայժմ խմբերը կարող են ստեղծվել առանց լուսանկարի։",
-  "CGDetailsErrorTitle": "Սխալ",
-  "CGDetailsCreateFailed": "Չհաջողվեց ստեղծել խումբը։",
-  "CGDetailsCreateBtn": "Ստեղծել խումբ",
-
-  "InboxTitleMessages": "Հաղորդագրություններ",
-  "InboxTitleFriendRequests": "Ընկերության հայտեր",
-  "InboxTitleJoinRequests": "Միանալու հայտեր",
-  "InboxTitle": "Մուտքային"
-  
+  "FRReceivedAcceptedTitle": "Ընդունված է",
+  "FRReceivedFriendAcceptedMessage": "Ընկերության հայտն ընդունված է։",
+  "FRReceivedErrorTitle": "Սխալ",
+  "FRReceivedFriendAcceptFailed": "Չհաջողվեց ընդունել ընկերության հայտը։",
+  "FRReceivedDeclinedTitle": "Մերժված է",
+  "FRReceivedFriendDeclinedMessage": "Ընկերության հայտը մերժված է։",
+  "FRReceivedFriendDeclineFailed": "Չհաջողվեց մերժել ընկերության հայտը։",
+  "FRReceivedEmpty": "Ընկերության հայտեր չկան։",
+  "FRReceivedUserFallback": "Օգտատեր",
+  "FRReceivedWantsToAddYou": "Ցանկանում է ավելացնել ձեզ",
+  "FRReceivedReject": "Մերժել",
+  "FRReceivedAccept": "Ընդունել"
 }
+
 
