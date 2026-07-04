@@ -1,14 +1,15 @@
 {
-  "CommHomeSupportedCategories": "Supported Categories",
-  "CommHomeAbout": "About",
-  "CommHomeShowLess": "Show less",
-  "CommHomeReadMore": "Read more",
-  "CommHomeLocation": "Location",
-  "CommHomeOpen": "Open",
-  "CommHomeLocationNumber": "Location {{number}}",
-  "CommHomePhone": "Phone",
-  "CommHomePricing": "Pricing",
-  "CommHomeOpeningTimes": "Opening times",
-  "CommHomeSuggestEdit": "Suggest an edit",
-  "CommHomeLocationFallback": "Location"
+  "CommHomeSupportedCategories": "Հասանելի կատեգորիաներ",
+  "CommHomeAbout": "Մասին",
+  "CommHomeShowLess": "Ցույց տալ ավելի քիչ",
+  "CommHomeReadMore": "Կարդալ ավելին",
+  "CommHomeLocation": "Գտնվելու վայր",
+  "CommHomeOpen": "Բացել",
+  "CommHomeLocationNumber": "Վայր {{number}}",
+  "CommHomePhone": "Հեռախոս",
+  "CommHomePricing": "Գներ",
+  "CommHomeOpeningTimes": "Աշխատանքային ժամեր",
+  "CommHomeSuggestEdit": "Առաջարկել փոփոխություն",
+  "CommHomeLocationFallback": "Գտնվելու վայր"
 }
+
