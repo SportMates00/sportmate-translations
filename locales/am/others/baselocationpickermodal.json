@@ -1,15 +1,16 @@
 {
-  "BaseLocPickerTitle": "Pick location",
-  "BaseLocPickerSearchPlaceholder": "Search address or place",
-  "BaseLocPickerHint": "Search a place, tap the map, or drag the pin, then confirm.",
-  "BaseLocPickerConfirm": "Confirm location",
-  "BaseLocPickerUseMyLocation": "Use my location",
-  "BaseLocPickerNotFoundTitle": "Not found",
-  "BaseLocPickerNotFoundText": "We couldn't find that address. Try a simpler query.",
-  "BaseLocPickerErrorTitle": "Error",
-  "BaseLocPickerSearchFailed": "Search failed. Please try again.",
-  "BaseLocPickerPermissionTitle": "Permission needed",
-  "BaseLocPickerPermissionText": "Please allow location access to use your current location and search accurately.",
-  "BaseLocPickerLocationTimeout": "Could not get your current location. Please search or place the pin manually.",
-  "BaseLocPickerConfirmFailed": "Could not confirm this location. Please try again."
+  "BaseLocPickerTitle": "Ընտրել վայր",
+  "BaseLocPickerSearchPlaceholder": "Փնտրել հասցե կամ վայր",
+  "BaseLocPickerHint": "Փնտրեք վայրը, հպեք քարտեզին կամ տեղափոխեք նշիչը, ապա հաստատեք։",
+  "BaseLocPickerConfirm": "Հաստատել վայրը",
+  "BaseLocPickerUseMyLocation": "Օգտագործել իմ գտնվելու վայրը",
+  "BaseLocPickerNotFoundTitle": "Չի գտնվել",
+  "BaseLocPickerNotFoundText": "Չկարողացանք գտնել այդ հասցեն։ Փորձեք ավելի պարզ ձևակերպում։",
+  "BaseLocPickerErrorTitle": "Սխալ",
+  "BaseLocPickerSearchFailed": "Որոնումը չհաջողվեց։ Խնդրում ենք փորձել կրկին։",
+  "BaseLocPickerPermissionTitle": "Թույլտվություն է անհրաժեշտ",
+  "BaseLocPickerPermissionText": "Թույլատրեք տեղադրության հասանելիությունը՝ ձեր ընթացիկ վայրը օգտագործելու և ավելի ճշգրիտ որոնելու համար։",
+  "BaseLocPickerLocationTimeout": "Չհաջողվեց ստանալ ձեր ընթացիկ գտնվելու վայրը։ Խնդրում ենք որոնել կամ նշիչը տեղադրել ձեռքով։",
+  "BaseLocPickerConfirmFailed": "Չհաջողվեց հաստատել այս վայրը։ Խնդրում ենք փորձել կրկին։"
 }
+
