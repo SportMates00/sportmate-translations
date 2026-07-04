@@ -1,10 +1,11 @@
 {
-  "ChatScreenChatNotFound": "Chat not found (missing chatId)",
-  "ChatScreenUserFallback": "User",
-  "ChatScreenChatFallback": "Chat",
-  "ChatScreenSharedItem": "Shared item",
-  "ChatScreenReplying": "Replying",
-  "ChatScreenNotMember": "You are no longer a member of this chat.",
-  "ChatScreenTypeMessage": "Type a message...",
-  "ChatScreenNotMemberPlaceholder": "You are no longer a member of this chat."
+  "ChatScreenChatNotFound": "Չատը չի գտնվել (chatId-ը բացակայում է)",
+  "ChatScreenUserFallback": "Օգտատեր",
+  "ChatScreenChatFallback": "Չատ",
+  "ChatScreenSharedItem": "Կիսված նյութ",
+  "ChatScreenReplying": "Պատասխանում եք",
+  "ChatScreenNotMember": "Դուք այլևս այս չատի անդամ չեք։",
+  "ChatScreenTypeMessage": "Գրեք հաղորդագրություն...",
+  "ChatScreenNotMemberPlaceholder": "Դուք այլևս այս չատի անդամ չեք։"
 }
+
