@@ -1,12 +1,13 @@
 {
-  "MessagesTabDirectMessages": "Direct Messages",
-  "MessagesTabCommunityGroups": "Community Groups",
-  "MessagesTabEventsChat": "Event's Chat",
-  "MessagesTabCustomGroups": "Custom Groups",
-  "MessagesTabUserFallback": "User",
-  "MessagesTabChatsFallback": "Chats",
-  "MessagesTabUntitledChat": "Untitled chat",
-  "MessagesTabNoMessages": "No messages yet.",
-  "MessagesTabHeader": "Messages",
-  "MessagesTabNewGroup": "New group"
+  "MessagesTabDirectMessages": "Անձնական հաղորդագրություններ",
+  "MessagesTabCommunityGroups": "Համայնքների խմբեր",
+  "MessagesTabEventsChat": "Միջոցառումների չատեր",
+  "MessagesTabCustomGroups": "Անհատական խմբեր",
+  "MessagesTabUserFallback": "Օգտատեր",
+  "MessagesTabChatsFallback": "Չատեր",
+  "MessagesTabUntitledChat": "Չատ առանց անվան",
+  "MessagesTabNoMessages": "Հաղորդագրություններ դեռ չկան։",
+  "MessagesTabHeader": "Հաղորդագրություններ",
+  "MessagesTabNewGroup": "Նոր խումբ"
 }
+
