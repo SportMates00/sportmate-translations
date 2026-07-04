@@ -1,12 +1,13 @@
 {
-  "EditAvailabilityMon": "Mon",
-  "EditAvailabilityTue": "Tue",
-  "EditAvailabilityWed": "Wed",
-  "EditAvailabilityThu": "Thu",
-  "EditAvailabilityFri": "Fri",
-  "EditAvailabilitySat": "Sat",
-  "EditAvailabilitySun": "Sun",
-  "EditAvailabilityMor": "Mor",
-  "EditAvailabilityAft": "Aft",
-  "EditAvailabilityEve": "Eve"
+  "EditAvailabilityMon": "Երկ",
+  "EditAvailabilityTue": "Երք",
+  "EditAvailabilityWed": "Չրք",
+  "EditAvailabilityThu": "Հնգ",
+  "EditAvailabilityFri": "Ուրբ",
+  "EditAvailabilitySat": "Շբթ",
+  "EditAvailabilitySun": "Կիր",
+  "EditAvailabilityMor": "Առ․",
+  "EditAvailabilityAft": "Կես․",
+  "EditAvailabilityEve": "Երեկ․"
 }
+
