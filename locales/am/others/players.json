@@ -1,14 +1,13 @@
 {
-    "AllPlayersPremiumFeature": "Premium feature",
-    "AllPlayersPlayerSearch": "Player search is available for premium members",
+    "AllPlayersPremiumFeature": "Premium հնարավորություն",
+    "AllPlayersPlayerSearch": "Խաղացողների որոնումը հասանելի է Premium անդամների համար",
 
-    "PlayersFailedCoachAccount": "Failed to refresh coach account",
-    "PlayersAllPlayers": "All Players",
-    "PlayersCoaches": "Coaches",
+    "PlayersFailedCoachAccount": "Չհաջողվեց թարմացնել մարզչի հաշիվը",
+    "PlayersAllPlayers": "Բոլոր խաղացողները",
+    "PlayersCoaches": "Մարզիչներ",
 
-    "PlayersBPNoPlayersFound": "No players found",
-    "PlayersBPChangeInterestsFilter": "Try changing your interests or filter options",
+    "PlayersBPNoPlayersFound": "Խաղացողներ չեն գտնվել",
+    "PlayersBPChangeInterestsFilter": "Փորձեք փոխել ձեր հետաքրքրությունները կամ ֆիլտրի տարբերակները",
 
-    "PlayersTopPartCategories": "Categories"
-    
+    "PlayersTopPartCategories": "Կատեգորիաներ" 
 }
