@@ -1,15 +1,15 @@
 {
-  "DeleteAccountTitle": "Delete Account",
-  "DeleteAccountErrorTitle": "Error",
-  "DeleteAccountConfirmTextError": "Please type DELETE to confirm.",
-  "DeleteAccountConfirmTitle": "Delete Account",
-  "DeleteAccountConfirmMessage": "Are you sure you want to delete your account? This action cannot be undone.",
-  "DeleteAccountCancel": "Cancel",
-  "DeleteAccountDelete": "Delete",
-  "DeleteAccountIncorrectPassword": "Incorrect password.",
-  "DeleteAccountWarning": "Warning: deleting your account is permanent and cannot be undone.",
-  "DeleteAccountTypeConfirm": "Type DELETE to confirm",
+  "DeleteAccountTitle": "Ջնջել հաշիվը",
+  "DeleteAccountErrorTitle": "Սխալ",
+  "DeleteAccountConfirmTextError": "Հաստատելու համար մուտքագրեք DELETE։",
+  "DeleteAccountConfirmTitle": "Ջնջել հաշիվը",
+  "DeleteAccountConfirmMessage": "Վստա՞հ եք, որ ուզում եք ջնջել ձեր հաշիվը։ Այս գործողությունը հնարավոր չէ հետարկել։",
+  "DeleteAccountCancel": "Չեղարկել",
+  "DeleteAccountDelete": "Ջնջել",
+  "DeleteAccountIncorrectPassword": "Սխալ գաղտնաբառ։",
+  "DeleteAccountWarning": "Զգուշացում․ հաշիվը ջնջելը վերջնական է և հնարավոր չէ հետարկել։",
+  "DeleteAccountTypeConfirm": "Հաստատելու համար մուտքագրեք DELETE",
   "DeleteAccountTypePlaceholder": "DELETE",
-  "DeleteAccountEnterPassword": "Enter your password",
-  "DeleteAccountPassword": "Password"
+  "DeleteAccountEnterPassword": "Մուտքագրեք ձեր գաղտնաբառը",
+  "DeleteAccountPassword": "Գաղտնաբառ"
 }
