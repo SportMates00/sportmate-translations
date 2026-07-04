@@ -1,9 +1,10 @@
 {
-  "FilterByCategory": "Filter By Category",
-  "EventClear": "Clear",
-  "EventSports": "Sports",
-  "EventActivities": "Activities",
-  "CustomActivity": " Custom Activity",
-  "EventCancelFilter": "Cancel",
-  "EventApplyFilter": "Apply"
+  "FilterByCategory": "Ֆիլտրել ըստ կատեգորիայի",
+  "EventClear": "Մաքրել",
+  "EventSports": "Սպորտաձևեր",
+  "EventActivities": "Ակտիվություններ",
+  "CustomActivity": " Հատուկ ակտիվություն",
+  "EventCancelFilter": "Չեղարկել",
+  "EventApplyFilter": "Կիրառել"
 }
+
