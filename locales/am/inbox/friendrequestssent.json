@@ -1,13 +1,14 @@
 {
-  "FRSentCancelledTitle": "Cancelled",
-  "FRSentFriendCancelMessage": "Friend request cancelled.",
-  "FRSentErrorTitle": "Error",
-  "FRSentFriendCancelFailed": "Could not cancel friend request.",
-  "FRSentRequestsEmpty": "No sent requests.",
-  "FRSentUserFallback": "User",
-  "FRSentRequestSent": "Request sent",
-  "FRSentCancelRequest": "Cancel request",
+  "FRSentCancelledTitle": "Չեղարկված է",
+  "FRSentFriendCancelMessage": "Ընկերության հայտը չեղարկված է։",
+  "FRSentErrorTitle": "Սխալ",
+  "FRSentFriendCancelFailed": "Չհաջողվեց չեղարկել ընկերության հայտը։",
+  "FRSentRequestsEmpty": "Ուղարկված հայտեր չկան։",
+  "FRSentUserFallback": "Օգտատեր",
+  "FRSentRequestSent": "Հայտն ուղարկված է",
+  "FRSentCancelRequest": "Չեղարկել հայտը",
 
-  "FRTabRequestsReceived": "Requests Received",
-  "FRTabRequestsSent": "Requests Sent"
+  "FRTabRequestsReceived": "Ստացված հայտեր",
+  "FRTabRequestsSent": "Ուղարկված հայտեր"
 }
+
