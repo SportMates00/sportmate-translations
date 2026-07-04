@@ -1,6 +1,6 @@
 {
   "NotificationSettingsPushTitle": "Push notifications",
-  "NotificationSettingsPushDesc": "Receive important Sportmate updates on your device.",
+  "NotificationSettingsPushDesc": "Receive important NorPal updates on your device.",
   "NotificationSettingsInAppTitle": "In-app notifications",
   "NotificationSettingsInAppDesc": "Save important updates inside your notification feed.",
   "NotificationSettingsEventsTitle": "Events",
@@ -18,7 +18,7 @@
   "NotificationSettingsAnnouncementsTitle": "Announcements",
   "NotificationSettingsAnnouncementsDesc": "New features, app updates, maintenance, and policy changes.",
   "NotificationSettingsTitle": "Notification settings",
-  "NotificationSettingsSubtitle": "Choose what Sportmate can notify you about.",
+  "NotificationSettingsSubtitle": "Choose what NorPal can notify you about.",
   "NotificationSettingsMainSection": "Main controls",
   "NotificationSettingsGroupsSection": "Notification groups",
   "NotificationSettingsFooter": "Some important account and safety messages may still be shown when needed.",
