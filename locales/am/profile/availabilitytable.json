@@ -1,13 +1,14 @@
 {   
-    "AvailabilityTableMon": "Mon",
-    "AvailabilityTableTue": "Tue",
-    "AvailabilityTableWed": "Wed",
-    "AvailabilityTableThu": "Thu",
-    "AvailabilityTableFri": "Fri",
-    "AvailabilityTableSat": "Sat",
-    "AvailabilityTableSun": "Sun",
-    "AvailabilityTableMor": "Mor",
-    "AvailabilityTableAft": "Aft",
-    "AvailabilityTableEve": "Eve",
-    "MyFreeTimeProfile": "My Free Time"
+    "AvailabilityTableMon": "Երկ",
+    "AvailabilityTableTue": "Երք",
+    "AvailabilityTableWed": "Չրք",
+    "AvailabilityTableThu": "Հնգ",
+    "AvailabilityTableFri": "Ուրբ",
+    "AvailabilityTableSat": "Շբթ",
+    "AvailabilityTableSun": "Կիր",
+    "AvailabilityTableMor": "Առ․",
+    "AvailabilityTableAft": "Կես․",
+    "AvailabilityTableEve": "Երեկ․",
+    "MyFreeTimeProfile": "Իմ ազատ ժամանակը"
 }
+
