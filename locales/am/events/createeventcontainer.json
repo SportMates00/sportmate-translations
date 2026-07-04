@@ -1,15 +1,15 @@
 {
-  "CreateContainerSomethingWentWrong": "Something went wrong",
-  "UserNotFound": "User not found.",
-  "PleaseTryAgain": "Please try again.",
-  "EditRequest": "Edit Request",
-  "EditEvent": "Edit Event",
-  "RequestEvent": "Request Event",
-  "SetUpEvent": "Set up Event",
-  "CreateBack": "Back",
-  "CreateNext": "Next",
-  "CreateContainerLoading": "Loading...",
-  "CreateContainerSave": "Save",
-  "CreateContainerSubmit": "Submit",
-  "CreateContainerCreate": "Create"
+  "CreateContainerSomethingWentWrong": "Ինչ-որ բան սխալ գնաց",
+  "UserNotFound": "Օգտատերը չի գտնվել։",
+  "PleaseTryAgain": "Խնդրում ենք փորձել կրկին։",
+  "EditRequest": "Խմբագրել հայտը",
+  "EditEvent": "Խմբագրել միջոցառումը",
+  "RequestEvent": "Հայտ ներկայացնել միջոցառման համար",
+  "SetUpEvent": "Կարգավորել միջոցառումը",
+  "CreateBack": "Հետ",
+  "CreateNext": "Հաջորդը",
+  "CreateContainerLoading": "Բեռնվում է...",
+  "CreateContainerSave": "Պահպանել",
+  "CreateContainerSubmit": "Ուղարկել",
+  "CreateContainerCreate": "Ստեղծել"
 }
