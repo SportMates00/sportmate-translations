@@ -1,10 +1,10 @@
 {
-  "EventName": "Event name",
-  "PremiumConfirmParticipants": "Manually confirm participants joining",
-  "GetMatchifyPremium": "Get Matchify Premium",
-  "CreateThreePlayers": "Players",
-  "CreateThreeParticipants": "Participants",
-  "InviteFromFriendsList": "Invite from friends list",
-  "CreateThreeNotesNotes": "Notes",
-  "AddAdditionalInfoOptional": "Add additional information (Optional)"
+  "EventName": "Միջոցառման անուն",
+  "PremiumConfirmParticipants": "Ձեռքով հաստատել միացող մասնակիցներին",
+  "GetMatchifyPremium": "Ստանալ Matchify Premium",
+  "CreateThreePlayers": "Խաղացողներ",
+  "CreateThreeParticipants": "Մասնակիցներ",
+  "InviteFromFriendsList": "Հրավիրել ընկերների ցանկից",
+  "CreateThreeNotesNotes": "Նշումներ",
+  "AddAdditionalInfoOptional": "Ավելացնել լրացուցիչ տեղեկություն (ըստ ցանկության)"
 }
