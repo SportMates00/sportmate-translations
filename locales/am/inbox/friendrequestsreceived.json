@@ -1,14 +1,16 @@
+
 {
-  "FRReceivedAcceptedTitle": "Accepted",
-  "FRReceivedFriendAcceptedMessage": "Friend request accepted.",
-  "FRReceivedErrorTitle": "Error",
-  "FRReceivedFriendAcceptFailed": "Could not accept friend request.",
-  "FRReceivedDeclinedTitle": "Declined",
-  "FRReceivedFriendDeclinedMessage": "Friend request declined.",
-  "FRReceivedFriendDeclineFailed": "Could not decline friend request.",
-  "FRReceivedEmpty": "No friend requests.",
-  "FRReceivedUserFallback": "User",
-  "FRReceivedWantsToAddYou": "Wants to add you",
-  "FRReceivedReject": "Reject",
-  "FRReceivedAccept": "Accept"
+  "FRReceivedAcceptedTitle": "Ընդունված է",
+  "FRReceivedFriendAcceptedMessage": "Ընկերության հայտն ընդունված է։",
+  "FRReceivedErrorTitle": "Սխալ",
+  "FRReceivedFriendAcceptFailed": "Չհաջողվեց ընդունել ընկերության հայտը։",
+  "FRReceivedDeclinedTitle": "Մերժված է",
+  "FRReceivedFriendDeclinedMessage": "Ընկերության հայտը մերժված է։",
+  "FRReceivedFriendDeclineFailed": "Չհաջողվեց մերժել ընկերության հայտը։",
+  "FRReceivedEmpty": "Ընկերության հայտեր չկան։",
+  "FRReceivedUserFallback": "Օգտատեր",
+  "FRReceivedWantsToAddYou": "Ցանկանում է ավելացնել ձեզ",
+  "FRReceivedReject": "Մերժել",
+  "FRReceivedAccept": "Ընդունել"
 }
+
