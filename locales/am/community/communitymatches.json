@@ -1,8 +1,8 @@
 {
-  "CommMatchesTitle": "Matches",
-  "CommMatchesNoUpcoming": "No upcoming matches yet.",
-  "CommMatchesEmptySub": "When matches are created for this community, they will appear here.",
-  "CommMatchesUpcoming": "Upcoming",
-  "CommMatchesViewAll": "View all",
-  "CommMatchesRefreshing": "Refreshing..."
+  "CommMatchesTitle": "Խաղեր",
+  "CommMatchesNoUpcoming": "Առաջիկա խաղեր դեռ չկան։",
+  "CommMatchesEmptySub": "Երբ այս համայնքի համար խաղեր ստեղծվեն, դրանք կհայտնվեն այստեղ։",
+  "CommMatchesUpcoming": "Առաջիկա",
+  "CommMatchesViewAll": "Տեսնել բոլորը",
+  "CommMatchesRefreshing": "Թարմացվում է..."
 }
