@@ -1,15 +1,15 @@
 {
-  "BaseLocPickerTitle": "Pick location",
-  "BaseLocPickerSearchPlaceholder": "Search address or place",
-  "BaseLocPickerHint": "Search a place, tap the map, or drag the pin, then confirm.",
-  "BaseLocPickerConfirm": "Confirm location",
-  "BaseLocPickerUseMyLocation": "Use my location",
-  "BaseLocPickerNotFoundTitle": "Not found",
-  "BaseLocPickerNotFoundText": "We couldn't find that address. Try a simpler query.",
-  "BaseLocPickerErrorTitle": "Error",
-  "BaseLocPickerSearchFailed": "Search failed. Please try again.",
-  "BaseLocPickerPermissionTitle": "Permission needed",
-  "BaseLocPickerPermissionText": "Please allow location access to use your current location and search accurately.",
-  "BaseLocPickerLocationTimeout": "Could not get your current location. Please search or place the pin manually.",
-  "BaseLocPickerConfirmFailed": "Could not confirm this location. Please try again."
+  "BaseLocPickerTitle": "Выберите место",
+  "BaseLocPickerSearchPlaceholder": "Найдите адрес или место",
+  "BaseLocPickerHint": "Найдите место, нажмите на карту или перетащите метку, затем подтвердите.",
+  "BaseLocPickerConfirm": "Подтвердить местоположение",
+  "BaseLocPickerUseMyLocation": "Использовать моё местоположение",
+  "BaseLocPickerNotFoundTitle": "Не найдено",
+  "BaseLocPickerNotFoundText": "Мы не смогли найти этот адрес. Попробуйте ввести запрос проще.",
+  "BaseLocPickerErrorTitle": "Ошибка",
+  "BaseLocPickerSearchFailed": "Не удалось выполнить поиск. Попробуйте ещё раз.",
+  "BaseLocPickerPermissionTitle": "Требуется разрешение",
+  "BaseLocPickerPermissionText": "Разрешите доступ к геолокации, чтобы использовать ваше текущее местоположение и точнее выполнять поиск.",
+  "BaseLocPickerLocationTimeout": "Не удалось определить ваше текущее местоположение. Найдите место через поиск или поставьте метку вручную.",
+  "BaseLocPickerConfirmFailed": "Не удалось подтвердить это местоположение. Попробуйте ещё раз."
 }
