@@ -1,13 +1,13 @@
-{   
-    "AvailabilityTableMon": "Mon",
-    "AvailabilityTableTue": "Tue",
-    "AvailabilityTableWed": "Wed",
-    "AvailabilityTableThu": "Thu",
-    "AvailabilityTableFri": "Fri",
-    "AvailabilityTableSat": "Sat",
-    "AvailabilityTableSun": "Sun",
-    "AvailabilityTableMor": "Mor",
-    "AvailabilityTableAft": "Aft",
-    "AvailabilityTableEve": "Eve",
-    "MyFreeTimeProfile": "My Free Time"
+{
+  "AvailabilityTableMon": "Пн",
+  "AvailabilityTableTue": "Вт",
+  "AvailabilityTableWed": "Ср",
+  "AvailabilityTableThu": "Чт",
+  "AvailabilityTableFri": "Пт",
+  "AvailabilityTableSat": "Сб",
+  "AvailabilityTableSun": "Вс",
+  "AvailabilityTableMor": "Утро",
+  "AvailabilityTableAft": "День",
+  "AvailabilityTableEve": "Вечер",
+  "MyFreeTimeProfile": "Моё свободное время"
 }
