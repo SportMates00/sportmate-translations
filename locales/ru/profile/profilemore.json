@@ -1,10 +1,9 @@
 {
-  "ProfileUserNotFound": "User not found",
-  "ProfileLoading": "Loading...",
+  "ProfileUserNotFound": "Пользователь не найден",
+  "ProfileLoading": "Загрузка...",
 
-  "ProfileOHAddFriend": "",
-  "ProfileOHBlock": "Block",
-  "ProfileOHReport": "Report",
-  "ProfileOHCancel": "Cancel"
-  
+  "ProfileOHAddFriend": "Добавить в друзья",
+  "ProfileOHBlock": "Заблокировать",
+  "ProfileOHReport": "Пожаловаться",
+  "ProfileOHCancel": "Отмена"
 }
