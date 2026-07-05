@@ -1,0 +1,19 @@
+{
+  "CGInfoUserFallback": "User",
+  "KickReasonSkillLevelTitle": "Not the right skill level",
+  "KickReasonSkillLevelMessage": "The host removed you because your skill level does not match this event.",
+  "KickReasonUnresponsiveTitle": "Unresponsive",
+  "KickReasonUnresponsiveMessage": "The host removed you because you were unresponsive or did not confirm.",
+  "KickReasonBehaviorTitle": "Inappropriate behavior",
+  "KickReasonBehaviorMessage": "The host removed you because of inappropriate behavior.",
+  "KickReasonRequirementsTitle": "Event requirements not met",
+  "KickReasonRequirementsMessage": "The host removed you because you did not meet the event requirements.",
+  "KickReasonHostDecisionTitle": "Host decision",
+  "KickReasonHostDecisionMessage": "The host removed you from this event.",
+  "KickReasonOtherTitle": "Other reason",
+  "KickReasonOtherMessage": "The host removed you from this event for another reason.",
+  "KickPlayerModalTitle": "Remove player?",
+  "KickPlayerModalMessage": "Choose a reason before removing {{name}} from this event. This reason may be shown in their notification.",
+  "KickPlayerCancel": "Cancel",
+  "KickPlayerConfirm": "Remove player"
+}
