@@ -1,28 +1,299 @@
 {
-  "NotifCardAccount": "Аккаунт",
-  "NotifCardRequests": "Запросы",
-  "NotifCardSubscription": "Подписка",
-  "NotifCardAnnouncement": "Объявление",
-  "NotifCardEvents": "Мероприятия",
-  "NotifCardSocial": "Социальное",
-  "NotifCardReports": "Жалобы",
-  "NotifCardApp": "Приложение",
-  "NotifCardNotification": "Уведомление",
+"NotifCardAccount": "Аккаунт",
+"NotifCardRequests": "Запросы",
+"NotifCardSubscription": "Подписка",
+"NotifCardAnnouncement": "Объявление",
+"NotifCardEvents": "События",
+"NotifCardSocial": "Социальное",
+"NotifCardReports": "Жалобы",
+"NotifCardApp": "Приложение",
+"NotifCardNotification": "Уведомление",
 
-  "NotificationsJustNow": "Только что",
-  "NotificationsMinAgo": "{{count}} мин назад",
-  "NotificationsHourAgo": "{{count}} час назад",
-  "NotificationsHourAgo_plural": "{{count}} ч назад",
-  "NotificationsYesterday": "Вчера",
-  "NotificationsDaysAgo": "{{count}} дн. назад",
-  "NotificationsLastWeek": "На прошлой неделе",
-  "NotificationsClearAllTitle": "Очистить уведомления?",
-  "NotificationsClearAllMessage": "Все уведомления из этого списка будут удалены.",
-  "NotificationsClearAllConfirm": "Очистить всё",
-  "NotificationsCancel": "Отмена",
-  "NotificationsEmptyTitle": "Уведомлений нет",
-  "NotificationsEmptyText": "Здесь будут появляться важные обновления об аккаунте, запросах, подписках и новостях Sportmate.",
-  "NotificationsClearAll": "Очистить всё",
-  "NotificationsMarkAllRead": "Прочитать все",
-  "NotificationsPopupOk": "ОК"
+"NotificationsJustNow": "Только что",
+"NotificationsMinAgo": "{{count}} мин назад",
+"NotificationsHourAgo": "{{count}} час назад",
+"NotificationsHourAgo_plural": "{{count}} ч назад",
+"NotificationsYesterday": "Вчера",
+"NotificationsDaysAgo": "{{count}} дн. назад",
+"NotificationsLastWeek": "На прошлой неделе",
+"NotificationsClearAllTitle": "Очистить уведомления?",
+"NotificationsClearAllMessage": "Это удалит все уведомления из этого списка.",
+"NotificationsClearAllConfirm": "Очистить всё",
+"NotificationsCancel": "Отмена",
+"NotificationsEmptyTitle": "Нет уведомлений",
+"NotificationsEmptyText": "Здесь будут появляться важные обновления о вашем аккаунте, запросах, подписках и новостях Sportmate.",
+"NotificationsClearAll": "Очистить всё",
+"NotificationsMarkAllRead": "Отметить всё как прочитанное",
+"NotificationsPopupOk": "ОК",
+
+"NotificationFriendRequestAcceptedTitle": "Запрос в друзья принят",
+"NotificationFriendRequestAcceptedBody": "Ваш запрос в друзья был принят.",
+
+"NotificationFriendRequestReceivedTitle": "Новый запрос в друзья",
+"NotificationFriendRequestReceivedBody": "Кто-то отправил вам запрос в друзья.",
+
+"NotificationJoinRequestAcceptedTitle": "Запрос на участие принят",
+"NotificationJoinRequestAcceptedBody": "Ваш запрос на участие в событии был принят.",
+
+"NotificationJoinRequestRejectedTitle": "Запрос на участие отклонён",
+"NotificationJoinRequestRejectedBody": "Ваш запрос на участие в {{eventTitle}} был отклонён. Причина: {{reason}}",
+
+"NotificationEventInviteReceivedTitle": "Новое приглашение на событие",
+"NotificationEventInviteReceivedBody": "Вас пригласили на событие.",
+
+"NotificationEventInviteAcceptedTitle": "Приглашение принято",
+"NotificationEventInviteAcceptedBody": "Кто-то принял ваше приглашение на событие.",
+
+"NotificationEventCancelledTitle": "Событие отменено",
+"NotificationEventCancelledBody": "{{eventTitle}} было отменено. Причина: {{reason}}",
+
+"NotificationEventCompletedTitle": "Событие завершено",
+"NotificationEventCompletedBody": "Ваше событие было отмечено как завершённое.",
+
+"NotificationPlayerJoinedTitle": "Новый участник присоединился",
+"NotificationPlayerJoinedBody": "Кто-то присоединился к вашему событию.",
+
+"NotificationPlayerLeftTitle": "Участник покинул событие",
+"NotificationPlayerLeftBody": "Участник покинул ваше событие.",
+
+"NotificationPlayerRemovedTitle": "Вы удалены из события",
+"NotificationPlayerRemovedBody": "Вы были удалены из {{eventTitle}}. Причина: {{reason}}",
+
+"NotificationReviewReceivedTitle": "Получен новый отзыв",
+"NotificationReviewReceivedBody": "Кто-то оставил отзыв в вашем профиле.",
+
+"NotificationCustomEventApprovedTitle": "Пользовательское событие одобрено",
+"NotificationCustomEventApprovedBody": "Ваш запрос на пользовательское событие был одобрен.",
+
+"NotificationCustomEventRejectedTitle": "Пользовательское событие отклонено",
+"NotificationCustomEventRejectedBody": "Ваш запрос на пользовательское событие был отклонён.",
+
+"NotificationCoachApprovedTitle": "Аккаунт тренера одобрен",
+"NotificationCoachApprovedBody": "Ваш аккаунт тренера был одобрен.",
+
+"NotificationCoachRejectedTitle": "Аккаунт тренера отклонён",
+"NotificationCoachRejectedBody": "Ваш запрос на аккаунт тренера был отклонён.",
+
+"NotificationCoachNeedsChangesTitle": "Запрос тренера требует изменений",
+"NotificationCoachNeedsChangesBody": "Ваш запрос тренера требует некоторых изменений.",
+
+"NotificationCommunityApprovedTitle": "Запрос сообщества одобрен",
+"NotificationCommunityApprovedBody": "Ваш запрос сообщества был одобрен.",
+
+"NotificationCommunityRejectedTitle": "Запрос сообщества отклонён",
+"NotificationCommunityRejectedBody": "Ваш запрос сообщества был отклонён.",
+
+"NotificationCommunityEditApprovedTitle": "Изменение сообщества одобрено",
+"NotificationCommunityEditApprovedBody": "Спасибо за помощь в поддержании актуальности Sportmate.",
+
+"NotificationCommunityEditRejectedTitle": "Изменение сообщества отклонено",
+"NotificationCommunityEditRejectedBody": "Ваш запрос на изменение сообщества был отклонён.",
+
+"NotificationPremiumActivatedTitle": "Премиум активирован",
+"NotificationPremiumActivatedBody": "Ваша премиум-подписка теперь активна.",
+
+"NotificationPremiumCancelledTitle": "Премиум отменён",
+"NotificationPremiumCancelledBody": "Ваша премиум-подписка была отменена.",
+
+"NotificationPremiumExpiredTitle": "Премиум истёк",
+"NotificationPremiumExpiredBody": "Срок вашей премиум-подписки истёк.",
+
+"NotificationPremiumExpiringTitle": "Премиум скоро истекает",
+"NotificationPremiumExpiringBody": "Срок вашей премиум-подписки скоро истекает.",
+
+"NotificationPhotoApprovedTitle": "Фото профиля одобрено",
+"NotificationPhotoApprovedBody": "Ваше фото профиля было одобрено.",
+
+"NotificationPhotoRejectedTitle": "Фото профиля отклонено",
+"NotificationPhotoRejectedBody": "Ваше фото профиля было отклонено.",
+
+"NotificationVerificationApprovedTitle": "Верификация одобрена",
+"NotificationVerificationApprovedBody": "Верификация вашего аккаунта была одобрена.",
+
+"NotificationVerificationRejectedTitle": "Верификация отклонена",
+"NotificationVerificationRejectedBody": "Верификация вашего аккаунта была отклонена.",
+
+"NotificationEmailChangedTitle": "Email изменён",
+"NotificationEmailChangedBody": "Ваш адрес электронной почты был изменён.",
+
+"NotificationPasswordChangedTitle": "Пароль изменён",
+"NotificationPasswordChangedBody": "Ваш пароль был изменён.",
+
+"NotificationReportActionTakenTitle": "Жалоба рассмотрена",
+"NotificationReportActionTakenBody": "Спасибо за вашу жалобу. Мы рассмотрели её и приняли соответствующие меры.",
+
+"NotificationReportNoViolationTitle": "Жалоба рассмотрена",
+"NotificationReportNoViolationBody": "Спасибо за вашу жалобу. Мы рассмотрели её и не обнаружили нарушения.",
+
+"NotificationNewSportTitle": "Добавлен новый вид спорта",
+"NotificationNewSportBody": "Новый вид спорта теперь доступен в Sportmate.",
+
+"NotificationNewActivityTitle": "Добавлена новая активность",
+"NotificationNewActivityBody": "Новая активность теперь доступна в Sportmate.",
+
+"NotificationNewCommunityTitle": "Добавлено новое сообщество",
+"NotificationNewCommunityBody": "В Sportmate было добавлено новое сообщество.",
+
+"NotificationAppUpdateTitle": "Доступно обновление приложения",
+"NotificationAppUpdateBody": "Доступно новое обновление Sportmate.",
+
+"NotificationMaintenanceTitle": "Уведомление о техобслуживании",
+"NotificationMaintenanceBody": "В Sportmate запланировано техническое обновление.",
+
+"NotificationPolicyUpdateTitle": "Обновление политики",
+"NotificationPolicyUpdateBody": "Политики Sportmate были обновлены.",
+
+"NotificationEventFallback": "Событие",
+
+"KickPlayerModalTitle": "Удалить участника?",
+"KickPlayerModalMessage": "Выберите причину перед удалением {{name}} из этого события. Эта причина может быть показана в его уведомлении.",
+"KickPlayerCancel": "Отмена",
+"KickPlayerConfirm": "Удалить участника",
+
+"KickReasonSkillLevelTitle": "Неподходящий уровень навыков",
+"KickReasonSkillLevelMessage": "Ваш уровень навыков не соответствует этому событию.",
+
+"KickReasonUnresponsiveTitle": "Не отвечает",
+"KickReasonUnresponsiveMessage": "Вы не отвечали или не подтвердили участие.",
+
+"KickReasonBehaviorTitle": "Неподобающее поведение",
+"KickReasonBehaviorMessage": "Вы были удалены из-за неподобающего поведения.",
+
+"KickReasonRequirementsTitle": "Требования события не выполнены",
+"KickReasonRequirementsMessage": "Вы не соответствовали требованиям события.",
+
+"KickReasonHostDecisionTitle": "Решение организатора",
+"KickReasonHostDecisionMessage": "Организатор удалил вас из этого события.",
+
+"KickReasonOtherTitle": "Другая причина",
+"KickReasonOtherMessage": "Организатор удалил вас из этого события по другой причине.",
+
+"JoinReqRejectReasonSkill": "Уровень навыков не подходит",
+"JoinReqRejectReasonSkillMessage": "Ваш уровень навыков не соответствует этому событию.",
+
+"JoinReqRejectReasonFull": "Событие заполнено",
+"JoinReqRejectReasonFullMessage": "Событие уже заполнено.",
+
+"JoinReqRejectReasonSpecificGroup": "Для определённой группы",
+"JoinReqRejectReasonSpecificGroupMessage": "Это событие предназначено для определённой группы игроков.",
+
+"JoinReqRejectReasonOther": "Другая причина",
+"JoinReqRejectReasonOtherMessage": "Организатор отклонил ваш запрос по другой причине.",
+
+"JoinReqRejectReasonNotSpecified": "Не указано",
+
+"JoinReqReasonModalTitle": "Отклонить запрос",
+"JoinReqReasonModalSubtitle": "Выберите причину перед отклонением этого запроса на участие.",
+"JoinReqCancel": "Отмена",
+
+"CancelReasonTitle": "Причина отмены",
+"CancelReasonTitleDetailsHeader": "Причина отмены",
+
+"CancelReasonNotEnoughPlayers": "Недостаточно участников",
+"CancelReasonNotEnoughPlayersMessage": "Событие было отменено, потому что участников было недостаточно.",
+
+"CancelReasonWeatherConditions": "Погодные условия",
+"CancelReasonWeatherConditionsMessage": "Событие было отменено из-за погодных условий.",
+
+"CancelReasonVenueUnavailable": "Место недоступно",
+"CancelReasonVenueUnavailableMessage": "Событие было отменено, потому что место проведения недоступно.",
+
+"CancelReasonSchedulingConflict": "Конфликт расписания",
+"CancelReasonSchedulingConflictMessage": "Событие было отменено из-за конфликта расписания.",
+
+"CancelReasonOther": "Другая причина",
+"CancelReasonOtherMessage": "Событие было отменено по другой причине.",
+
+"PhotoRejectReasonInappropriateTitle": "Неподходящее фото",
+"PhotoRejectReasonInappropriateMessage": "Ваше фото профиля было отклонено, потому что оно не соответствует правилам нашего сообщества.",
+
+"PhotoRejectReasonBlurryTitle": "Фото нечёткое",
+"PhotoRejectReasonBlurryMessage": "Ваше фото профиля было отклонено, потому что изображение размытое или нечёткое.",
+
+"PhotoRejectReasonNotYouTitle": "На фото вас плохо видно",
+"PhotoRejectReasonNotYouMessage": "Ваше фото профиля было отклонено, потому что на нём вас не видно достаточно чётко.",
+
+"PhotoRejectReasonOtherTitle": "Другая причина",
+"PhotoRejectReasonOtherMessage": "Ваше фото профиля было отклонено по другой причине.",
+
+"VerificationRejectReasonInvalidTitle": "Недействительные данные для верификации",
+"VerificationRejectReasonInvalidMessage": "Верификация вашего аккаунта была отклонена, потому что отправленную информацию невозможно проверить.",
+
+"VerificationRejectReasonMismatchTitle": "Данные не совпадают",
+"VerificationRejectReasonMismatchMessage": "Верификация вашего аккаунта была отклонена, потому что отправленная информация не совпадает с вашим профилем.",
+
+"VerificationRejectReasonUnreadableTitle": "Документ нечитаемый",
+"VerificationRejectReasonUnreadableMessage": "Верификация вашего аккаунта была отклонена, потому что отправленный документ или фото нечитаемы.",
+
+"VerificationRejectReasonExpiredTitle": "Истёкший документ",
+"VerificationRejectReasonExpiredMessage": "Верификация вашего аккаунта была отклонена, потому что отправленный документ, похоже, просрочен.",
+
+"VerificationRejectReasonOtherTitle": "Другая причина",
+"VerificationRejectReasonOtherMessage": "Верификация вашего аккаунта была отклонена по другой причине.",
+
+"CoachRejectReasonIncompleteTitle": "Неполная информация",
+"CoachRejectReasonIncompleteMessage": "Ваш запрос на аккаунт тренера был отклонён, потому что отсутствует часть обязательной информации.",
+
+"CoachRejectReasonInvalidCertificateTitle": "Недействительный сертификат",
+"CoachRejectReasonInvalidCertificateMessage": "Ваш запрос на аккаунт тренера был отклонён, потому что сертификат не удалось проверить.",
+
+"CoachRejectReasonProfileIssueTitle": "Профиль требует улучшения",
+"CoachRejectReasonProfileIssueMessage": "Ваш запрос на аккаунт тренера был отклонён, потому что информация в вашем профиле требует улучшения.",
+
+"CoachRejectReasonOtherTitle": "Другая причина",
+"CoachRejectReasonOtherMessage": "Ваш запрос на аккаунт тренера был отклонён по другой причине.",
+
+"CoachNeedsChangesReasonIncompleteTitle": "Неполная информация",
+"CoachNeedsChangesReasonIncompleteMessage": "Ваш запрос тренера требует изменений, потому что отсутствует часть обязательной информации.",
+
+"CoachNeedsChangesReasonCertificateTitle": "Сертификат требует изменений",
+"CoachNeedsChangesReasonCertificateMessage": "Ваш запрос тренера требует изменений, потому что ваш сертификат нужно обновить или заменить.",
+
+"CoachNeedsChangesReasonProfileTitle": "Профиль требует изменений",
+"CoachNeedsChangesReasonProfileMessage": "Ваш запрос тренера требует изменений, потому что информацию в вашем профиле нужно обновить.",
+
+"CoachNeedsChangesReasonOtherTitle": "Другая причина",
+"CoachNeedsChangesReasonOtherMessage": "Ваш запрос тренера требует изменений по другой причине.",
+
+"CommunityRejectReasonIncompleteTitle": "Неполная информация",
+"CommunityRejectReasonIncompleteMessage": "Ваш запрос сообщества был отклонён, потому что отсутствует часть обязательной информации.",
+
+"CommunityRejectReasonGuidelinesTitle": "Не соответствует правилам",
+"CommunityRejectReasonGuidelinesMessage": "Ваш запрос сообщества был отклонён, потому что он не соответствует правилам нашего сообщества.",
+
+"CommunityRejectReasonDuplicateTitle": "Дублирующее сообщество",
+"CommunityRejectReasonDuplicateMessage": "Ваш запрос сообщества был отклонён, потому что похожее сообщество уже существует.",
+
+"CommunityRejectReasonOtherTitle": "Другая причина",
+"CommunityRejectReasonOtherMessage": "Ваш запрос сообщества был отклонён по другой причине.",
+
+"CommunityEditRejectReasonInvalidTitle": "Недействительное изменение",
+"CommunityEditRejectReasonInvalidMessage": "Ваш запрос на изменение сообщества был отклонён, потому что отправленные изменения не могут быть одобрены.",
+
+"CommunityEditRejectReasonGuidelinesTitle": "Не соответствует правилам",
+"CommunityEditRejectReasonGuidelinesMessage": "Ваш запрос на изменение сообщества был отклонён, потому что изменения не соответствуют нашим правилам.",
+
+"CommunityEditRejectReasonOtherTitle": "Другая причина",
+"CommunityEditRejectReasonOtherMessage": "Ваш запрос на изменение сообщества был отклонён по другой причине.",
+
+"CustomEventRejectReasonIncompleteTitle": "Неполная информация",
+"CustomEventRejectReasonIncompleteMessage": "Ваш запрос на пользовательское событие был отклонён, потому что отсутствует часть обязательной информации.",
+
+"CustomEventRejectReasonUnavailableTitle": "Невозможно создать",
+"CustomEventRejectReasonUnavailableMessage": "Ваш запрос на пользовательское событие был отклонён, потому что это событие сейчас невозможно создать.",
+
+"CustomEventRejectReasonGuidelinesTitle": "Не соответствует правилам",
+"CustomEventRejectReasonGuidelinesMessage": "Ваш запрос на пользовательское событие был отклонён, потому что оно не соответствует нашим правилам.",
+
+"CustomEventRejectReasonOtherTitle": "Другая причина",
+"CustomEventRejectReasonOtherMessage": "Ваш запрос на пользовательское событие был отклонён по другой причине.",
+
+"NotificationCardTopicaccount": "Аккаунт",
+"NotificationCardTopicrequests": "Запросы",
+"NotificationCardTopicsubscription": "Подписка",
+"NotificationCardTopicannouncements": "Объявления",
+"NotificationCardTopicevents": "События",
+"NotificationCardTopicsocial": "Социальное",
+"NotificationCardTopicreports": "Жалобы",
+"NotificationCardTopicapp": "Приложение"
 }
