@@ -1,9 +1,9 @@
 {
-  "FilterByCategory": "Filter By Category",
-  "EventClear": "Clear",
-  "EventSports": "Sports",
-  "EventActivities": "Activities",
-  "CustomActivity": " Custom Activity",
-  "EventCancelFilter": "Cancel",
-  "EventApplyFilter": "Apply"
+  "FilterByCategory": "Фильтр по категории",
+  "EventClear": "Сбросить",
+  "EventSports": "Спорт",
+  "EventActivities": "Активности",
+  "CustomActivity": " Пользовательская активность",
+  "EventCancelFilter": "Отмена",
+  "EventApplyFilter": "Применить"
 }
