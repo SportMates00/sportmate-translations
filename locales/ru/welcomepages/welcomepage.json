@@ -1,9 +1,8 @@
 {
-  "WelcomePageSubtitle": "Find local players,events, and more in minutes",
-  "WelcomePageSignUp": "Sign Up with Email",
-  "WelcomePageHaveAccount": "Already have an account",
-  "WelcomeLogin": "Log in",
-  "WelcomePageTermsandConditions": "Terms and Conditions",
-  "WelcomePagePrivacyPolicy": "Privacy Policy"
-  
+  "WelcomePageSubtitle": "Находите игроков, мероприятия и многое другое рядом с вами за пару минут",
+  "WelcomePageSignUp": "Зарегистрироваться через Email",
+  "WelcomePageHaveAccount": "Уже есть аккаунт",
+  "WelcomeLogin": "Войти",
+  "WelcomePageTermsandConditions": "Условия использования",
+  "WelcomePagePrivacyPolicy": "Политика конфиденциальности"
 }
