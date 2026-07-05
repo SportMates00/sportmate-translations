@@ -1,6 +1,6 @@
 {
-  "MenuTabEditProfile": "Edit Profile",
-  "MenuTabSettings": "Settings",
-  "MenuTabVisibilityInsights": "Visibility Insights",
-  "MenuTabCancel": "Cancel"
+  "MenuTabEditProfile": "Редактировать профиль",
+  "MenuTabSettings": "Настройки",
+  "MenuTabVisibilityInsights": "Статистика видимости",
+  "MenuTabCancel": "Отмена"
 }
