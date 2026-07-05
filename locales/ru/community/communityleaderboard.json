@@ -1,12 +1,12 @@
 {
-  "CommLeaderboardWeek": "Week",
-  "CommLeaderboardMonth": "Month",
-  "CommLeaderboardAllTime": "All time",
-  "CommLeaderboardPlayerFallback": "Player",
-  "CommLeaderboardHint": "Complete events in this community to appear in leaderboard.",
-  "CommLeaderboardTitle": "Leaderboard",
-  "CommLeaderboardPts": "pts",
-  "CommLeaderboardNoData": "No data yet",
-  "CommLeaderboardPlayers": "Players",
-  "CommLeaderboardEventsPlayed": "Events played"
+  "CommLeaderboardWeek": "Неделя",
+  "CommLeaderboardMonth": "Месяц",
+  "CommLeaderboardAllTime": "За всё время",
+  "CommLeaderboardPlayerFallback": "Игрок",
+  "CommLeaderboardHint": "Участвуйте в мероприятиях этого сообщества, чтобы попасть в рейтинг.",
+  "CommLeaderboardTitle": "Рейтинг",
+  "CommLeaderboardPts": "очк.",
+  "CommLeaderboardNoData": "Пока нет данных",
+  "CommLeaderboardPlayers": "Игроки",
+  "CommLeaderboardEventsPlayed": "Участий в мероприятиях"
 }
