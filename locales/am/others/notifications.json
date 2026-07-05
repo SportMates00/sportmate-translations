@@ -1,31 +1,299 @@
 {
-  "NotifCardAccount": "Հաշիվ",
-  "NotifCardRequests": "Հայտեր",
-  "NotifCardSubscription": "Բաժանորդագրություն",
-  "NotifCardAnnouncement": "Հայտարարություն",
-  "NotifCardEvents": "Միջոցառումներ",
-  "NotifCardSocial": "Սոցիալական",
-  "NotifCardReports": "Բողոքներ",
-  "NotifCardApp": "Հավելված",
-  "NotifCardNotification": "Ծանուցում",
+"NotifCardAccount": "Հաշիվ",
+"NotifCardRequests": "Հարցումներ",
+"NotifCardSubscription": "Բաժանորդագրություն",
+"NotifCardAnnouncement": "Հայտարարություն",
+"NotifCardEvents": "Միջոցառումներ",
+"NotifCardSocial": "Սոցիալական",
+"NotifCardReports": "Զեկույցներ",
+"NotifCardApp": "Հավելված",
+"NotifCardNotification": "Ծանուցում",
 
+"NotificationsJustNow": "Հենց հիմա",
+"NotificationsMinAgo": "{{count}} րոպե առաջ",
+"NotificationsHourAgo": "{{count}} ժամ առաջ",
+"NotificationsHourAgo_plural": "{{count}} ժամ առաջ",
+"NotificationsYesterday": "Երեկ",
+"NotificationsDaysAgo": "{{count}} օր առաջ",
+"NotificationsLastWeek": "Անցած շաբաթ",
+"NotificationsClearAllTitle": "Մաքրե՞լ ծանուցումները",
+"NotificationsClearAllMessage": "Սա կհեռացնի բոլոր ծանուցումները այս ցանկից։",
+"NotificationsClearAllConfirm": "Մաքրել բոլորը",
+"NotificationsCancel": "Չեղարկել",
+"NotificationsEmptyTitle": "Ծանուցումներ չկան",
+"NotificationsEmptyText": "Այստեղ կհայտնվեն կարևոր թարմացումներ ձեր հաշվի, հարցումների, բաժանորդագրությունների և Sportmate-ի նորությունների մասին։",
+"NotificationsClearAll": "Մաքրել բոլորը",
+"NotificationsMarkAllRead": "Նշել բոլորը որպես կարդացված",
+"NotificationsPopupOk": "Լավ",
 
-  "NotificationsJustNow": "Հենց հիմա",
-  "NotificationsMinAgo": "{{count}} րոպե առաջ",
-  "NotificationsHourAgo": "{{count}} ժամ առաջ",
-  "NotificationsHourAgo_plural": "{{count}} ժամ առաջ",
-  "NotificationsYesterday": "Երեկ",
-  "NotificationsDaysAgo": "{{count}} օր առաջ",
-  "NotificationsLastWeek": "Անցած շաբաթ",
-  "NotificationsClearAllTitle": "Մաքրե՞լ ծանուցումները",
-  "NotificationsClearAllMessage": "Սա կհեռացնի բոլոր ծանուցումները այս ցանկից։",
-  "NotificationsClearAllConfirm": "Մաքրել բոլորը",
-  "NotificationsCancel": "Չեղարկել",
-  "NotificationsEmptyTitle": "Ծանուցումներ չկան",
-  "NotificationsEmptyText": "Ձեր հաշվի, հայտերի, բաժանորդագրությունների և Sportmate-ի նորությունների մասին կարևոր թարմացումները կհայտնվեն այստեղ։",
-  "NotificationsClearAll": "Մաքրել բոլորը",
-  "NotificationsMarkAllRead": "Նշել բոլորը որպես կարդացված",
-  "NotificationsPopupOk": "Լավ"
+"NotificationFriendRequestAcceptedTitle": "Ընկերության հարցումն ընդունվել է",
+"NotificationFriendRequestAcceptedBody": "Ձեր ընկերության հարցումն ընդունվել է։",
 
+"NotificationFriendRequestReceivedTitle": "Նոր ընկերության հարցում",
+"NotificationFriendRequestReceivedBody": "Ինչ-որ մեկը ձեզ ընկերության հարցում է ուղարկել։",
+
+"NotificationJoinRequestAcceptedTitle": "Միանալու հարցումն ընդունվել է",
+"NotificationJoinRequestAcceptedBody": "Միջոցառմանը միանալու ձեր հարցումն ընդունվել է։",
+
+"NotificationJoinRequestRejectedTitle": "Միանալու հարցումը մերժվել է",
+"NotificationJoinRequestRejectedBody": "{{eventTitle}} միջոցառմանը միանալու ձեր հարցումը մերժվել է։ Պատճառ՝ {{reason}}",
+
+"NotificationEventInviteReceivedTitle": "Նոր միջոցառման հրավեր",
+"NotificationEventInviteReceivedBody": "Ձեզ հրավիրել են միջոցառման։",
+
+"NotificationEventInviteAcceptedTitle": "Հրավերն ընդունվել է",
+"NotificationEventInviteAcceptedBody": "Ինչ-որ մեկը ընդունել է ձեր միջոցառման հրավերը։",
+
+"NotificationEventCancelledTitle": "Միջոցառումը չեղարկվել է",
+"NotificationEventCancelledBody": "{{eventTitle}} միջոցառումը չեղարկվել է։ Պատճառ՝ {{reason}}",
+
+"NotificationEventCompletedTitle": "Միջոցառումն ավարտվել է",
+"NotificationEventCompletedBody": "Ձեր միջոցառումը նշվել է որպես ավարտված։",
+
+"NotificationPlayerJoinedTitle": "Նոր մասնակից է միացել",
+"NotificationPlayerJoinedBody": "Ինչ-որ մեկը միացել է ձեր միջոցառմանը։",
+
+"NotificationPlayerLeftTitle": "Մասնակիցը լքել է միջոցառումը",
+"NotificationPlayerLeftBody": "Մասնակիցը լքել է ձեր միջոցառումը։",
+
+"NotificationPlayerRemovedTitle": "Հեռացվել եք միջոցառումից",
+"NotificationPlayerRemovedBody": "Դուք հեռացվել եք {{eventTitle}} միջոցառումից։ Պատճառ՝ {{reason}}",
+
+"NotificationReviewReceivedTitle": "Նոր կարծիք եք ստացել",
+"NotificationReviewReceivedBody": "Ինչ-որ մեկը կարծիք է թողել ձեր պրոֆիլում։",
+
+"NotificationCustomEventApprovedTitle": "Անհատական միջոցառումը հաստատվել է",
+"NotificationCustomEventApprovedBody": "Ձեր անհատական միջոցառման հարցումը հաստատվել է։",
+
+"NotificationCustomEventRejectedTitle": "Անհատական միջոցառումը մերժվել է",
+"NotificationCustomEventRejectedBody": "Ձեր անհատական միջոցառման հարցումը մերժվել է։",
+
+"NotificationCoachApprovedTitle": "Մարզչի հաշիվը հաստատվել է",
+"NotificationCoachApprovedBody": "Ձեր մարզչի հաշիվը հաստատվել է։",
+
+"NotificationCoachRejectedTitle": "Մարզչի հաշիվը մերժվել է",
+"NotificationCoachRejectedBody": "Ձեր մարզչի հաշվի հարցումը մերժվել է։",
+
+"NotificationCoachNeedsChangesTitle": "Մարզչի հարցումը փոփոխությունների կարիք ունի",
+"NotificationCoachNeedsChangesBody": "Ձեր մարզչի հարցումը որոշ փոփոխությունների կարիք ունի։",
+
+"NotificationCommunityApprovedTitle": "Համայնքի հարցումը հաստատվել է",
+"NotificationCommunityApprovedBody": "Ձեր համայնքի հարցումը հաստատվել է։",
+
+"NotificationCommunityRejectedTitle": "Համայնքի հարցումը մերժվել է",
+"NotificationCommunityRejectedBody": "Ձեր համայնքի հարցումը մերժվել է։",
+
+"NotificationCommunityEditApprovedTitle": "Համայնքի փոփոխությունը հաստատվել է",
+"NotificationCommunityEditApprovedBody": "Շնորհակալություն Sportmate-ը թարմ պահելու հարցում օգնելու համար։",
+
+"NotificationCommunityEditRejectedTitle": "Համայնքի փոփոխությունը մերժվել է",
+"NotificationCommunityEditRejectedBody": "Ձեր համայնքի փոփոխության հարցումը մերժվել է։",
+
+"NotificationPremiumActivatedTitle": "Պրեմիումը ակտիվացվել է",
+"NotificationPremiumActivatedBody": "Ձեր պրեմիում բաժանորդագրությունն այժմ ակտիվ է։",
+
+"NotificationPremiumCancelledTitle": "Պրեմիումը չեղարկվել է",
+"NotificationPremiumCancelledBody": "Ձեր պրեմիում բաժանորդագրությունը չեղարկվել է։",
+
+"NotificationPremiumExpiredTitle": "Պրեմիումը սպառվել է",
+"NotificationPremiumExpiredBody": "Ձեր պրեմիում բաժանորդագրության ժամկետը սպառվել է։",
+
+"NotificationPremiumExpiringTitle": "Պրեմիումի ժամկետը շուտով կլրանա",
+"NotificationPremiumExpiringBody": "Ձեր պրեմիում բաժանորդագրության ժամկետը շուտով կլրանա։",
+
+"NotificationPhotoApprovedTitle": "Պրոֆիլի լուսանկարը հաստատվել է",
+"NotificationPhotoApprovedBody": "Ձեր պրոֆիլի լուսանկարը հաստատվել է։",
+
+"NotificationPhotoRejectedTitle": "Պրոֆիլի լուսանկարը մերժվել է",
+"NotificationPhotoRejectedBody": "Ձեր պրոֆիլի լուսանկարը մերժվել է։",
+
+"NotificationVerificationApprovedTitle": "Հաստատումն ընդունվել է",
+"NotificationVerificationApprovedBody": "Ձեր հաշվի հաստատումն ընդունվել է։",
+
+"NotificationVerificationRejectedTitle": "Հաստատումը մերժվել է",
+"NotificationVerificationRejectedBody": "Ձեր հաշվի հաստատումը մերժվել է։",
+
+"NotificationEmailChangedTitle": "Էլ․ հասցեն փոխվել է",
+"NotificationEmailChangedBody": "Ձեր էլ․ փոստի հասցեն փոխվել է։",
+
+"NotificationPasswordChangedTitle": "Գաղտնաբառը փոխվել է",
+"NotificationPasswordChangedBody": "Ձեր գաղտնաբառը փոխվել է։",
+
+"NotificationReportActionTakenTitle": "Բողոքը ուսումնասիրվել է",
+"NotificationReportActionTakenBody": "Շնորհակալություն ձեր բողոքի համար։ Մենք ուսումնասիրել ենք այն և համապատասխան քայլեր ենք ձեռնարկել։",
+
+"NotificationReportNoViolationTitle": "Բողոքը ուսումնասիրվել է",
+"NotificationReportNoViolationBody": "Շնորհակալություն ձեր բողոքի համար։ Մենք ուսումնասիրել ենք այն և խախտում չենք հայտնաբերել։",
+
+"NotificationNewSportTitle": "Նոր սպորտաձև է ավելացվել",
+"NotificationNewSportBody": "Sportmate-ում այժմ հասանելի է նոր սպորտաձև։",
+
+"NotificationNewActivityTitle": "Նոր ակտիվություն է ավելացվել",
+"NotificationNewActivityBody": "Sportmate-ում այժմ հասանելի է նոր ակտիվություն։",
+
+"NotificationNewCommunityTitle": "Նոր համայնք է ավելացվել",
+"NotificationNewCommunityBody": "Sportmate-ում նոր համայնք է ավելացվել։",
+
+"NotificationAppUpdateTitle": "Հավելվածի թարմացում կա",
+"NotificationAppUpdateBody": "Sportmate-ի նոր թարմացումը հասանելի է։",
+
+"NotificationMaintenanceTitle": "Տեխնիկական սպասարկման ծանուցում",
+"NotificationMaintenanceBody": "Sportmate-ում նախատեսված է տեխնիկական թարմացում։",
+
+"NotificationPolicyUpdateTitle": "Քաղաքականության թարմացում",
+"NotificationPolicyUpdateBody": "Sportmate-ի քաղաքականությունները թարմացվել են։",
+
+"NotificationEventFallback": "Միջոցառում",
+
+"KickPlayerModalTitle": "Հեռացնե՞լ մասնակցին",
+"KickPlayerModalMessage": "Ընտրեք պատճառը՝ նախքան {{name}}-ին այս միջոցառումից հեռացնելը։ Այս պատճառը կարող է ցուցադրվել նրա ծանուցման մեջ։",
+"KickPlayerCancel": "Չեղարկել",
+"KickPlayerConfirm": "Հեռացնել մասնակցին",
+
+"KickReasonSkillLevelTitle": "Համապատասխան հմտության մակարդակ չէ",
+"KickReasonSkillLevelMessage": "Ձեր հմտության մակարդակը չի համապատասխանում այս միջոցառմանը։",
+
+"KickReasonUnresponsiveTitle": "Չի արձագանքում",
+"KickReasonUnresponsiveMessage": "Դուք չեք արձագանքել կամ չեք հաստատել։",
+
+"KickReasonBehaviorTitle": "Անպատշաճ վարքագիծ",
+"KickReasonBehaviorMessage": "Դուք հեռացվել եք անպատշաճ վարքագծի պատճառով։",
+
+"KickReasonRequirementsTitle": "Միջոցառման պահանջները չեն բավարարվել",
+"KickReasonRequirementsMessage": "Դուք չեք բավարարել միջոցառման պահանջները։",
+
+"KickReasonHostDecisionTitle": "Կազմակերպչի որոշում",
+"KickReasonHostDecisionMessage": "Կազմակերպիչը հեռացրել է ձեզ այս միջոցառումից։",
+
+"KickReasonOtherTitle": "Այլ պատճառ",
+"KickReasonOtherMessage": "Կազմակերպիչը ձեզ հեռացրել է այս միջոցառումից այլ պատճառով։",
+
+"JoinReqRejectReasonSkill": "Հմտության մակարդակը չի համապատասխանում",
+"JoinReqRejectReasonSkillMessage": "Ձեր հմտության մակարդակը չի համապատասխանում այս միջոցառմանը։",
+
+"JoinReqRejectReasonFull": "Միջոցառումը լիքն է",
+"JoinReqRejectReasonFullMessage": "Միջոցառումն արդեն լիքն է։",
+
+"JoinReqRejectReasonSpecificGroup": "Հատուկ խմբի համար է",
+"JoinReqRejectReasonSpecificGroupMessage": "Այս միջոցառումը նախատեսված է խաղացողների հատուկ խմբի համար։",
+
+"JoinReqRejectReasonOther": "Այլ պատճառ",
+"JoinReqRejectReasonOtherMessage": "Կազմակերպիչը մերժել է ձեր հարցումը այլ պատճառով։",
+
+"JoinReqRejectReasonNotSpecified": "Չի նշվել",
+
+"JoinReqReasonModalTitle": "Մերժել հարցումը",
+"JoinReqReasonModalSubtitle": "Ընտրեք պատճառը՝ նախքան միանալու այս հարցումը մերժելը։",
+"JoinReqCancel": "Չեղարկել",
+
+"CancelReasonTitle": "Չեղարկման պատճառ",
+"CancelReasonTitleDetailsHeader": "Չեղարկման պատճառ",
+
+"CancelReasonNotEnoughPlayers": "Բավարար մասնակիցներ չկան",
+"CancelReasonNotEnoughPlayersMessage": "Միջոցառումը չեղարկվել է, քանի որ բավարար մասնակիցներ չկային։",
+
+"CancelReasonWeatherConditions": "Եղանակային պայմաններ",
+"CancelReasonWeatherConditionsMessage": "Միջոցառումը չեղարկվել է եղանակային պայմանների պատճառով։",
+
+"CancelReasonVenueUnavailable": "Վայրը հասանելի չէ",
+"CancelReasonVenueUnavailableMessage": "Միջոցառումը չեղարկվել է, քանի որ վայրը հասանելի չէ։",
+
+"CancelReasonSchedulingConflict": "Ժամանակացույցի բախում",
+"CancelReasonSchedulingConflictMessage": "Միջոցառումը չեղարկվել է ժամանակացույցի բախման պատճառով։",
+
+"CancelReasonOther": "Այլ պատճառ",
+"CancelReasonOtherMessage": "Միջոցառումը չեղարկվել է այլ պատճառով։",
+
+"PhotoRejectReasonInappropriateTitle": "Անպատշաճ լուսանկար",
+"PhotoRejectReasonInappropriateMessage": "Ձեր պրոֆիլի լուսանկարը մերժվել է, քանի որ այն չի համապատասխանում մեր համայնքի կանոններին։",
+
+"PhotoRejectReasonBlurryTitle": "Լուսանկարը պարզ չէ",
+"PhotoRejectReasonBlurryMessage": "Ձեր պրոֆիլի լուսանկարը մերժվել է, քանի որ պատկերը աղոտ կամ անհասկանալի է։",
+
+"PhotoRejectReasonNotYouTitle": "Լուսանկարում դուք հստակ չեք երևում",
+"PhotoRejectReasonNotYouMessage": "Ձեր պրոֆիլի լուսանկարը մերժվել է, քանի որ այն ձեզ հստակ չի ցույց տալիս։",
+
+"PhotoRejectReasonOtherTitle": "Այլ պատճառ",
+"PhotoRejectReasonOtherMessage": "Ձեր պրոֆիլի լուսանկարը մերժվել է այլ պատճառով։",
+
+"VerificationRejectReasonInvalidTitle": "Անվավեր հաստատման տվյալներ",
+"VerificationRejectReasonInvalidMessage": "Ձեր հաշվի հաստատումը մերժվել է, քանի որ ներկայացված տվյալները հնարավոր չէ ստուգել։",
+
+"VerificationRejectReasonMismatchTitle": "Տվյալները չեն համընկնում",
+"VerificationRejectReasonMismatchMessage": "Ձեր հաշվի հաստատումը մերժվել է, քանի որ ներկայացված տվյալները չեն համընկնում ձեր պրոֆիլի հետ։",
+
+"VerificationRejectReasonUnreadableTitle": "Փաստաթուղթը ընթեռնելի չէ",
+"VerificationRejectReasonUnreadableMessage": "Ձեր հաշվի հաստատումը մերժվել է, քանի որ ներկայացված փաստաթուղթը կամ լուսանկարը ընթեռնելի չէ։",
+
+"VerificationRejectReasonExpiredTitle": "Ժամկետանց փաստաթուղթ",
+"VerificationRejectReasonExpiredMessage": "Ձեր հաշվի հաստատումը մերժվել է, քանի որ ներկայացված փաստաթուղթը կարծես ժամկետանց է։",
+
+"VerificationRejectReasonOtherTitle": "Այլ պատճառ",
+"VerificationRejectReasonOtherMessage": "Ձեր հաշվի հաստատումը մերժվել է այլ պատճառով։",
+
+"CoachRejectReasonIncompleteTitle": "Թերի տեղեկություն",
+"CoachRejectReasonIncompleteMessage": "Ձեր մարզչի հաշվի հարցումը մերժվել է, քանի որ որոշ պարտադիր տեղեկություններ բացակայում են։",
+
+"CoachRejectReasonInvalidCertificateTitle": "Անվավեր վկայական",
+"CoachRejectReasonInvalidCertificateMessage": "Ձեր մարզչի հաշվի հարցումը մերժվել է, քանի որ վկայականը հնարավոր չէ ստուգել։",
+
+"CoachRejectReasonProfileIssueTitle": "Պրոֆիլը բարելավման կարիք ունի",
+"CoachRejectReasonProfileIssueMessage": "Ձեր մարզչի հաշվի հարցումը մերժվել է, քանի որ ձեր պրոֆիլի տվյալները բարելավման կարիք ունեն։",
+
+"CoachRejectReasonOtherTitle": "Այլ պատճառ",
+"CoachRejectReasonOtherMessage": "Ձեր մարզչի հաշվի հարցումը մերժվել է այլ պատճառով։",
+
+"CoachNeedsChangesReasonIncompleteTitle": "Թերի տեղեկություն",
+"CoachNeedsChangesReasonIncompleteMessage": "Ձեր մարզչի հարցումը փոփոխությունների կարիք ունի, քանի որ որոշ պարտադիր տեղեկություններ բացակայում են։",
+
+"CoachNeedsChangesReasonCertificateTitle": "Վկայականը փոփոխության կարիք ունի",
+"CoachNeedsChangesReasonCertificateMessage": "Ձեր մարզչի հարցումը փոփոխությունների կարիք ունի, քանի որ ձեր վկայականը պետք է թարմացվի կամ փոխարինվի։",
+
+"CoachNeedsChangesReasonProfileTitle": "Պրոֆիլը փոփոխության կարիք ունի",
+"CoachNeedsChangesReasonProfileMessage": "Ձեր մարզչի հարցումը փոփոխությունների կարիք ունի, քանի որ ձեր պրոֆիլի տվյալները պետք է թարմացվեն։",
+
+"CoachNeedsChangesReasonOtherTitle": "Այլ պատճառ",
+"CoachNeedsChangesReasonOtherMessage": "Ձեր մարզչի հարցումը փոփոխությունների կարիք ունի այլ պատճառով։",
+
+"CommunityRejectReasonIncompleteTitle": "Թերի տեղեկություն",
+"CommunityRejectReasonIncompleteMessage": "Ձեր համայնքի հարցումը մերժվել է, քանի որ որոշ պարտադիր տեղեկություններ բացակայում են։",
+
+"CommunityRejectReasonGuidelinesTitle": "Չի համապատասխանում կանոններին",
+"CommunityRejectReasonGuidelinesMessage": "Ձեր համայնքի հարցումը մերժվել է, քանի որ այն չի համապատասխանում մեր համայնքի կանոններին։",
+
+"CommunityRejectReasonDuplicateTitle": "Կրկնվող համայնք",
+"CommunityRejectReasonDuplicateMessage": "Ձեր համայնքի հարցումը մերժվել է, քանի որ նմանատիպ համայնք արդեն գոյություն ունի։",
+
+"CommunityRejectReasonOtherTitle": "Այլ պատճառ",
+"CommunityRejectReasonOtherMessage": "Ձեր համայնքի հարցումը մերժվել է այլ պատճառով։",
+
+"CommunityEditRejectReasonInvalidTitle": "Անվավեր փոփոխություն",
+"CommunityEditRejectReasonInvalidMessage": "Ձեր համայնքի փոփոխության հարցումը մերժվել է, քանի որ ներկայացված փոփոխությունները չեն կարող հաստատվել։",
+
+"CommunityEditRejectReasonGuidelinesTitle": "Չի համապատասխանում կանոններին",
+"CommunityEditRejectReasonGuidelinesMessage": "Ձեր համայնքի փոփոխության հարցումը մերժվել է, քանի որ փոփոխությունները չեն համապատասխանում մեր կանոններին։",
+
+"CommunityEditRejectReasonOtherTitle": "Այլ պատճառ",
+"CommunityEditRejectReasonOtherMessage": "Ձեր համայնքի փոփոխության հարցումը մերժվել է այլ պատճառով։",
+
+"CustomEventRejectReasonIncompleteTitle": "Թերի տեղեկություն",
+"CustomEventRejectReasonIncompleteMessage": "Ձեր անհատական միջոցառման հարցումը մերժվել է, քանի որ որոշ պարտադիր տեղեկություններ բացակայում են։",
+
+"CustomEventRejectReasonUnavailableTitle": "Չի կարող ստեղծվել",
+"CustomEventRejectReasonUnavailableMessage": "Ձեր անհատական միջոցառման հարցումը մերժվել է, քանի որ այս միջոցառումը այս պահին չի կարող ստեղծվել։",
+
+"CustomEventRejectReasonGuidelinesTitle": "Չի համապատասխանում կանոններին",
+"CustomEventRejectReasonGuidelinesMessage": "Ձեր անհատական միջոցառման հարցումը մերժվել է, քանի որ այն չի համապատասխանում մեր կանոններին։",
+
+"CustomEventRejectReasonOtherTitle": "Այլ պատճառ",
+"CustomEventRejectReasonOtherMessage": "Ձեր անհատական միջոցառման հարցումը մերժվել է այլ պատճառով։",
+
+"NotificationCardTopicaccount": "Հաշիվ",
+"NotificationCardTopicrequests": "Հարցումներ",
+"NotificationCardTopicsubscription": "Բաժանորդագրություն",
+"NotificationCardTopicannouncements": "Հայտարարություններ",
+"NotificationCardTopicevents": "Միջոցառումներ",
+"NotificationCardTopicsocial": "Սոցիալական",
+"NotificationCardTopicreports": "Զեկույցներ",
+"NotificationCardTopicapp": "Հավելված"
 }
-
