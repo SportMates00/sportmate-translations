@@ -1,15 +1,15 @@
 {
-  "CreateContainerSomethingWentWrong": "Something went wrong",
-  "UserNotFound": "User not found.",
-  "PleaseTryAgain": "Please try again.",
-  "EditRequest": "Edit Request",
-  "EditEvent": "Edit Event",
-  "RequestEvent": "Request Event",
-  "SetUpEvent": "Set up Event",
-  "CreateBack": "Back",
-  "CreateNext": "Next",
-  "CreateContainerLoading": "Loading...",
-  "CreateContainerSave": "Save",
-  "CreateContainerSubmit": "Submit",
-  "CreateContainerCreate": "Create"
+  "CreateContainerSomethingWentWrong": "Что-то пошло не так",
+  "UserNotFound": "Пользователь не найден.",
+  "PleaseTryAgain": "Попробуйте ещё раз.",
+  "EditRequest": "Редактировать заявку",
+  "EditEvent": "Редактировать мероприятие",
+  "RequestEvent": "Запросить мероприятие",
+  "SetUpEvent": "Настроить мероприятие",
+  "CreateBack": "Назад",
+  "CreateNext": "Далее",
+  "CreateContainerLoading": "Загрузка...",
+  "CreateContainerSave": "Сохранить",
+  "CreateContainerSubmit": "Отправить",
+  "CreateContainerCreate": "Создать"
 }
