@@ -1,12 +1,12 @@
 {
-  "EditAvailabilityMon": "Mon",
-  "EditAvailabilityTue": "Tue",
-  "EditAvailabilityWed": "Wed",
-  "EditAvailabilityThu": "Thu",
-  "EditAvailabilityFri": "Fri",
-  "EditAvailabilitySat": "Sat",
-  "EditAvailabilitySun": "Sun",
-  "EditAvailabilityMor": "Mor",
-  "EditAvailabilityAft": "Aft",
-  "EditAvailabilityEve": "Eve"
+  "EditAvailabilityMon": "Пн",
+  "EditAvailabilityTue": "Вт",
+  "EditAvailabilityWed": "Ср",
+  "EditAvailabilityThu": "Чт",
+  "EditAvailabilityFri": "Пт",
+  "EditAvailabilitySat": "Сб",
+  "EditAvailabilitySun": "Вс",
+  "EditAvailabilityMor": "Утро",
+  "EditAvailabilityAft": "День",
+  "EditAvailabilityEve": "Вечер"
 }
