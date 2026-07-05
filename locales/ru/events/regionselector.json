@@ -1,6 +1,6 @@
 {
-  "SelectRegion": "Select Region",
-  "RegionSelectorSearch": "Search",
-  "RegionSelectorCancel": "Cancel",
-  "RegionSelectorApply": "Apply"
+  "SelectRegion": "Выберите регион",
+  "RegionSelectorSearch": "Поиск",
+  "RegionSelectorCancel": "Отмена",
+  "RegionSelectorApply": "Применить"
 }
