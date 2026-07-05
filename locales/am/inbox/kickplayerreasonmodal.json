@@ -1,0 +1,19 @@
+{
+  "CGInfoUserFallback": "Օգտատեր",
+  "KickReasonSkillLevelTitle": "Հմտության մակարդակը չի համապատասխանում",
+  "KickReasonSkillLevelMessage": "Կազմակերպիչը հեռացրել է ձեզ, քանի որ ձեր հմտության մակարդակը չի համապատասխանում այս միջոցառմանը։",
+  "KickReasonUnresponsiveTitle": "Չի արձագանքել",
+  "KickReasonUnresponsiveMessage": "Կազմակերպիչը հեռացրել է ձեզ, քանի որ չեք արձագանքել կամ չեք հաստատել մասնակցությունը։",
+  "KickReasonBehaviorTitle": "Անպատշաճ վարքագիծ",
+  "KickReasonBehaviorMessage": "Կազմակերպիչը հեռացրել է ձեզ անպատշաճ վարքագծի պատճառով։",
+  "KickReasonRequirementsTitle": "Միջոցառման պահանջները չեն կատարվել",
+  "KickReasonRequirementsMessage": "Կազմակերպիչը հեռացրել է ձեզ, քանի որ չեք բավարարել միջոցառման պահանջները։",
+  "KickReasonHostDecisionTitle": "Կազմակերպչի որոշում",
+  "KickReasonHostDecisionMessage": "Կազմակերպիչը հեռացրել է ձեզ այս միջոցառումից։",
+  "KickReasonOtherTitle": "Այլ պատճառ",
+  "KickReasonOtherMessage": "Կազմակերպիչը հեռացրել է ձեզ այս միջոցառումից այլ պատճառով։",
+  "KickPlayerModalTitle": "Հեռացնե՞լ խաղացողին",
+  "KickPlayerModalMessage": "Ընտրեք պատճառը՝ նախքան {{name}}-ին այս միջոցառումից հեռացնելը։ Այս պատճառը կարող է ցուցադրվել նրա ծանուցման մեջ։",
+  "KickPlayerCancel": "Չեղարկել",
+  "KickPlayerConfirm": "Հեռացնել խաղացողին"
+}
