@@ -1,13 +1,13 @@
 {
-  "OtherEventLPMTitle": "Pick location",
-  "OtherEventLPMSearchPlaceholder": "Search address or place",
-  "OtherEventLPMHint": "Search a place, tap the map, or drag the pin, then confirm.",
-  "OtherEventLPMConfirm": "Confirm location",
-  "OtherEventLPMUseMyLocation": "Use my location",
-  "OtherEventLPMNotFoundTitle": "Not found",
-  "OtherEventLPMNotFoundText": "We couldn't find that address. Try a simpler query.",
-  "OtherEventLPMErrorTitle": "Error",
-  "OtherEventLPMSearchFailed": "Search failed. Please try again.",
-  "OtherEventLPMPermissionTitle": "Permission needed",
-  "OtherEventLPMPermissionText": "Please allow location access to use your current location and search accurately."
+  "OtherEventLPMTitle": "Выберите место",
+  "OtherEventLPMSearchPlaceholder": "Найдите адрес или место",
+  "OtherEventLPMHint": "Найдите место, нажмите на карту или перетащите метку, затем подтвердите.",
+  "OtherEventLPMConfirm": "Подтвердить местоположение",
+  "OtherEventLPMUseMyLocation": "Использовать моё местоположение",
+  "OtherEventLPMNotFoundTitle": "Не найдено",
+  "OtherEventLPMNotFoundText": "Мы не смогли найти этот адрес. Попробуйте ввести запрос проще.",
+  "OtherEventLPMErrorTitle": "Ошибка",
+  "OtherEventLPMSearchFailed": "Не удалось выполнить поиск. Попробуйте ещё раз.",
+  "OtherEventLPMPermissionTitle": "Требуется разрешение",
+  "OtherEventLPMPermissionText": "Разрешите доступ к геолокации, чтобы использовать ваше текущее местоположение и точнее выполнять поиск."
 }
