@@ -1,11 +1,12 @@
 {
-  "InviteFriendLMRejected": "Отклонено",
-  "InviteFriendLMAccepted": "Принято",
-  "InviteFriendLMPending": "Ожидает",
-  "InviteFriendLMCancel": "Отмена",
-  "SelectFriends": "Выберите друзей",
-  "SearchFriends": "Поиск друзей",
-  "MyFriends": "Мои друзья",
-  "NoFriendsFound": "Друзья не найдены",
-  "InviteFriendLMDone": "Готово"
+  "MyEventsOpen": "Открытые",
+  "MyEventsCompleted": "Завершённые",
+  "MyEventsCancelled": "Отменённые",
+  "MyEventsNoOpen": "Нет открытых мероприятий",
+  "MyEventsNoCompleted": "Нет завершённых мероприятий",
+  "MyEventsNoCancelled": "Нет отменённых мероприятий",
+  "MyEventsNoOpenMessage": "Создайте мероприятие или присоединитесь к нему, чтобы увидеть его здесь:",
+  "MyEventsNoCompletedMessage": "Завершённые мероприятия появятся здесь:",
+  "MyEventsNoCancelledMessage": "Отменённые мероприятия появятся здесь:",
+  "MyEventsEventNeedsAction": "Мероприятие требует действия!"
 }
