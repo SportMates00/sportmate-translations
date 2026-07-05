@@ -1,11 +1,11 @@
 {
-  "InviteFriendLMRejected": "Rejected",
-  "InviteFriendLMAccepted": "Accepted",
-  "InviteFriendLMPending": "Pending",
-  "InviteFriendLMCancel": "Cancel",
-  "SelectFriends": "Select friends",
-  "SearchFriends": "Search friends",
-  "MyFriends": "My friends",
-  "NoFriendsFound": "No friends found",
-  "InviteFriendLMDone": "Done"
+  "InviteFriendLMRejected": "Отклонено",
+  "InviteFriendLMAccepted": "Принято",
+  "InviteFriendLMPending": "Ожидает",
+  "InviteFriendLMCancel": "Отмена",
+  "SelectFriends": "Выберите друзей",
+  "SearchFriends": "Поиск друзей",
+  "MyFriends": "Мои друзья",
+  "NoFriendsFound": "Друзья не найдены",
+  "InviteFriendLMDone": "Готово"
 }
