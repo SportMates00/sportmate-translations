@@ -1,15 +1,15 @@
 {
-  "DeleteAccountTitle": "Delete Account",
-  "DeleteAccountErrorTitle": "Error",
-  "DeleteAccountConfirmTextError": "Please type DELETE to confirm.",
-  "DeleteAccountConfirmTitle": "Delete Account",
-  "DeleteAccountConfirmMessage": "Are you sure you want to delete your account? This action cannot be undone.",
-  "DeleteAccountCancel": "Cancel",
-  "DeleteAccountDelete": "Delete",
-  "DeleteAccountIncorrectPassword": "Incorrect password.",
-  "DeleteAccountWarning": "Warning: deleting your account is permanent and cannot be undone.",
-  "DeleteAccountTypeConfirm": "Type DELETE to confirm",
+  "DeleteAccountTitle": "Удалить аккаунт",
+  "DeleteAccountErrorTitle": "Ошибка",
+  "DeleteAccountConfirmTextError": "Введите DELETE для подтверждения.",
+  "DeleteAccountConfirmTitle": "Удалить аккаунт",
+  "DeleteAccountConfirmMessage": "Вы уверены, что хотите удалить аккаунт? Это действие нельзя отменить.",
+  "DeleteAccountCancel": "Отмена",
+  "DeleteAccountDelete": "Удалить",
+  "DeleteAccountIncorrectPassword": "Неверный пароль.",
+  "DeleteAccountWarning": "Внимание: удаление аккаунта необратимо.",
+  "DeleteAccountTypeConfirm": "Введите DELETE для подтверждения",
   "DeleteAccountTypePlaceholder": "DELETE",
-  "DeleteAccountEnterPassword": "Enter your password",
-  "DeleteAccountPassword": "Password"
+  "DeleteAccountEnterPassword": "Введите пароль",
+  "DeleteAccountPassword": "Пароль"
 }
