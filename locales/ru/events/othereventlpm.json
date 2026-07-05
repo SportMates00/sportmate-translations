@@ -1,12 +1,12 @@
 {
-  "PermissionNeeded": "Permission needed",
-  "WeNeedLocation": "Please allow location access to pick a location on the map.",
-  "NotFound": "Not found",
-  "AddressNotFound": "We couldn't find that address. Try a simpler query.",
-  "OtherEventLPMError": "Error",
-  "SearchFailed": "Search failed. Please try again.",
-  "PickLocation": "Pick location",
-  "SearchAddress": "Search address or place",
-  "PickLocationHint": "Search a place or drag the pin, then confirm.",
-  "ConfirmLocation": "Confirm location"
+  "PermissionNeeded": "Требуется разрешение",
+  "WeNeedLocation": "Разрешите доступ к геолокации, чтобы выбрать место на карте.",
+  "NotFound": "Не найдено",
+  "AddressNotFound": "Мы не смогли найти этот адрес. Попробуйте ввести запрос проще.",
+  "OtherEventLPMError": "Ошибка",
+  "SearchFailed": "Не удалось выполнить поиск. Попробуйте ещё раз.",
+  "PickLocation": "Выберите место",
+  "SearchAddress": "Найдите адрес или место",
+  "PickLocationHint": "Найдите место или перетащите метку, затем подтвердите.",
+  "ConfirmLocation": "Подтвердить местоположение"
 }
