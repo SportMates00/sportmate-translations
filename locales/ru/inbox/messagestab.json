@@ -1,12 +1,12 @@
 {
-  "MessagesTabDirectMessages": "Direct Messages",
-  "MessagesTabCommunityGroups": "Community Groups",
-  "MessagesTabEventsChat": "Event's Chat",
-  "MessagesTabCustomGroups": "Custom Groups",
-  "MessagesTabUserFallback": "User",
-  "MessagesTabChatsFallback": "Chats",
-  "MessagesTabUntitledChat": "Untitled chat",
-  "MessagesTabNoMessages": "No messages yet.",
-  "MessagesTabHeader": "Messages",
-  "MessagesTabNewGroup": "New group"
+  "MessagesTabDirectMessages": "Личные сообщения",
+  "MessagesTabCommunityGroups": "Группы сообществ",
+  "MessagesTabEventsChat": "Чаты мероприятий",
+  "MessagesTabCustomGroups": "Свои группы",
+  "MessagesTabUserFallback": "Пользователь",
+  "MessagesTabChatsFallback": "Чаты",
+  "MessagesTabUntitledChat": "Чат без названия",
+  "MessagesTabNoMessages": "Пока нет сообщений.",
+  "MessagesTabHeader": "Сообщения",
+  "MessagesTabNewGroup": "Новая группа"
 }
