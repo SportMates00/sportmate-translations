@@ -1,14 +1,14 @@
 {
-  "FRReceivedAcceptedTitle": "Accepted",
-  "FRReceivedFriendAcceptedMessage": "Friend request accepted.",
-  "FRReceivedErrorTitle": "Error",
-  "FRReceivedFriendAcceptFailed": "Could not accept friend request.",
-  "FRReceivedDeclinedTitle": "Declined",
-  "FRReceivedFriendDeclinedMessage": "Friend request declined.",
-  "FRReceivedFriendDeclineFailed": "Could not decline friend request.",
-  "FRReceivedEmpty": "No friend requests.",
-  "FRReceivedUserFallback": "User",
-  "FRReceivedWantsToAddYou": "Wants to add you",
-  "FRReceivedReject": "Reject",
-  "FRReceivedAccept": "Accept"
+  "FRReceivedAcceptedTitle": "Принято",
+  "FRReceivedFriendAcceptedMessage": "Запрос в друзья принят.",
+  "FRReceivedErrorTitle": "Ошибка",
+  "FRReceivedFriendAcceptFailed": "Не удалось принять запрос в друзья.",
+  "FRReceivedDeclinedTitle": "Отклонено",
+  "FRReceivedFriendDeclinedMessage": "Запрос в друзья отклонён.",
+  "FRReceivedFriendDeclineFailed": "Не удалось отклонить запрос в друзья.",
+  "FRReceivedEmpty": "Запросов в друзья нет.",
+  "FRReceivedUserFallback": "Пользователь",
+  "FRReceivedWantsToAddYou": "Хочет добавить вас в друзья",
+  "FRReceivedReject": "Отклонить",
+  "FRReceivedAccept": "Принять"
 }
