@@ -1,21 +1,21 @@
 {
-  "ProfileCompletionFirstName": "First Name",
-  "ProfileCompletionLastName": "Last Name",
-  "ProfileCompletionMainInterest": "Main Interest",
-  "ProfileCompletionAvailability": "Availability",
-  "ProfileCompletionDateOfBirth": "Date of Birth",
-  "ProfileCompletionNationality": "Nationality",
-  "ProfileCompletionLocation": "Location",
-  "ProfileCompletionGender": "Gender",
-  "ProfileCompletionProfilePicture": "Profile Picture",
+  "ProfileCompletionFirstName": "Имя",
+  "ProfileCompletionLastName": "Фамилия",
+  "ProfileCompletionMainInterest": "Основной интерес",
+  "ProfileCompletionAvailability": "Свободное время",
+  "ProfileCompletionDateOfBirth": "Дата рождения",
+  "ProfileCompletionNationality": "Национальность",
+  "ProfileCompletionLocation": "Местоположение",
+  "ProfileCompletionGender": "Пол",
+  "ProfileCompletionProfilePicture": "Фото профиля",
 
-  "ProfileTopInfoUnknown": "Unknown",
-  "ProfileTopInfoUser": "User",
-  "ProfileTopInfoFriendsTitleSuffix": "'s friends",
-  "ProfileTopInfoReadMore": "Read More",
-  "ProfileTopInfoReadLess": "Read Less",
+  "ProfileTopInfoUnknown": "Неизвестно",
+  "ProfileTopInfoUser": "Пользователь",
+  "ProfileTopInfoFriendsTitleSuffix": " — друзья",
+  "ProfileTopInfoReadMore": "Показать ещё",
+  "ProfileTopInfoReadLess": "Скрыть",
 
-  "ProgressBarbarCompleteProfileTitle": "Complete your profile",
-  "ProgressBarbarProfileCompletion": "Profile Completion",
-  "ProgressBarbarProfileCompletionCaption": "Complete your profile to help other users know you better."
+  "ProgressBarbarCompleteProfileTitle": "Заполните профиль",
+  "ProgressBarbarProfileCompletion": "Заполненность профиля",
+  "ProgressBarbarProfileCompletionCaption": "Заполните профиль, чтобы другим пользователям было проще узнать вас."
 }
