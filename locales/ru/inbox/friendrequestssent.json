@@ -1,13 +1,13 @@
 {
-  "FRSentCancelledTitle": "Cancelled",
-  "FRSentFriendCancelMessage": "Friend request cancelled.",
-  "FRSentErrorTitle": "Error",
-  "FRSentFriendCancelFailed": "Could not cancel friend request.",
-  "FRSentRequestsEmpty": "No sent requests.",
-  "FRSentUserFallback": "User",
-  "FRSentRequestSent": "Request sent",
-  "FRSentCancelRequest": "Cancel request",
+  "FRSentCancelledTitle": "Отменено",
+  "FRSentFriendCancelMessage": "Запрос в друзья отменён.",
+  "FRSentErrorTitle": "Ошибка",
+  "FRSentFriendCancelFailed": "Не удалось отменить запрос в друзья.",
+  "FRSentRequestsEmpty": "Отправленных запросов нет.",
+  "FRSentUserFallback": "Пользователь",
+  "FRSentRequestSent": "Запрос отправлен",
+  "FRSentCancelRequest": "Отменить запрос",
 
-  "FRTabRequestsReceived": "Requests Received",
-  "FRTabRequestsSent": "Requests Sent"
+  "FRTabRequestsReceived": "Полученные запросы",
+  "FRTabRequestsSent": "Отправленные запросы"
 }
