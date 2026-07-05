@@ -1,13 +1,13 @@
 {
-  "CommLocPickerTitle": "Pick community location",
-  "CommLocPickerSearchPlaceholder": "Search community address or place",
-  "CommLocPickerHint": "Search the community address, tap the map, or drag the pin, then confirm.",
-  "CommLocPickerConfirm": "Confirm location",
-  "CommLocPickerUseMyLocation": "Use my location",
-  "CommLocPickerNotFoundTitle": "Not found",
-  "CommLocPickerNotFoundText": "We couldn't find that address. Try a simpler query.",
-  "CommLocPickerErrorTitle": "Error",
-  "CommLocPickerSearchFailed": "Search failed. Please try again.",
-  "CommLocPickerPermissionTitle": "Permission needed",
-  "CommLocPickerPermissionText": "Please allow location access to use your current location and search accurately."
+  "CommLocPickerTitle": "Выберите местоположение сообщества",
+  "CommLocPickerSearchPlaceholder": "Найдите адрес или место сообщества",
+  "CommLocPickerHint": "Найдите адрес сообщества, нажмите на карту или перетащите метку, затем подтвердите.",
+  "CommLocPickerConfirm": "Подтвердить местоположение",
+  "CommLocPickerUseMyLocation": "Использовать моё местоположение",
+  "CommLocPickerNotFoundTitle": "Не найдено",
+  "CommLocPickerNotFoundText": "Мы не смогли найти этот адрес. Попробуйте ввести запрос проще.",
+  "CommLocPickerErrorTitle": "Ошибка",
+  "CommLocPickerSearchFailed": "Не удалось выполнить поиск. Попробуйте ещё раз.",
+  "CommLocPickerPermissionTitle": "Требуется разрешение",
+  "CommLocPickerPermissionText": "Разрешите доступ к геолокации, чтобы использовать ваше текущее местоположение и точнее выполнять поиск."
 }
