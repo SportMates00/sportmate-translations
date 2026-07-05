@@ -12,6 +12,7 @@
 
   "EventsAllEvents": "All Events",
   "EventsMyEvents": "My Events",
+  "EventNewEvent": "New Event",
   "EventsCreateEvent": "Create Event",
   "CancelEventModal": "Cancel",
   "EventMatch": "Match",
