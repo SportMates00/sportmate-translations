@@ -1,9 +1,9 @@
 {
-  "SettingsTitle": "Settings",
-  "SettingsContactSupport": "Contact Support",
-  "SettingsLogoutTitle": "Log out?",
-  "SettingsLogoutMessage": "Are you sure you want to log out?",
-  "SettingsCancel": "Cancel",
-  "SettingsLogout": "Log out",
-  "SettingsDeleteAccount": "Delete Account"
+  "SettingsTitle": "Настройки",
+  "SettingsContactSupport": "Связаться с поддержкой",
+  "SettingsLogoutTitle": "Выйти из аккаунта?",
+  "SettingsLogoutMessage": "Вы уверены, что хотите выйти?",
+  "SettingsCancel": "Отмена",
+  "SettingsLogout": "Выйти",
+  "SettingsDeleteAccount": "Удалить аккаунт"
 }
