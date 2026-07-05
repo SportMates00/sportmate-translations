@@ -1,8 +1,8 @@
 {
-  "CommMatchesTitle": "Matches",
-  "CommMatchesNoUpcoming": "No upcoming matches yet.",
-  "CommMatchesEmptySub": "When matches are created for this community, they will appear here.",
-  "CommMatchesUpcoming": "Upcoming",
-  "CommMatchesViewAll": "View all",
-  "CommMatchesRefreshing": "Refreshing..."
+  "CommMatchesTitle": "Матчи",
+  "CommMatchesNoUpcoming": "Пока нет предстоящих матчей.",
+  "CommMatchesEmptySub": "Когда в этом сообществе появятся матчи, они будут отображаться здесь.",
+  "CommMatchesUpcoming": "Предстоящие",
+  "CommMatchesViewAll": "Показать все",
+  "CommMatchesRefreshing": "Обновляем..."
 }
