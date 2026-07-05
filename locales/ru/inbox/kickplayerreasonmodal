@@ -1,0 +1,19 @@
+{
+  "CGInfoUserFallback": "Пользователь",
+  "KickReasonSkillLevelTitle": "Не подходит по уровню",
+  "KickReasonSkillLevelMessage": "Организатор удалил вас, потому что ваш уровень навыка не подходит для этого мероприятия.",
+  "KickReasonUnresponsiveTitle": "Не отвечает",
+  "KickReasonUnresponsiveMessage": "Организатор удалил вас, потому что вы не отвечали или не подтвердили участие.",
+  "KickReasonBehaviorTitle": "Неподобающее поведение",
+  "KickReasonBehaviorMessage": "Организатор удалил вас из-за неподобающего поведения.",
+  "KickReasonRequirementsTitle": "Требования мероприятия не выполнены",
+  "KickReasonRequirementsMessage": "Организатор удалил вас, потому что вы не соответствуете требованиям мероприятия.",
+  "KickReasonHostDecisionTitle": "Решение организатора",
+  "KickReasonHostDecisionMessage": "Организатор удалил вас из этого мероприятия.",
+  "KickReasonOtherTitle": "Другая причина",
+  "KickReasonOtherMessage": "Организатор удалил вас из этого мероприятия по другой причине.",
+  "KickPlayerModalTitle": "Удалить игрока?",
+  "KickPlayerModalMessage": "Выберите причину перед удалением {{name}} из этого мероприятия. Эта причина может быть показана в уведомлении.",
+  "KickPlayerCancel": "Отмена",
+  "KickPlayerConfirm": "Удалить игрока"
+}
