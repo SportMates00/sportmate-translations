@@ -1,9 +1,9 @@
 {
-  "QInterestTitle": "What are you most interested in?",
-  "QInterestSubtitle": "Choose one sport or activity to personalize your experience.",
-  "QInterestSports": "Sports",
-  "QInterestActivities": "Activities",
-  "QInterestNext": "Next",
-  "QInterestError": "Error",
-  "QInterestSomethingWentWrong": "Something went wrong. Please try again."
+  "QInterestTitle": "Что вам интереснее всего?",
+  "QInterestSubtitle": "Выберите один вид спорта или активность, чтобы персонализировать ваш опыт.",
+  "QInterestSports": "Спорт",
+  "QInterestActivities": "Активности",
+  "QInterestNext": "Далее",
+  "QInterestError": "Ошибка",
+  "QInterestSomethingWentWrong": "Что-то пошло не так. Попробуйте ещё раз."
 }
