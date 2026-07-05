@@ -27,4 +27,278 @@
   "NotificationsMarkAllRead": "Mark All Read",
   "NotificationsPopupOk": "OK"
 
+
+  "NotificationFriendRequestAcceptedTitle": "Friend request accepted",
+  "NotificationFriendRequestAcceptedBody": "Your friend request was accepted.",
+
+  "NotificationFriendRequestReceivedTitle": "New friend request",
+  "NotificationFriendRequestReceivedBody": "Someone sent you a friend request.",
+
+  "NotificationJoinRequestAcceptedTitle": "Join request accepted",
+  "NotificationJoinRequestAcceptedBody": "Your request to join the event was accepted.",
+
+  "NotificationJoinRequestRejectedTitle": "Join request rejected",
+  "NotificationJoinRequestRejectedBody": "Your request to join {{eventTitle}} was rejected. Reason: {{reason}}",
+
+  "NotificationEventInviteReceivedTitle": "New event invite",
+  "NotificationEventInviteReceivedBody": "You were invited to an event.",
+
+  "NotificationEventInviteAcceptedTitle": "Invite accepted",
+  "NotificationEventInviteAcceptedBody": "Someone accepted your event invite.",
+
+  "NotificationEventCancelledTitle": "Event cancelled",
+  "NotificationEventCancelledBody": "{{eventTitle}} was cancelled. Reason: {{reason}}",
+
+  "NotificationEventCompletedTitle": "Event completed",
+  "NotificationEventCompletedBody": "Your event was marked as completed.",
+
+  "NotificationPlayerJoinedTitle": "New player joined",
+  "NotificationPlayerJoinedBody": "Someone joined your event.",
+
+  "NotificationPlayerLeftTitle": "Player left event",
+  "NotificationPlayerLeftBody": "A player left your event.",
+
+  "NotificationPlayerRemovedTitle": "Removed from event",
+  "NotificationPlayerRemovedBody": "You were removed from {{eventTitle}}. Reason: {{reason}}",
+
+  "NotificationReviewReceivedTitle": "New review received",
+  "NotificationReviewReceivedBody": "Someone left a review on your profile.",
+
+  "NotificationCustomEventApprovedTitle": "Custom event approved",
+  "NotificationCustomEventApprovedBody": "Your custom event request was approved.",
+
+  "NotificationCustomEventRejectedTitle": "Custom event rejected",
+  "NotificationCustomEventRejectedBody": "Your custom event request was rejected.",
+
+  "NotificationCoachApprovedTitle": "Coach account approved",
+  "NotificationCoachApprovedBody": "Your coach account was approved.",
+
+  "NotificationCoachRejectedTitle": "Coach account rejected",
+  "NotificationCoachRejectedBody": "Your coach account request was rejected.",
+
+  "NotificationCoachNeedsChangesTitle": "Coach request needs changes",
+  "NotificationCoachNeedsChangesBody": "Your coach request needs some changes.",
+
+  "NotificationCommunityApprovedTitle": "Community request approved",
+  "NotificationCommunityApprovedBody": "Your community request was approved.",
+
+  "NotificationCommunityRejectedTitle": "Community request rejected",
+  "NotificationCommunityRejectedBody": "Your community request was rejected.",
+
+  "NotificationCommunityEditApprovedTitle": "Community edit approved",
+  "NotificationCommunityEditApprovedBody": "Thanks for helping keep Sportmate up to date.",
+
+  "NotificationCommunityEditRejectedTitle": "Community edit rejected",
+  "NotificationCommunityEditRejectedBody": "Your community edit request was rejected.",
+
+  "NotificationPremiumActivatedTitle": "Premium activated",
+  "NotificationPremiumActivatedBody": "Your premium subscription is now active.",
+
+  "NotificationPremiumCancelledTitle": "Premium cancelled",
+  "NotificationPremiumCancelledBody": "Your premium subscription was cancelled.",
+
+  "NotificationPremiumExpiredTitle": "Premium expired",
+  "NotificationPremiumExpiredBody": "Your premium subscription has expired.",
+
+  "NotificationPremiumExpiringTitle": "Premium expires soon",
+  "NotificationPremiumExpiringBody": "Your premium subscription expires soon.",
+
+  "NotificationPhotoApprovedTitle": "Profile photo approved",
+  "NotificationPhotoApprovedBody": "Your profile photo has been approved.",
+
+  "NotificationPhotoRejectedTitle": "Profile photo rejected",
+  "NotificationPhotoRejectedBody": "Your profile photo was rejected.",
+
+  "NotificationVerificationApprovedTitle": "Verification approved",
+  "NotificationVerificationApprovedBody": "Your account verification was approved.",
+
+  "NotificationVerificationRejectedTitle": "Verification rejected",
+  "NotificationVerificationRejectedBody": "Your account verification was rejected.",
+
+  "NotificationEmailChangedTitle": "Email changed",
+  "NotificationEmailChangedBody": "Your email address was changed.",
+
+  "NotificationPasswordChangedTitle": "Password changed",
+  "NotificationPasswordChangedBody": "Your password was changed.",
+
+  "NotificationReportActionTakenTitle": "Report reviewed",
+  "NotificationReportActionTakenBody": "Thanks for your report. We reviewed it and took appropriate action.",
+
+  "NotificationReportNoViolationTitle": "Report reviewed",
+  "NotificationReportNoViolationBody": "Thanks for your report. We reviewed it and did not find a violation.",
+
+  "NotificationNewSportTitle": "New sport added",
+  "NotificationNewSportBody": "A new sport is now available in Sportmate.",
+
+  "NotificationNewActivityTitle": "New activity added",
+  "NotificationNewActivityBody": "A new activity is now available in Sportmate.",
+
+  "NotificationNewCommunityTitle": "New community added",
+  "NotificationNewCommunityBody": "A new community was added to Sportmate.",
+
+  "NotificationAppUpdateTitle": "App update available",
+  "NotificationAppUpdateBody": "A new Sportmate update is available.",
+
+  "NotificationMaintenanceTitle": "Maintenance notice",
+  "NotificationMaintenanceBody": "Sportmate has a maintenance update.",
+
+  "NotificationPolicyUpdateTitle": "Policy update",
+  "NotificationPolicyUpdateBody": "Sportmate policies have been updated.",
+
+  "NotificationEventFallback": "Event",
+
+  "KickPlayerModalTitle": "Remove player?",
+  "KickPlayerModalMessage": "Choose a reason before removing {{name}} from this event. This reason may be shown in their notification.",
+  "KickPlayerCancel": "Cancel",
+  "KickPlayerConfirm": "Remove player",
+
+  "KickReasonSkillLevelTitle": "Not the right skill level",
+  "KickReasonSkillLevelMessage": "Your skill level does not match this event.",
+
+  "KickReasonUnresponsiveTitle": "Unresponsive",
+  "KickReasonUnresponsiveMessage": "You were unresponsive or did not confirm.",
+
+  "KickReasonBehaviorTitle": "Inappropriate behavior",
+  "KickReasonBehaviorMessage": "You were removed because of inappropriate behavior.",
+
+  "KickReasonRequirementsTitle": "Event requirements not met",
+  "KickReasonRequirementsMessage": "You did not meet the event requirements.",
+
+  "KickReasonHostDecisionTitle": "Host decision",
+  "KickReasonHostDecisionMessage": "The host removed you from this event.",
+
+  "KickReasonOtherTitle": "Other reason",
+  "KickReasonOtherMessage": "The host removed you from this event for another reason.",
+
+  "JoinReqRejectReasonSkill": "Skill level does not match",
+  "JoinReqRejectReasonSkillMessage": "Your skill level does not match this event.",
+
+  "JoinReqRejectReasonFull": "Event is full",
+  "JoinReqRejectReasonFullMessage": "The event is already full.",
+
+  "JoinReqRejectReasonSpecificGroup": "For a specific group",
+  "JoinReqRejectReasonSpecificGroupMessage": "This event is intended for a specific group of players.",
+
+  "JoinReqRejectReasonOther": "Other reason",
+  "JoinReqRejectReasonOtherMessage": "The host rejected your request for another reason.",
+
+  "JoinReqRejectReasonNotSpecified": "Not specified",
+
+  "JoinReqReasonModalTitle": "Reject request",
+  "JoinReqReasonModalSubtitle": "Choose a reason before rejecting this join request.",
+  "JoinReqCancel": "Cancel",
+
+  "CancelReasonTitle": "Cancel reason",
+  "CancelReasonTitleDetailsHeader": "Cancel reason",
+
+  "CancelReasonNotEnoughPlayers": "Not enough players",
+  "CancelReasonNotEnoughPlayersMessage": "The event was cancelled because there were not enough players.",
+
+  "CancelReasonWeatherConditions": "Weather conditions",
+  "CancelReasonWeatherConditionsMessage": "The event was cancelled because of weather conditions.",
+
+  "CancelReasonVenueUnavailable": "Venue unavailable",
+  "CancelReasonVenueUnavailableMessage": "The event was cancelled because the venue is unavailable.",
+
+  "CancelReasonSchedulingConflict": "Scheduling conflict",
+  "CancelReasonSchedulingConflictMessage": "The event was cancelled because of a scheduling conflict.",
+
+  "CancelReasonOther": "Other reason",
+  "CancelReasonOtherMessage": "The event was cancelled for another reason.",
+
+  "PhotoRejectReasonInappropriateTitle": "Inappropriate photo",
+  "PhotoRejectReasonInappropriateMessage": "Your profile photo was rejected because it does not meet our community guidelines.",
+
+  "PhotoRejectReasonBlurryTitle": "Photo is unclear",
+  "PhotoRejectReasonBlurryMessage": "Your profile photo was rejected because the image is blurry or unclear.",
+
+  "PhotoRejectReasonNotYouTitle": "Photo does not show you clearly",
+  "PhotoRejectReasonNotYouMessage": "Your profile photo was rejected because it does not clearly show you.",
+
+  "PhotoRejectReasonOtherTitle": "Other reason",
+  "PhotoRejectReasonOtherMessage": "Your profile photo was rejected for another reason.",
+
+  "VerificationRejectReasonInvalidTitle": "Invalid verification information",
+  "VerificationRejectReasonInvalidMessage": "Your account verification was rejected because the submitted information could not be verified.",
+
+  "VerificationRejectReasonMismatchTitle": "Information does not match",
+  "VerificationRejectReasonMismatchMessage": "Your account verification was rejected because the submitted information does not match your profile.",
+
+  "VerificationRejectReasonUnreadableTitle": "Document is unreadable",
+  "VerificationRejectReasonUnreadableMessage": "Your account verification was rejected because the submitted document or photo is unreadable.",
+
+  "VerificationRejectReasonExpiredTitle": "Expired document",
+  "VerificationRejectReasonExpiredMessage": "Your account verification was rejected because the submitted document appears to be expired.",
+
+  "VerificationRejectReasonOtherTitle": "Other reason",
+  "VerificationRejectReasonOtherMessage": "Your account verification was rejected for another reason.",
+
+  "CoachRejectReasonIncompleteTitle": "Incomplete information",
+  "CoachRejectReasonIncompleteMessage": "Your coach account request was rejected because some required information is missing.",
+
+  "CoachRejectReasonInvalidCertificateTitle": "Invalid certificate",
+  "CoachRejectReasonInvalidCertificateMessage": "Your coach account request was rejected because the certificate could not be verified.",
+
+  "CoachRejectReasonProfileIssueTitle": "Profile needs improvement",
+  "CoachRejectReasonProfileIssueMessage": "Your coach account request was rejected because your profile information needs improvement.",
+
+  "CoachRejectReasonOtherTitle": "Other reason",
+  "CoachRejectReasonOtherMessage": "Your coach account request was rejected for another reason.",
+
+  "CoachNeedsChangesReasonIncompleteTitle": "Incomplete information",
+  "CoachNeedsChangesReasonIncompleteMessage": "Your coach request needs changes because some required information is missing.",
+
+  "CoachNeedsChangesReasonCertificateTitle": "Certificate needs changes",
+  "CoachNeedsChangesReasonCertificateMessage": "Your coach request needs changes because your certificate needs to be updated or replaced.",
+
+  "CoachNeedsChangesReasonProfileTitle": "Profile needs changes",
+  "CoachNeedsChangesReasonProfileMessage": "Your coach request needs changes because your profile information needs to be updated.",
+
+  "CoachNeedsChangesReasonOtherTitle": "Other reason",
+  "CoachNeedsChangesReasonOtherMessage": "Your coach request needs changes for another reason.",
+
+  "CommunityRejectReasonIncompleteTitle": "Incomplete information",
+  "CommunityRejectReasonIncompleteMessage": "Your community request was rejected because some required information is missing.",
+
+  "CommunityRejectReasonGuidelinesTitle": "Does not meet guidelines",
+  "CommunityRejectReasonGuidelinesMessage": "Your community request was rejected because it does not meet our community guidelines.",
+
+  "CommunityRejectReasonDuplicateTitle": "Duplicate community",
+  "CommunityRejectReasonDuplicateMessage": "Your community request was rejected because a similar community already exists.",
+
+  "CommunityRejectReasonOtherTitle": "Other reason",
+  "CommunityRejectReasonOtherMessage": "Your community request was rejected for another reason.",
+
+  "CommunityEditRejectReasonInvalidTitle": "Invalid edit",
+  "CommunityEditRejectReasonInvalidMessage": "Your community edit request was rejected because the submitted changes could not be approved.",
+
+  "CommunityEditRejectReasonGuidelinesTitle": "Does not meet guidelines",
+  "CommunityEditRejectReasonGuidelinesMessage": "Your community edit request was rejected because the changes do not meet our guidelines.",
+
+  "CommunityEditRejectReasonOtherTitle": "Other reason",
+  "CommunityEditRejectReasonOtherMessage": "Your community edit request was rejected for another reason.",
+
+  "CustomEventRejectReasonIncompleteTitle": "Incomplete information",
+  "CustomEventRejectReasonIncompleteMessage": "Your custom event request was rejected because some required information is missing.",
+
+  "CustomEventRejectReasonUnavailableTitle": "Cannot be created",
+  "CustomEventRejectReasonUnavailableMessage": "Your custom event request was rejected because this event cannot be created at this time.",
+
+  "CustomEventRejectReasonGuidelinesTitle": "Does not meet guidelines",
+  "CustomEventRejectReasonGuidelinesMessage": "Your custom event request was rejected because it does not meet our guidelines.",
+
+  "CustomEventRejectReasonOtherTitle": "Other reason",
+  "CustomEventRejectReasonOtherMessage": "Your custom event request was rejected for another reason.",
+
+  "NotificationCardTopicaccount": "Account",
+  "NotificationCardTopicrequests": "Requests",
+  "NotificationCardTopicsubscription": "Subscription",
+  "NotificationCardTopicannouncements": "Announcements",
+  "NotificationCardTopicevents": "Events",
+  "NotificationCardTopicsocial": "Social",
+  "NotificationCardTopicreports": "Reports",
+  "NotificationCardTopicapp": "App",
+
+
+  
 }
