@@ -1,0 +1,21 @@
+{
+  "ChangeRegionTitle": "Изменить регион",
+  "ChangeRegionHeroTitle": "Выберите регион для поиска",
+  "ChangeRegionHeroText": "Выбранные страна и регион определяют, каких людей, мероприятия, площадки и сообщества вы будете видеть в NorPal.",
+  "ChangeRegionPeopleInfo": "Находите игроков и людей рядом с вами.",
+  "ChangeRegionEventsInfo": "Смотрите спортивные матчи и активности в вашем регионе.",
+  "ChangeRegionVenuesInfo": "Открывайте местные площадки и сообщества.",
+  "ChangeRegionLocationTitle": "Местоположение",
+  "ChangeRegionCountry": "Страна",
+  "ChangeRegionSelectCountry": "Выберите страну",
+  "ChangeRegionRegion": "Регион",
+  "ChangeRegionSelectRegion": "Выберите регион",
+  "ChangeRegionRequiredNote": "Перед сохранением выберите регион.",
+  "ChangeRegionSave": "Сохранить изменения",
+  "ChangeRegionCountryRequiredTitle": "Нужно выбрать страну",
+  "ChangeRegionCountryRequiredMessage": "Выберите страну, чтобы продолжить.",
+  "ChangeRegionRegionRequiredTitle": "Нужно выбрать регион",
+  "ChangeRegionRegionRequiredMessage": "Выберите регион, чтобы продолжить.",
+  "ChangeRegionSaveFailedTitle": "Не удалось сохранить",
+  "ChangeRegionSaveFailedMessage": "Что-то пошло не так при обновлении местоположения. Попробуйте ещё раз."
+}
