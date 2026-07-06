@@ -9,6 +9,13 @@
   "EventsViewDetails": "Դիտել մանրամասները",
   "EventCardsNoEvents": "Միջոցառումներ չեն գտնվել",
   "EventCardsNoEventsMessage": "Փորձեք փոխել կատեգորիաները կամ ֆիլտրի տարբերակները։",
+  "EventCardsCancel": "Չեղարկել",
+  "EventCardOK": "Լավ",
+  "EventCardVerificationRequired": "Հաստատում է պահանջվում",
+  "EventCardVerifiedOnlyEvent": "Այս միջոցառումը հասանելի է միայն հաստատված օգտատերերին։",
+  "EventCardVerifyUser": "Հաստատել օգտատիրոջը"
+}
+
 
   "EventsAllEvents": "Բոլոր միջոցառումները",
   "EventsMyEvents": "Իմ միջոցառումները",
