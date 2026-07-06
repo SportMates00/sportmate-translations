@@ -6,6 +6,7 @@
   "VerifyNowCreateTwo": "Verify now",
   "CancelCreateTwo": "Cancel",
   "CourtBookingUnavailable": "Court booking unavailable",
+  "CourtBookingRangeMessage": "Court booking is only available when you choose an exact time.",
   "CourtBookingFlexibleMessage": "You cannot mark the court as booked when the event time is flexible. Please select a specific day and time first.",
   "OKCreateTwo": "Ok",
   "AllRequirementsMet": "All required fields are completed." ,
