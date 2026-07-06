@@ -13,9 +13,7 @@
   "EventCardOK": "Լավ",
   "EventCardVerificationRequired": "Հաստատում է պահանջվում",
   "EventCardVerifiedOnlyEvent": "Այս միջոցառումը հասանելի է միայն հաստատված օգտատերերին։",
-  "EventCardVerifyUser": "Հաստատել օգտատիրոջը"
-}
-
+  "EventCardVerifyUser": "Հաստատել օգտատիրոջը",
 
   "EventsAllEvents": "Բոլոր միջոցառումները",
   "EventsMyEvents": "Իմ միջոցառումները",
