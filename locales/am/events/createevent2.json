@@ -6,6 +6,7 @@
   "VerifyNowCreateTwo": "Հաստատել հիմա",
   "CancelCreateTwo": "Չեղարկել",
   "CourtBookingUnavailable": "Խաղադաշտի ամրագրումն անհասանելի է",
+  "CourtBookingRangeMessage": "Խաղադաշտի ամրագրումը հասանելի է միայն կոնկրետ ժամ ընտրելու դեպքում։",
   "CourtBookingFlexibleMessage": "Չեք կարող նշել, որ խաղադաշտը ամրագրված է, երբ միջոցառման ժամը ճկուն է։ Նախ ընտրեք կոնկրետ օր և ժամ։",
   "OKCreateTwo": "Լավ",
   "AllRequirementsMet": "Բոլոր պարտադիր դաշտերը լրացված են։" ,
