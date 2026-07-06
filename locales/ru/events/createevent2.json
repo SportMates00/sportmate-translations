@@ -6,6 +6,7 @@
   "VerifyNowCreateTwo": "Пройти верификацию",
   "CancelCreateTwo": "Отмена",
   "CourtBookingUnavailable": "Бронирование площадки недоступно",
+  "CourtBookingRangeMessage": "Бронирование площадки доступно только при выборе точного времени."
   "CourtBookingFlexibleMessage": "Нельзя отметить площадку как забронированную, если время мероприятия гибкое. Сначала выберите конкретный день и время.",
   "OKCreateTwo": "ОК",
   "AllRequirementsMet": "Все обязательные поля заполнены.",
