@@ -1,0 +1,21 @@
+{
+  "ChangeRegionTitle": "Փոխել տարածաշրջանը",
+  "ChangeRegionHeroTitle": "Ընտրեք ձեր բացահայտման տարածաշրջանը",
+  "ChangeRegionHeroText": "Ձեր ընտրած երկիրն ու տարածաշրջանը որոշում են, թե ինչ մարդկանց, միջոցառումներ, վայրեր և համայնքներ եք բացահայտելու NorPal-ում։",
+  "ChangeRegionPeopleInfo": "Բացահայտեք մոտակա խաղացողներին և մարդկանց։",
+  "ChangeRegionEventsInfo": "Տեսեք ձեր տարածաշրջանի սպորտային խաղերն ու ակտիվությունները։",
+  "ChangeRegionVenuesInfo": "Ուսումնասիրեք տեղական վայրերն ու համայնքները։",
+  "ChangeRegionLocationTitle": "Գտնվելու վայր",
+  "ChangeRegionCountry": "Երկիր",
+  "ChangeRegionSelectCountry": "Ընտրել երկիր",
+  "ChangeRegionRegion": "Տարածաշրջան",
+  "ChangeRegionSelectRegion": "Ընտրել տարածաշրջան",
+  "ChangeRegionRequiredNote": "Խնդրում ենք ընտրել տարածաշրջան՝ նախքան պահպանելը։",
+  "ChangeRegionSave": "Պահպանել փոփոխությունները",
+  "ChangeRegionCountryRequiredTitle": "Երկիրը պարտադիր է",
+  "ChangeRegionCountryRequiredMessage": "Խնդրում ենք ընտրել ձեր երկիրը՝ շարունակելուց առաջ։",
+  "ChangeRegionRegionRequiredTitle": "Տարածաշրջանը պարտադիր է",
+  "ChangeRegionRegionRequiredMessage": "Խնդրում ենք ընտրել ձեր տարածաշրջանը՝ շարունակելուց առաջ։",
+  "ChangeRegionSaveFailedTitle": "Չհաջողվեց պահպանել",
+  "ChangeRegionSaveFailedMessage": "Ձեր գտնվելու վայրը թարմացնելիս ինչ-որ բան սխալ գնաց։ Խնդրում ենք փորձել կրկին։"
+}
