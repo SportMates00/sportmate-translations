@@ -1,0 +1,21 @@
+{
+  "ChangeRegionTitle": "Change Region",
+  "ChangeRegionHeroTitle": "Choose Your Discovery Region",
+  "ChangeRegionHeroText": "Your selected country and region determine the people, events, venues, and communities you discover throughout NorPal.",
+  "ChangeRegionPeopleInfo": "Discover nearby players and people.",
+  "ChangeRegionEventsInfo": "See sports matches and activities in your region.",
+  "ChangeRegionVenuesInfo": "Browse local venues and communities.",
+  "ChangeRegionLocationTitle": "Location",
+  "ChangeRegionCountry": "Country",
+  "ChangeRegionSelectCountry": "Select Country",
+  "ChangeRegionRegion": "Region",
+  "ChangeRegionSelectRegion": "Select Region",
+  "ChangeRegionRequiredNote": "Please select a region before saving.",
+  "ChangeRegionSave": "Save Changes",
+  "ChangeRegionCountryRequiredTitle": "Country Required",
+  "ChangeRegionCountryRequiredMessage": "Please select your country before continuing.",
+  "ChangeRegionRegionRequiredTitle": "Region Required",
+  "ChangeRegionRegionRequiredMessage": "Please select your region before continuing.",
+  "ChangeRegionSaveFailedTitle": "Unable to Save",
+  "ChangeRegionSaveFailedMessage": "Something went wrong while updating your location. Please try again."
+}
