@@ -9,6 +9,11 @@
   "EventsViewDetails": "Подробнее",
   "EventCardsNoEvents": "Мероприятия не найдены",
   "EventCardsNoEventsMessage": "Попробуйте изменить категории или параметры фильтра.",
+  "EventCardsCancel": "Отмена",
+  "EventCardOK": "ОК",
+  "EventCardVerificationRequired": "Требуется верификация",
+  "EventCardVerifiedOnlyEvent": "Это мероприятие доступно только верифицированным пользователям.",
+  "EventCardVerifyUser": "Пройти верификацию",
 
   "EventsAllEvents": "Все мероприятия",
   "EventsMyEvents": "Мои мероприятия",
