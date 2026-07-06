@@ -25,5 +25,23 @@
   "EventActivity": "Activity",
   "CreateActivityMessage": "Create an activity and invite others to join.",
   "EventRequestEvent": "Request Custom Event",
-  "SubmitCustomEvent": "Submit a custom event request for review."
+  "SubmitCustomEvent": "Submit a custom event request for review.",
+
+  "CreateSportsMatchMessage": "Create a sports match and invite players.",
+  "EventActivity": "Activity",
+  "CreateActivityMessage": "Create a fun activity for people to join.",
+  "EventRequestEvent": "Request Custom Event",
+  "SubmitCustomEvent": "Submit a custom event request for review.",
+  "CancelEventModal": "Cancel",
+  "OpenEventBlockingTitle": "You already have an open event",
+  "OpenEventBlockingMessage": "You already host an active event. Complete, edit, or cancel it before creating a new one.",
+  "ViewOpenEvent": "View Event",
+  "CloseOpenEventModel": "Close",
+  "LocationRequired": "Location Required",
+  "LocationRequiredForRadius": "Please enable location access to discover events by radius.",
+  "EventError": "Error",
+  "somethingWentWrongEvent": "Something went wrong. Please try again.",
+  "EventOK": "OK"
+}
+  "
 }
