@@ -25,5 +25,21 @@
   "EventActivity": "Активность",
   "CreateActivityMessage": "Создайте активность и пригласите других участников.",
   "EventRequestEvent": "Запросить своё мероприятие",
-  "SubmitCustomEvent": "Отправьте заявку на своё мероприятие для проверки."
+  "SubmitCustomEvent": "Отправьте заявку на своё мероприятие для проверки.",
+  "CreateSportsMatchMessage": "Создайте спортивный матч и пригласите игроков.",
+  "EventActivity": "Активность",
+  "CreateActivityMessage": "Создайте активность, к которой смогут присоединиться другие.",
+  "EventRequestEvent": "Запросить своё мероприятие",
+  "SubmitCustomEvent": "Отправьте заявку на своё мероприятие для проверки.",
+  "CancelEventModal": "Отмена",
+  "OpenEventBlockingTitle": "У вас уже есть открытое мероприятие",
+  "OpenEventBlockingMessage": "Вы уже организуете активное мероприятие. Завершите, измените или отмените его, прежде чем создавать новое.",
+  "ViewOpenEvent": "Посмотреть мероприятие",
+  "CloseOpenEventModel": "Закрыть",
+  "LocationRequired": "Требуется геолокация",
+  "LocationRequiredForRadius": "Разрешите доступ к геолокации, чтобы находить мероприятия по радиусу.",
+  "EventError": "Ошибка",
+  "somethingWentWrongEvent": "Что-то пошло не так. Попробуйте ещё раз.",
+  "EventOK": "ОК"
+  
 }
