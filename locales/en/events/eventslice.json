@@ -41,7 +41,7 @@
   "ESAcceptJoinRequestFailed": "Something went wrong while accepting the request.",
   "ESRejectJoinRequestFailed": "Something went wrong while rejecting the request.",
   "ESFetchJoinRequestsFailed": "Failed to fetch host join requests.",
-  "ESValidateCreateEventFailed": "Unable to validate event creation."
+  "ESValidateCreateEventFailed": "Unable to validate event creation.",
   "ESPlayerAlreadyJoined": "This player is already in the event.",
   "ESMaxPlayersBelowCurrent": "Maximum participants cannot be lower than the number of players already in this event.",
   "ESRemovedFromEvent": "You can no longer join this event.",
