@@ -16,4 +16,5 @@
   "EventDetailsDate": "Date & Time",
   "EventDetailsNotes": "Notes",
   "EventDetailsNoNotes": "No additional notes are provided"
+  "EventDetailsRequestToJoin" : "Request to join"
 }
