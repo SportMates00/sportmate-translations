@@ -15,5 +15,6 @@
   "EventDetailsCourtNotBooked": "Не забронировано",
   "EventDetailsDate": "Дата и время",
   "EventDetailsNotes": "Заметки",
-  "EventDetailsNoNotes": "Дополнительных заметок нет"
+  "EventDetailsNoNotes": "Дополнительных заметок нет",
+  "EventDetailsRequestToJoin": "Отправить запрос на присоединение"
 }
