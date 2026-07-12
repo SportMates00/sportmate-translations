@@ -15,5 +15,6 @@
   "EventDetailsCourtNotBooked": "Ամրագրված չէ",
   "EventDetailsDate": "Ամսաթիվ և ժամ",
   "EventDetailsNotes": "Նշումներ",
-  "EventDetailsNoNotes": "Լրացուցիչ նշումներ չկան"
+  "EventDetailsNoNotes": "Լրացուցիչ նշումներ չկան",
+  "EventDetailsRequestToJoin" : "Ուղարկել միանալու հարցում"
 }
