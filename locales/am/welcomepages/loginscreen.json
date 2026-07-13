@@ -21,5 +21,11 @@
   "LoginScreenPasswordAccessibility": "Գաղտնաբառի դաշտ",
   "LoginScreenSigningIn": "Մուտք է կատարվում...",
   "LoginScreenContinueWithApple": "Շարունակել Apple-ով",
+  "LoginScreenContinueWithGoogle": "Շարունակել Google-ով",
+  "LoginScreenSubtitle": "Բարի վերադարձ։ Շարունակելու համար մուտք գործեք։",
+  "LoginScreenDoNotHaveAccountQuestion": "Դեռ հաշիվ չունե՞ք։",
+  "LoginScreenSignUp": "Գրանցվել",
+  "LoginScreenSigningIn": "Մուտք է կատարվում...",
+  "LoginScreenContinueWithApple": "Շարունակել Apple-ով",
   "LoginScreenContinueWithGoogle": "Շարունակել Google-ով"
 }
