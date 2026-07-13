@@ -18,5 +18,8 @@
   "LoginScreenTooManyAttempts": "Too many attempts. Please try again later.",
   "LoginScreenLoginFailed": "Login failed. Please try again.",
   "LoginScreenEmailAccessibility": "Email input",
-  "LoginScreenPasswordAccessibility": "Password input"
+  "LoginScreenPasswordAccessibility": "Password input",
+  "LoginScreenSigningIn": "Signing in...",
+  "LoginScreenContinueWithApple": "Continue with Apple",
+  "LoginScreenContinueWithGoogle": "Continue with Google"
 }
