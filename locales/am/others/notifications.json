@@ -295,5 +295,19 @@
 "NotificationCardTopicevents": "Միջոցառումներ",
 "NotificationCardTopicsocial": "Սոցիալական",
 "NotificationCardTopicreports": "Զեկույցներ",
-"NotificationCardTopicapp": "Հավելված"
+"NotificationCardTopicapp": "Հավելված",
+  
+"NotificationChatDmTitle": "{{senderName}}",
+"NotificationChatDmTextBody": "{{messageText}}",
+"NotificationChatDmVoiceBody": "Ձեզ ձայնային հաղորդագրություն է ուղարկել։",
+"NotificationChatDmGenericBody": "Ձեզ հաղորդագրություն է ուղարկել։",
+
+"NotificationChatGroupTitle": "{{chatTitle}}",
+"NotificationChatGroupTextBody": "{{senderName}}՝ {{messageText}}",
+"NotificationChatGroupVoiceBody": "Ձայնային հաղորդագրություն՝ {{senderName}}-ից։",
+"NotificationChatGroupGenericBody": "Նոր հաղորդագրություն՝ {{senderName}}-ից։",
+
+"NotificationSettingsMessagesTitle": "Հաղորդագրություններ",
+"NotificationSettingsMessagesDesc": "Նոր անձնական, խմբային, միջոցառումների և համայնքների չաթերի հաղորդագրություններ։"
+ 
 }
