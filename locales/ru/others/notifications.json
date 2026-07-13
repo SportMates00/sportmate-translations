@@ -295,5 +295,19 @@
 "NotificationCardTopicevents": "События",
 "NotificationCardTopicsocial": "Социальное",
 "NotificationCardTopicreports": "Жалобы",
-"NotificationCardTopicapp": "Приложение"
+"NotificationCardTopicapp": "Приложение",
+
+"NotificationChatDmTitle": "{{senderName}}",
+"NotificationChatDmTextBody": "{{messageText}}",
+"NotificationChatDmVoiceBody": "Новое голосовое сообщение.",
+"NotificationChatDmGenericBody": "Новое сообщение.",
+
+"NotificationChatGroupTitle": "{{chatTitle}}",
+"NotificationChatGroupTextBody": "{{senderName}}: {{messageText}}",
+"NotificationChatGroupVoiceBody": "Голосовое сообщение от {{senderName}}.",
+"NotificationChatGroupGenericBody": "Новое сообщение от {{senderName}}.",
+
+"NotificationSettingsMessagesTitle": "Сообщения",
+"NotificationSettingsMessagesDesc": "Новые сообщения в личных, групповых чатах, чатах событий и сообществ."
+
 }
