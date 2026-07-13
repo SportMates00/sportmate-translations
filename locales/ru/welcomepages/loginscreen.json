@@ -22,10 +22,10 @@
   "LoginScreenSigningIn": "Выполняется вход...",
   "LoginScreenContinueWithApple": "Продолжить с Apple",
   "LoginScreenContinueWithGoogle": "Продолжить с Google",
-  "LoginScreenSubtitle": "Welcome back! Please sign in to continue.",
-  "LoginScreenDoNotHaveAccountQuestion": "Don’t have an account?",
-  "LoginScreenSignUp": "Sign up",
-  "LoginScreenSigningIn": "Signing in...",
-  "LoginScreenContinueWithApple": "Continue with Apple",
-  "LoginScreenContinueWithGoogle": "Continue with Google"
+  "LoginScreenSubtitle": "С возвращением! Войдите, чтобы продолжить.",
+  "LoginScreenDoNotHaveAccountQuestion": "Нет аккаунта?",
+  "LoginScreenSignUp": "Зарегистрироваться",
+  "LoginScreenSigningIn": "Выполняется вход...",
+  "LoginScreenContinueWithApple": "Продолжить с Apple",
+  "LoginScreenContinueWithGoogle": "Продолжить с Google"
 }
