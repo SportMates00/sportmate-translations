@@ -18,5 +18,8 @@
   "LoginScreenTooManyAttempts": "Չափազանց շատ փորձեր։ Խնդրում ենք փորձել ավելի ուշ։",
   "LoginScreenLoginFailed": "Չհաջողվեց մուտք գործել։ Խնդրում ենք փորձել կրկին։",
   "LoginScreenEmailAccessibility": "Էլ․ հասցեի դաշտ",
-  "LoginScreenPasswordAccessibility": "Գաղտնաբառի դաշտ"
+  "LoginScreenPasswordAccessibility": "Գաղտնաբառի դաշտ",
+  "LoginScreenSigningIn": "Մուտք է կատարվում...",
+  "LoginScreenContinueWithApple": "Շարունակել Apple-ով",
+  "LoginScreenContinueWithGoogle": "Շարունակել Google-ով"
 }
