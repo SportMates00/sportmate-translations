@@ -18,5 +18,8 @@
   "LoginScreenTooManyAttempts": "Слишком много попыток. Попробуйте позже.",
   "LoginScreenLoginFailed": "Не удалось войти. Попробуйте ещё раз.",
   "LoginScreenEmailAccessibility": "Поле ввода email",
-  "LoginScreenPasswordAccessibility": "Поле ввода пароля"
+  "LoginScreenPasswordAccessibility": "Поле ввода пароля",
+  "LoginScreenSigningIn": "Выполняется вход...",
+  "LoginScreenContinueWithApple": "Продолжить с Apple",
+  "LoginScreenContinueWithGoogle": "Продолжить с Google"
 }
