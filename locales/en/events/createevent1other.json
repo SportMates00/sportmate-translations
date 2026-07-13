@@ -17,5 +17,10 @@
   "CoordsHint": "Pick a location by dropping a pin — we’ll save the exact coordinates." ,
   "GeneralInfo": "General info",
   "ContactPlaceholder": "Contact (phone number)",
-  "ExternalLinkPlaceholder": "Website / Instagram link — optional"
+  "ExternalLinkPlaceholder": "Website / Instagram link — optional",
+  "CustomActivityTitleLocked": "The event title is locked after approval.",
+  "CreateEvent1OtherLocked": "Locked",
+  "CustomActivityPhotosLocked": "Event images are locked after approval.",
+  "CreateEvent1OtherOK": "OK"
+}
 }
