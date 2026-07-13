@@ -17,5 +17,9 @@
   "CoordsHint": "Выберите место, поставив метку на карте — мы сохраним точные координаты.",
   "GeneralInfo": "Общая информация",
   "ContactPlaceholder": "Контактный номер телефона",
-  "ExternalLinkPlaceholder": "Сайт / ссылка на Instagram — необязательно"
+  "ExternalLinkPlaceholder": "Сайт / ссылка на Instagram — необязательно",
+  "CustomActivityTitleLocked": "Название мероприятия нельзя изменить после одобрения.",
+  "CreateEvent1OtherLocked": "Заблокировано",
+  "CustomActivityPhotosLocked": "Фото мероприятия нельзя изменить после одобрения.",
+  "CreateEvent1OtherOK": "ОК"
 }
