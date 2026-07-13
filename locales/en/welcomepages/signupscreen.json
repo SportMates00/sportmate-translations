@@ -12,5 +12,8 @@
   "SignUpScreenPassword": "Password",
   "SignUpScreenConfirmPassword": "Confirm Password",
   "SignUpScreenAlreadyHaveAccount": "Already have an account?",
-  "SignUpScreenButton": "Sign Up"
+  "SignUpScreenButton": "Sign Up",
+  "SignUpScreenCreatingAccount": "Creating account...",
+  "SignUpScreenContinueWithApple": "Continue with Apple",
+  "SignUpScreenContinueWithGoogle": "Continue with Google"
 }
