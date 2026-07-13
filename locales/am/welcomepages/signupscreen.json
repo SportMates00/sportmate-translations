@@ -12,5 +12,8 @@
   "SignUpScreenPassword": "Գաղտնաբառ",
   "SignUpScreenConfirmPassword": "Հաստատել գաղտնաբառը",
   "SignUpScreenAlreadyHaveAccount": "Արդեն ունե՞ք հաշիվ",
-  "SignUpScreenButton": "Գրանցվել"
+  "SignUpScreenButton": "Գրանցվել",
+  "SignUpScreenCreatingAccount": "Հաշիվը ստեղծվում է...",
+  "SignUpScreenContinueWithApple": "Շարունակել Apple-ով",
+  "SignUpScreenContinueWithGoogle": "Շարունակել Google-ով"
 }
