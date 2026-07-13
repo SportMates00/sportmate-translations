@@ -17,6 +17,10 @@
   "CoordsHint": "Ընտրեք վայրը՝ նշիչ տեղադրելով․ մենք կպահենք ճշգրիտ կոորդինատները։",
   "GeneralInfo": "Ընդհանուր տվյալներ",
   "ContactPlaceholder": "Կոնտակտ՝ հեռախոսահամար",
-  "ExternalLinkPlaceholder": "Կայքի / Instagram-ի հղում — ըստ ցանկության"
+  "ExternalLinkPlaceholder": "Կայքի / Instagram-ի հղում — ըստ ցանկության",
+  "CustomActivityTitleLocked": "Միջոցառման վերնագիրը հաստատումից հետո կողպված է։",
+  "CreateEvent1OtherLocked": "Կողպված է",
+  "CustomActivityPhotosLocked": "Միջոցառման նկարները հաստատումից հետո կողպված են։",
+  "CreateEvent1OtherOK": "Լավ"
 }
 
