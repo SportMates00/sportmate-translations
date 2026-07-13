@@ -297,6 +297,19 @@
   "NotificationCardTopicevents": "Events",
   "NotificationCardTopicsocial": "Social",
   "NotificationCardTopicreports": "Reports",
-  "NotificationCardTopicapp": "App"
+  "NotificationCardTopicapp": "App",
+  
+  "NotificationChatDmTitle": "{{senderName}}",
+  "NotificationChatDmTextBody": "{{messageText}}",
+  "NotificationChatDmVoiceBody": "Sent you a voice message.",
+  "NotificationChatDmGenericBody": "Sent you a message.",
+
+  "NotificationChatGroupTitle": "{{chatTitle}}",
+  "NotificationChatGroupTextBody": "{{senderName}}: {{messageText}}",
+  "NotificationChatGroupVoiceBody": "Voice message from {{senderName}}.",
+  "NotificationChatGroupGenericBody": "New message from {{senderName}}.",
+
+  "NotificationSettingsMessagesTitle": "Messages",
+  "NotificationSettingsMessagesDesc": "New direct, group, event, and community chat messages."
 
 }
