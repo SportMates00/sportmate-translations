@@ -30,5 +30,16 @@
   "SocialAuthErrorAccountExistsDifferentMethod": "An account already exists with this email using another sign-in method.",
   "SocialAuthErrorCredentialAlreadyInUse": "This social account is already linked to another account.",
   "SocialAuthErrorInvalidCredential": "The sign-in credential is invalid. Please try again.",
-  "SocialAuthErrorNetwork": "Network error. Please check your internet connection."
+  "SocialAuthErrorNetwork": "Network error. Please check your internet connection.",
+  "SignUpScreenSubtitle": "Join NorPal and start your adventure.",
+  "SignUpScreenAgreementPrefix": "I agree to the",
+  "SignUpScreenTermsAndConditions": "Terms and Conditions",
+  "SignUpScreenAgreementMiddle": "and acknowledge the",
+  "SignUpScreenPrivacyPolicy": "Privacy Policy",
+  "SignUpScreenAcceptTermsRequired": "Please accept the Terms and Conditions and acknowledge the Privacy Policy to continue.",
+  "SignUpScreenAlreadyHaveAccountQuestion": "Already have an account?",
+  "SignUpScreenLogin": "Log In",
+  "SignUpScreenCreatingAccount": "Creating account...",
+  "SignUpScreenContinueWithApple": "Continue with Apple",
+  "SignUpScreenContinueWithGoogle": "Continue with Google"
 }
