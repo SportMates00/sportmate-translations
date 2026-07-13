@@ -15,5 +15,20 @@
   "SignUpScreenButton": "Sign Up",
   "SignUpScreenCreatingAccount": "Creating account...",
   "SignUpScreenContinueWithApple": "Continue with Apple",
-  "SignUpScreenContinueWithGoogle": "Continue with Google"
+  "SignUpScreenContinueWithGoogle": "Continue with Google",
+  "SocialAuthErrorGeneric": "Something went wrong. Please try again.",
+  "SocialAuthErrorNoFirebaseUser": "We could not retrieve your user information. Please try again.",
+  "SocialAuthErrorAccountNotFound": "No account found. Please sign up first.",
+  "SocialAuthErrorGoogleNotConfigured": "Google sign-in is not configured correctly.",
+  "SocialAuthErrorGooglePlayServicesUnavailable": "Google Play Services is unavailable or needs to be updated.",
+  "SocialAuthErrorGoogleInProgress": "Google sign-in is already in progress.",
+  "SocialAuthErrorGoogleMissingToken": "Google did not return a valid sign-in token.",
+  "SocialAuthErrorAppleIOSOnly": "Apple sign-in is only available on iOS.",
+  "SocialAuthErrorAppleUnavailable": "Apple sign-in is not available on this device.",
+  "SocialAuthErrorAppleMissingToken": "Apple did not return a valid sign-in token.",
+  "SocialAuthErrorTermsNotAccepted": "Please accept the Terms and Conditions and acknowledge the Privacy Policy to continue.",
+  "SocialAuthErrorAccountExistsDifferentMethod": "An account already exists with this email using another sign-in method.",
+  "SocialAuthErrorCredentialAlreadyInUse": "This social account is already linked to another account.",
+  "SocialAuthErrorInvalidCredential": "The sign-in credential is invalid. Please try again.",
+  "SocialAuthErrorNetwork": "Network error. Please check your internet connection."
 }
