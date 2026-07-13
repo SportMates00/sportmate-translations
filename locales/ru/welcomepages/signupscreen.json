@@ -12,5 +12,8 @@
   "SignUpScreenPassword": "Пароль",
   "SignUpScreenConfirmPassword": "Подтвердите пароль",
   "SignUpScreenAlreadyHaveAccount": "Уже есть аккаунт?",
-  "SignUpScreenButton": "Зарегистрироваться"
+  "SignUpScreenButton": "Зарегистрироваться",
+  "SignUpScreenCreatingAccount": "Создание аккаунта...",
+  "SignUpScreenContinueWithApple": "Продолжить с Apple",
+  "SignUpScreenContinueWithGoogle": "Продолжить с Google"
 }
