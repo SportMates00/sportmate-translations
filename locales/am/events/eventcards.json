@@ -21,14 +21,9 @@
   "EventNewEvent": "Նոր միջոցառում",
   "CancelEventModal": "Չեղարկել",
   "EventMatch": "Խաղ",
-  "CreateSportsMatchMessage": "Ստեղծեք սպորտային խաղ և հրավիրեք մյուսներին միանալու։",
-  "EventActivity": "Ակտիվություն",
   "CreateActivityMessage": "Ստեղծեք ակտիվություն և հրավիրեք մյուսներին միանալու։",
-  "EventRequestEvent": "Հատուկ միջոցառման հայտ",
-  "SubmitCustomEvent": "Ուղարկեք հատուկ միջոցառման հայտ՝ վերանայման համար։",
   "CreateSportsMatchMessage": "Ստեղծեք սպորտային խաղ և հրավիրեք խաղացողների։",
   "EventActivity": "Ակտիվություն",
-  "CreateActivityMessage": "Ստեղծեք հետաքրքիր ակտիվություն, որին մարդիկ կարող են միանալ։",
   "EventRequestEvent": "Հատուկ միջոցառման հայտ",
   "SubmitCustomEvent": "Ուղարկեք հատուկ միջոցառման հայտ՝ վերանայման համար։",
   "CancelEventModal": "Չեղարկել",
@@ -40,7 +35,8 @@
   "LocationRequiredForRadius": "Խնդրում ենք միացնել տեղադրության հասանելիությունը՝ միջոցառումները շառավղով բացահայտելու համար։",
   "EventError": "Սխալ",
   "somethingWentWrongEvent": "Ինչ-որ բան սխալ գնաց։ Խնդրում ենք փորձել կրկին։",
-  "EventOK": "Լավ"
+  "EventOK": "Լավ",
+  "EventsPremium": "Պրեմիում"
 
 }
 
