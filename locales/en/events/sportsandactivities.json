@@ -5,5 +5,31 @@
   "EventActivities": "Activities",
   "CustomActivity": " Custom",
   "EventCancelFilter": "Cancel",
-  "EventApplyFilter": "Apply"
+  "EventApplyFilter": "Apply",
+  
+  "Category_futsal": "Futsal",
+  "Category_football": "Football",
+  "Category_basketball": "Basketball",
+  "Category_tennis": "Tennis",
+  "Category_pingpong": "Table Tennis",
+  "Category_badminton": "Badminton",
+  "Category_volleyball": "Volleyball",
+  "Category_squash": "Squash",
+  "Category_padel": "Padel",
+  "Category_golf": "Golf",
+  "Category_pickleball": "Pickleball",
+
+  "Category_billiard": "Billiards",
+  "Category_mafia": "Mafia",
+  "Category_strike_ball": "Airsoft",
+  "Category_laser_tag": "Laser Tag",
+  "Category_paint_ball": "Paintball",
+  "Category_board_and_card_games": "Board & Card Games",
+  "Category_poker": "Poker",
+  "Category_quest": "Quest",
+  "Category_karting": "Karting",
+  "Category_human_monopoly": "Human Monopoly",
+  "Category_ps5": "PS 5",
+  "Category_bowling": "Bowling",
+  "Category_pc": "PC"
 }
