@@ -9,8 +9,7 @@
   "CourtBookingRangeMessage": "Խաղադաշտի ամրագրումը հասանելի է միայն կոնկրետ ժամ ընտրելու դեպքում։",
   "CourtBookingFlexibleMessage": "Չեք կարող նշել, որ խաղադաշտը ամրագրված է, երբ միջոցառման ժամը ճկուն է։ Նախ ընտրեք կոնկրետ օր և ժամ։",
   "OKCreateTwo": "Լավ",
-  "AllRequirementsMet": "Բոլոր պարտադիր դաշտերը լրացված են։" ,
-  "MatchLevel": " Հմտության մակարդակ",
+  "SkillLevel": " Հմտության մակարդակ",
   "MaximumPeople": "Մարդկանց առավելագույն թիվ",
   "MaxParticipants": "Մասնակիցների առավելագույն թիվ",
   "MaxPeoplePlaceholder": "Քանի՞ մարդ կարող է միանալ միջոցառմանը։",
@@ -26,5 +25,12 @@
   "ExactTime": "Կոնկրետ ժամ",
   "TimeRanges": "Ժամային միջակայքեր",
   "ChooseTimeMode": "Շարունակելու համար ընտրեք ժամի տարբերակ։",
-  "AllRequirementsMet": "Բոլոր պահանջները լրացված են"
+  "AllRequirementsMet": "Բոլոր պահանջները լրացված են",
+  "CreateTwoChooseSkillLevel": "Ընտրեք այս միջոցառման հմտության մակարդակը",
+  "CreateTwoMaxParticipantsSubtitle": "Ընտրեք մարդկանց առավելագույն թիվը",
+  "VerifiedUsersOnlySubtitle": "Սահմանափակել միջոցառումը միայն հաստատված օգտատերերի համար",
+  "CourtBookedSubtitle": "Ամրագրեք խաղադաշտ այս միջոցառման համար",
+  "CreateTwoTimeSubtitle": "Ընտրեք ձեր միջոցառման ժամը"
+
+
 }
