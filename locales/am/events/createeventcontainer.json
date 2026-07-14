@@ -11,5 +11,6 @@
   "CreateContainerLoading": "Բեռնվում է...",
   "CreateContainerSave": "Պահպանել",
   "CreateContainerSubmit": "Ուղարկել",
-  "CreateContainerCreate": "Ստեղծել"
+  "CreateContainerCreate": "Ստեղծել",
+  "CreateContainerOK": "Լավ"
 }
