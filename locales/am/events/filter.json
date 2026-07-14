@@ -13,13 +13,17 @@
   "Gender": "Սեռ",
   "Age": "Տարիք",
   "UnlockFilters": "Բացել բոլոր ֆիլտրերը",
-  "FilterGetPremium": "Ստանալ Sportmate Premium",
+  "FilterGetPremium": "Ստանալ NorPal Պրեմիում",
   "FilterDate": "Ամսաթիվ",
   "FilterTime": "Ժամ",
   "FilterBy": "Ֆիլտրել ըստ",
   "FilterClearButton": "Մաքրել",
   "FilterCancelButton": "Չեղարկել",
-  "FilterApplyButton": "Կիրառել"
+  "FilterApplyButton": "Կիրառել",
+  "RadiusFilterEnabled": "Ցուցադրվում են ձեր ընթացիկ գտնվելու վայրին մոտ միջոցառումները։",
+  "RadiusFilterDisabled": "Միացրեք՝ միջոցառումները ձեր ընթացիկ գտնվելու վայրից հեռավորությամբ ֆիլտրելու համար։",
+  "AgeFilterEnabled": "Խաղացողները ֆիլտրվում են ըստ առավելագույն տարիքի։",
+  "AgeFilterDisabled": "Միացրեք՝ խաղացողներին ըստ տարիքի ֆիլտրելու համար։"
 }
 
 
