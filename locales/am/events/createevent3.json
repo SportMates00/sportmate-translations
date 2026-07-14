@@ -1,10 +1,19 @@
 {
   "EventName": "Միջոցառման անուն",
   "PremiumConfirmParticipants": "Ձեռքով հաստատել միացող մասնակիցներին",
-  "GetMatchifyPremium": "Ստանալ Matchify Premium",
+  "GetNorpalPremium": "Ստանալ NorPal Պրեմիում",
   "CreateThreePlayers": "Խաղացողներ",
   "CreateThreeParticipants": "Մասնակիցներ",
   "InviteFromFriendsList": "Հրավիրել ընկերների ցանկից",
-  "CreateThreeNotesNotes": "Նշումներ",
-  "AddAdditionalInfoOptional": "Ավելացնել լրացուցիչ տեղեկություն (ըստ ցանկության)"
+  "CreateThreeNotes": "Նշումներ",
+  "AddAdditionalInfoOptional": "Ավելացնել լրացուցիչ տեղեկություն (ըստ ցանկության)",
+  "ManualApprovalEnabled": "Մասնակիցները միանալուց առաջ պետք է ստանան ձեր հաստատումը։",
+  "ManualApprovalDisabled": "Մասնակիցները կարող են անմիջապես միանալ ձեր միջոցառմանը։",
+  "EventNameHelper": "Տվեք ձեր միջոցառմանը հստակ և հիշվող անուն։",
+  "InvitePlayersHelper": "Հրավիրեք խաղացողների միանալու ձեր միջոցառմանը։",
+  "InviteParticipantsHelper": "Հրավիրեք մարդկանց միանալու ձեր միջոցառմանը։",
+  "CreateThreeNotesHelper": "Ավելացրեք լրացուցիչ մանրամասներ կամ նշումներ ձեր միջոցառման մասին։",
+  "Friend": "ընկեր",
+  "Friends": "ընկերներ",
+  "CreateThreePremium": "Պրեմիում"
 }
