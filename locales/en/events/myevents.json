@@ -8,5 +8,7 @@
   "MyEventsNoOpenMessage": "Create or Join an event to see it here:",
   "MyEventsNoCompletedMessage": "Completed events will appear here:",
   "MyEventsNoCancelledMessage":"Cancelled events will appear here:",
-  "MyEventsEventNeedsAction": "Event Needs Action!"
+  "MyEventsEventNeedsAction": "Event Needs Action!",
+  "EventInReview": "In review",
+  "CustomActivity": "Custom activity"
 }
