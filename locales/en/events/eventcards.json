@@ -19,13 +19,7 @@
   "EventsMyEvents": "My Events",
   "EventNewEvent": "New Event",
   "EventsCreateEvent": "Create Event",
-  "CancelEventModal": "Cancel",
   "EventMatch": "Match",
-  "CreateSportsMatchMessage": "Create a sports match and invite others to join.",
-  "EventActivity": "Activity",
-  "CreateActivityMessage": "Create an activity and invite others to join.",
-  "EventRequestEvent": "Request Custom Event",
-  "SubmitCustomEvent": "Submit a custom event request for review.",
 
   "CreateSportsMatchMessage": "Create a sports match and invite players.",
   "EventActivity": "Activity",
@@ -41,5 +35,6 @@
   "LocationRequiredForRadius": "Please enable location access to discover events by radius.",
   "EventError": "Error",
   "somethingWentWrongEvent": "Something went wrong. Please try again.",
-  "EventOK": "OK"
+  "EventOK": "OK",
+  "EventsPremium": "Premium"
 }
