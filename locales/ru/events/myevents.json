@@ -1,12 +1,14 @@
 {
-  "MyEventsOpen": "Open",
-  "MyEventsCompleted": "Completed",
-  "MyEventsCancelled":"Cancelled",
-  "MyEventsNoOpen": "No open events",
-  "MyEventsNoCompleted": "No completed events",
-  "MyEventsNoCancelled":"No cancelled events",
-  "MyEventsNoOpenMessage": "Create or Join an event to see it here:",
-  "MyEventsNoCompletedMessage": "Completed events will appear here:",
-  "MyEventsNoCancelledMessage":"Cancelled events will appear here:",
-  "MyEventsEventNeedsAction": "Event Needs Action!"
+"MyEventsOpen": "Открытые",
+"MyEventsCompleted": "Завершённые",
+"MyEventsCancelled": "Отменённые",
+"MyEventsNoOpen": "Нет открытых мероприятий",
+"MyEventsNoCompleted": "Нет завершённых мероприятий",
+"MyEventsNoCancelled": "Нет отменённых мероприятий",
+"MyEventsNoOpenMessage": "Создайте мероприятие или присоединитесь к нему, чтобы увидеть его здесь.",
+"MyEventsNoCompletedMessage": "Завершённые мероприятия появятся здесь.",
+"MyEventsNoCancelledMessage": "Отменённые мероприятия появятся здесь.",
+"MyEventsEventNeedsAction": "Мероприятие требует действия!",
+"EventInReview": "На проверке",
+"CustomActivity": "Пользовательская активность"
 }
