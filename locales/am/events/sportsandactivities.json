@@ -3,8 +3,34 @@
   "EventClear": "Մաքրել",
   "EventSports": "Սպորտաձևեր",
   "EventActivities": "Ակտիվություններ",
-  "CustomActivity": " Հատուկ ակտիվություն",
+  "CustomActivity": "Այլ",
   "EventCancelFilter": "Չեղարկել",
-  "EventApplyFilter": "Կիրառել"
+  "EventApplyFilter": "Կիրառել",
+
+  "Category_futsal": "Ֆուտզալ",
+  "Category_football": "Ֆուտբոլ",
+  "Category_basketball": "Բասկետբոլ",
+  "Category_tennis": "Թենիս",
+  "Category_pingpong": "Սեղանի թենիս",
+  "Category_badminton": "Բադմինտոն",
+  "Category_volleyball": "Վոլեյբոլ",
+  "Category_squash": "Սքվոշ",
+  "Category_padel": "Պադել",
+  "Category_golf": "Գոլֆ",
+  "Category_pickleball": "Փիքլբոլ",
+
+  "Category_billiard": "Բիլիարդ",
+  "Category_mafia": "Մաֆիա",
+  "Category_strike_ball": "Սթրայքբոլ",
+  "Category_laser_tag": "Լազերային մարտ",
+  "Category_paint_ball": "Փեյնթբոլ",
+  "Category_board_and_card_games": "Սեղանի և թղթախաղեր",
+  "Category_poker": "Պոկեր",
+  "Category_quest": "Քվեստ",
+  "Category_karting": "Քարտինգ",
+  "Category_human_monopoly": "Կենդանի մոնոպոլիա",
+  "Category_ps5": "PS 5",
+  "Category_bowling": "Բոուլինգ",
+  "Category_pc": "PC"
 }
 
