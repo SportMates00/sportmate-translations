@@ -11,6 +11,8 @@
   "BaseLocPickerPermissionTitle": "Թույլտվություն է անհրաժեշտ",
   "BaseLocPickerPermissionText": "Թույլատրեք տեղադրության հասանելիությունը՝ ձեր ընթացիկ վայրը օգտագործելու և ավելի ճշգրիտ որոնելու համար։",
   "BaseLocPickerLocationTimeout": "Չհաջողվեց ստանալ ձեր ընթացիկ գտնվելու վայրը։ Խնդրում ենք որոնել կամ նշիչը տեղադրել ձեռքով։",
-  "BaseLocPickerConfirmFailed": "Չհաջողվեց հաստատել այս վայրը։ Խնդրում ենք փորձել կրկին։"
+  "BaseLocPickerConfirmFailed": "Չհաջողվեց հաստատել այս վայրը։ Խնդրում ենք փորձել կրկին։",
+  "BaseLocPickerSearching": "Որոնում...",
+  "BaseLocPickerOK": "Լավ"
 }
 
