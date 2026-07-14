@@ -7,5 +7,6 @@
   "SearchFriends": "Search friends",
   "MyFriends": "My friends",
   "NoFriendsFound": "No friends found",
-  "InviteFriendLMDone": "Done"
+  "InviteFriendLMDone": "Done",
+  "NoFriendsFoundSub": "You don’t have any friends yet.\nAdd friends to invite them to this event."
 }
