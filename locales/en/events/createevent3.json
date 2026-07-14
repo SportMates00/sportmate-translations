@@ -1,10 +1,19 @@
 {
   "EventName": "Event name",
   "PremiumConfirmParticipants": "Manually confirm participants joining",
-  "GetMatchifyPremium": "Get Matchify Premium",
+  "GetNorpalPremium": "Get NorPal Premium",
   "CreateThreePlayers": "Players",
   "CreateThreeParticipants": "Participants",
   "InviteFromFriendsList": "Invite from friends list",
-  "CreateThreeNotesNotes": "Notes",
-  "AddAdditionalInfoOptional": "Add additional information (Optional)"
+  "CreateThreeNotes": "Notes",
+  "AddAdditionalInfoOptional": "Add additional information (Optional)",
+  "ManualApprovalEnabled": "Participants must request your approval before joining.",
+  "ManualApprovalDisabled": "Participants can join your event immediately.",
+  "EventNameHelper": "Give your event a clear and memorable name.",
+  "InvitePlayersHelper": "Invite players to join your event.",
+  "InviteParticipantsHelper": "Invite people to join your event.",
+  "CreateThreeNotesHelper": "Add any extra details or notes about your event.",
+  "Friend": "friend",
+  "Friends": "friends",
+  "CreateThreePremium": "Premium"
 }
