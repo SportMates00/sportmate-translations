@@ -19,16 +19,10 @@
   "EventsMyEvents": "Мои мероприятия",
   "EventsCreateEvent": "Создать мероприятие",
   "EventNewEvent": "Новое мероприятие",
-  "CancelEventModal": "Отмена",
   "EventMatch": "Матч",
-  "CreateSportsMatchMessage": "Создайте спортивный матч и пригласите других участников.",
-  "EventActivity": "Активность",
   "CreateActivityMessage": "Создайте активность и пригласите других участников.",
-  "EventRequestEvent": "Запросить своё мероприятие",
-  "SubmitCustomEvent": "Отправьте заявку на своё мероприятие для проверки.",
   "CreateSportsMatchMessage": "Создайте спортивный матч и пригласите игроков.",
   "EventActivity": "Активность",
-  "CreateActivityMessage": "Создайте активность, к которой смогут присоединиться другие.",
   "EventRequestEvent": "Запросить своё мероприятие",
   "SubmitCustomEvent": "Отправьте заявку на своё мероприятие для проверки.",
   "CancelEventModal": "Отмена",
@@ -40,6 +34,7 @@
   "LocationRequiredForRadius": "Разрешите доступ к геолокации, чтобы находить мероприятия по радиусу.",
   "EventError": "Ошибка",
   "somethingWentWrongEvent": "Что-то пошло не так. Попробуйте ещё раз.",
-  "EventOK": "ОК"
+  "EventOK": "ОК",
+  "EventsPremium": "Премиум"
   
 }
