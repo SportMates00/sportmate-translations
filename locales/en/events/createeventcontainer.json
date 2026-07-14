@@ -11,5 +11,6 @@
   "CreateContainerLoading": "Loading...",
   "CreateContainerSave": "Save",
   "CreateContainerSubmit": "Submit",
-  "CreateContainerCreate": "Create"
+  "CreateContainerCreate": "Create",
+  "CreateContainerOK": "OK"
 }
