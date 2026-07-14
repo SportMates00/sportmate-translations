@@ -13,11 +13,15 @@
   "Gender": "Пол",
   "Age": "Возраст",
   "UnlockFilters": "Открыть все фильтры",
-  "FilterGetPremium": "Оформить Sportmate Premium",
+  "FilterGetPremium": "Оформить NorPal Премиум",
   "FilterDate": "Дата",
   "FilterTime": "Время",
   "FilterBy": "Фильтровать по",
   "FilterClearButton": "Сбросить",
   "FilterCancelButton": "Отмена",
-  "FilterApplyButton": "Применить"
+  "FilterApplyButton": "Применить",
+  "RadiusFilterEnabled": "Показываются мероприятия рядом с вашим текущим местоположением.",
+  "RadiusFilterDisabled": "Включите, чтобы фильтровать мероприятия по расстоянию от вашего текущего местоположения.",
+  "AgeFilterEnabled": "Игроки фильтруются по максимальному возрасту.",
+  "AgeFilterDisabled": "Включите, чтобы фильтровать игроков по возрасту."
 }
