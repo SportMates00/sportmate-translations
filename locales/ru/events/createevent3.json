@@ -1,10 +1,19 @@
 {
   "EventName": "Название мероприятия",
   "PremiumConfirmParticipants": "Подтверждать участников вручную",
-  "GetMatchifyPremium": "Оформить Matchify Premium",
+  "GetNorpalPremium": "Оформить NorPal Премиум",
   "CreateThreePlayers": "Игроки",
   "CreateThreeParticipants": "Участники",
   "InviteFromFriendsList": "Пригласить из списка друзей",
-  "CreateThreeNotesNotes": "Заметки",
-  "AddAdditionalInfoOptional": "Добавьте дополнительную информацию (необязательно)"
+  "CreateThreeNotes": "Заметки",
+  "AddAdditionalInfoOptional": "Добавьте дополнительную информацию (необязательно)",
+  "ManualApprovalEnabled": "Участники должны получить ваше одобрение перед присоединением.",
+  "ManualApprovalDisabled": "Участники могут сразу присоединиться к вашему мероприятию.",
+  "EventNameHelper": "Дайте мероприятию понятное и запоминающееся название.",
+  "InvitePlayersHelper": "Пригласите игроков на своё мероприятие.",
+  "InviteParticipantsHelper": "Пригласите людей на своё мероприятие.",
+  "CreateThreeNotesHelper": "Добавьте любые дополнительные детали или заметки о мероприятии.",
+  "Friend": "друг",
+  "Friends": "друзей",
+  "CreateThreePremium": "Премиум"
 }
