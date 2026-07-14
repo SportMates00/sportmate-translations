@@ -13,11 +13,15 @@
   "Gender": "Gender",
   "Age": "Age",
   "UnlockFilters": "Unlock all filters",
-  "FilterGetPremium": "Get Sportmate Premium",
+  "FilterGetPremium": "Get NorPal Premium",
   "FilterDate": "Date",
   "FilterTime": "Time",
   "FilterBy": "Filter By",
   "FilterClearButton": "Clear",
   "FilterCancelButton": "Cancel",
-  "FilterApplyButton": "Apply"
+  "FilterApplyButton": "Apply",
+  "RadiusFilterEnabled": "Showing events near your current location.",
+  "RadiusFilterDisabled": "Turn this on to filter events by distance from your current location.",
+  "AgeFilterEnabled": "Filtering players by maximum age.",
+  "AgeFilterDisabled": "Turn this on to filter players by age."
 }
