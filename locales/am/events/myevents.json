@@ -8,5 +8,7 @@
   "MyEventsNoOpenMessage": "Ստեղծեք կամ միացեք միջոցառման՝ այն այստեղ տեսնելու համար․",
   "MyEventsNoCompletedMessage": "Ավարտված միջոցառումները կհայտնվեն այստեղ․",
   "MyEventsNoCancelledMessage":"Չեղարկված միջոցառումները կհայտնվեն այստեղ․",
-  "MyEventsEventNeedsAction": "Միջոցառումը գործողություն է պահանջում։"
+  "MyEventsEventNeedsAction": "Միջոցառումը գործողություն է պահանջում։",
+  "EventInReview": "Վերանայման փուլում",
+  "CustomActivity": "Հատուկ ակտիվություն"
 }
