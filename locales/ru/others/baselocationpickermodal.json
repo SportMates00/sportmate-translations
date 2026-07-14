@@ -11,5 +11,7 @@
   "BaseLocPickerPermissionTitle": "Требуется разрешение",
   "BaseLocPickerPermissionText": "Разрешите доступ к геолокации, чтобы использовать ваше текущее местоположение и точнее выполнять поиск.",
   "BaseLocPickerLocationTimeout": "Не удалось определить ваше текущее местоположение. Найдите место через поиск или поставьте метку вручную.",
-  "BaseLocPickerConfirmFailed": "Не удалось подтвердить это местоположение. Попробуйте ещё раз."
+  "BaseLocPickerConfirmFailed": "Не удалось подтвердить это местоположение. Попробуйте ещё раз.",
+  "BaseLocPickerSearching": "Поиск...",
+  "BaseLocPickerOK": "ОК"
 }
