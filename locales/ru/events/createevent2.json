@@ -6,11 +6,10 @@
   "VerifyNowCreateTwo": "Пройти верификацию",
   "CancelCreateTwo": "Отмена",
   "CourtBookingUnavailable": "Бронирование площадки недоступно",
-  "CourtBookingRangeMessage": "Бронирование площадки доступно только при выборе точного времени."
+  "CourtBookingRangeMessage": "Бронирование площадки доступно только при выборе точного времени.",
   "CourtBookingFlexibleMessage": "Нельзя отметить площадку как забронированную, если время мероприятия гибкое. Сначала выберите конкретный день и время.",
   "OKCreateTwo": "ОК",
-  "AllRequirementsMet": "Все обязательные поля заполнены.",
-  "MatchLevel": " Уровень навыка",
+  "SkillLevel": " Уровень навыка",
   "MaximumPeople": "Максимум людей",
   "MaxParticipants": "Макс. участников",
   "MaxPeoplePlaceholder": "Сколько людей могут присоединиться к мероприятию?",
@@ -26,5 +25,10 @@
   "ExactTime": "Точное время",
   "TimeRanges": "Временные интервалы",
   "ChooseTimeMode": "Выберите вариант времени, чтобы продолжить.",
-  "AllRequirementsMet": "Все требования выполнены"
+  "AllRequirementsMet": "Все требования выполнены",
+  "CreateTwoChooseSkillLevel": "Выберите уровень навыка для этого мероприятия",
+  "CreateTwoMaxParticipantsSubtitle": "Выберите максимальное количество участников",
+  "VerifiedUsersOnlySubtitle": "Ограничить мероприятие только для верифицированных пользователей",
+  "CourtBookedSubtitle": "Забронировать площадку для этого мероприятия",
+  "CreateTwoTimeSubtitle": "Выберите время мероприятия"
 }
