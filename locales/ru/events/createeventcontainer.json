@@ -11,5 +11,6 @@
   "CreateContainerLoading": "Загрузка...",
   "CreateContainerSave": "Сохранить",
   "CreateContainerSubmit": "Отправить",
-  "CreateContainerCreate": "Создать"
+  "CreateContainerCreate": "Создать",
+  "CreateContainerOK": "ОК"
 }
