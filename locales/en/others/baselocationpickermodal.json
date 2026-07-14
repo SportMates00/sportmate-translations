@@ -11,5 +11,8 @@
   "BaseLocPickerPermissionTitle": "Permission needed",
   "BaseLocPickerPermissionText": "Please allow location access to use your current location and search accurately.",
   "BaseLocPickerLocationTimeout": "Could not get your current location. Please search or place the pin manually.",
-  "BaseLocPickerConfirmFailed": "Could not confirm this location. Please try again."
+  "BaseLocPickerConfirmFailed": "Could not confirm this location. Please try again.",
+  "BaseLocPickerSearching": "Searching...",
+  "BaseLocPickerOK": "OK"
+
 }
