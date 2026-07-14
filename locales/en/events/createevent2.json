@@ -9,8 +9,7 @@
   "CourtBookingRangeMessage": "Court booking is only available when you choose an exact time.",
   "CourtBookingFlexibleMessage": "You cannot mark the court as booked when the event time is flexible. Please select a specific day and time first.",
   "OKCreateTwo": "Ok",
-  "AllRequirementsMet": "All required fields are completed." ,
-  "MatchLevel": " Skill Level",
+  "SkillLevel": " Skill Level",
   "MaximumPeople": "Maximum people",
   "MaxParticipants": "Max Participants",
   "MaxPeoplePlaceholder": "How many people can join the event?",
@@ -26,5 +25,10 @@
   "ExactTime": "Exact Time",
   "TimeRanges": "Time Ranges",
   "ChooseTimeMode": "Choose a time option to continue.",
-  "AllRequirementsMet": "All Requirment Met"
+  "AllRequirementsMet": "All Requirment Met",
+  "CreateTwoChooseSkillLevel": "Choose the skill level for this event",
+  "CreateTwoMaxParticipantsSubtitle": "Select the maximum number of people",
+  "VerifiedUsersOnlySubtitle": "Limit the event to verified users",
+  "CourtBookedSubtitle": "Reserve a court for this event",
+  "CreateTwoTimeSubtitle": "Select the time for your event"
 }
