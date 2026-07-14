@@ -45,5 +45,6 @@
   "ESPlayerAlreadyJoined": "This player is already in the event.",
   "ESMaxPlayersBelowCurrent": "Maximum participants cannot be lower than the number of players already in this event.",
   "ESRemovedFromEvent": "You can no longer join this event.",
-  "ESHostCannotLeave": "Host cannot leave their own event. Please cancel or complete the event instead."
+  "ESHostCannotLeave": "Host cannot leave their own event. Please cancel or complete the event instead.",
+  "ESEventChangedRefresh": "This event changed while you were editing it. Please refresh and try again."
 }
