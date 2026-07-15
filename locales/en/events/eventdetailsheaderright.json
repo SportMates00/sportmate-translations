@@ -23,7 +23,14 @@
   "ShareEventDetailsHeader": "Share Event",
   "CancelEventDetailsHeader": "Cancel Event",
   "LeaveEventDetailsHeader": "Leave Event",
-  "CancelDetailsHeader": "Cancel"
+  "CancelDetailsHeader": "Cancel",
+  "EditEventDesc": "Update event details",
+  "InvitePlayersDesc": "Invite friends to this event",
+  "ShareEventDesc": "Send this event to others",
+  "CancelEventDesc": "Cancel this event for everyone",
+  "LeaveEventDesc": "Remove yourself from this event",
+  "HostActionsDesc": "Control this event as the host",
+  "PlayerActionsDesc": "Event actions available to you"
 }
   
   
