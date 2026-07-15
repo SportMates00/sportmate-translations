@@ -18,5 +18,7 @@
   "CommDetailsCouldNotLoadMoreMembers": "Could not load more members.",
   "CommDetailsMemberSingular": "1 member",
   "CommDetailsMemberPlural": "{{count}} members",
-  "CommDetailsPopupOK": "OK"
+  "CommDetailsPopupOK": "OK",
+  "CommDetailsMembers": "Members",
+  "CommDetailsMoreMembers": "More"
 }
