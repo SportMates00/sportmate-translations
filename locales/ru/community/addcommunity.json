@@ -31,6 +31,14 @@
   "AddCommSubmit": "Отправить заявку",
   "AddCommFooterNote": "Отправляя заявку, вы подтверждаете, что информация указана верно. Мы можем связаться с вами, если понадобятся дополнительные детали.",
   "AddCommPopupOk": "ОК",
-
-  "AddCommOpeningTimes": "Часы работы"
+  "AddCommOpeningTimes": "Часы работы",
+  "AddCommBasicInfo": "Основная информация",
+  "AddCommContact": "Контактные данные",
+  "AddCommDayMon": "Пн",
+  "AddCommDayTue": "Вт",
+  "AddCommDayWed": "Ср",
+  "AddCommDayThu": "Чт",
+  "AddCommDayFri": "Пт",
+  "AddCommDaySat": "Сб",
+  "AddCommDaySun": "Вс"
 }
