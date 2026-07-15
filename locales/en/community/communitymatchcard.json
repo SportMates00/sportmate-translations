@@ -22,5 +22,12 @@
   "CommMatchLoading": "Loading...",
   "CommMatchAskToJoin": "Ask to join",
   "CommMatchJoin": "Join",
-  "CommMatchHost": "Host"
+  "CommMatchHost": "Host",
+  "CommMatchFull": "Full",
+  "CommMatchHostedBy": "Hosted by",
+  "CommMatchLevel": "Level",
+  "CommMatchDateTime": "Date & time",
+  "CommMatchTypeSport": "Sport",
+  "CommMatchTypeActivity": "Activity",
+  "CommMatchTypeCustomActivity": "Custom activity"
 }
