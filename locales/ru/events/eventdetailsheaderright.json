@@ -23,5 +23,12 @@
   "ShareEventDetailsHeader": "Поделиться мероприятием",
   "CancelEventDetailsHeader": "Отменить мероприятие",
   "LeaveEventDetailsHeader": "Покинуть мероприятие",
-  "CancelDetailsHeader": "Отмена"
+  "CancelDetailsHeader": "Отмена",
+  "EditEventDesc": "Обновить данные мероприятия",
+  "InvitePlayersDesc": "Пригласить друзей на это мероприятие",
+  "ShareEventDesc": "Отправить это мероприятие другим",
+  "CancelEventDesc": "Отменить мероприятие для всех",
+  "LeaveEventDesc": "Покинуть это мероприятие",
+  "HostActionsDesc": "Управление мероприятием для организатора",
+  "PlayerActionsDesc": "Доступные вам действия с мероприятием"
 }
