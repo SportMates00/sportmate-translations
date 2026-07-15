@@ -16,5 +16,12 @@
   "EventDetailsDate": "Ամսաթիվ և ժամ",
   "EventDetailsNotes": "Նշումներ",
   "EventDetailsNoNotes": "Լրացուցիչ նշումներ չկան",
-  "EventDetailsRequestToJoin" : "Ուղարկել միանալու հարցում"
+  "EventDetailsRequestToJoin" : "Ուղարկել միանալու հարցում",
+  "EventDetailsCourtStatus": "Դաշտի կարգավիճակ",
+  "EventDetailsViewOnMap": "Դիտել քարտեզի վրա",
+  "EventDetailsSeeMore": "Տեսնել ավելին",
+  "EventDetailsShowLess": "Ցույց տալ ավելի քիչ",
+  "EventDetailsUserFallback": "Օգտատեր",
+  "EventDetailsHost": "Կազմակերպիչ",
+  "EventDetailsParticipantRole": "Մասնակից"
 }
