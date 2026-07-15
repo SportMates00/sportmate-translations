@@ -18,7 +18,9 @@
   "CommDetailsCouldNotLoadMoreMembers": "Չհաջողվեց բեռնել լրացուցիչ անդամներին։",
   "CommDetailsMemberSingular": "1 անդամ",
   "CommDetailsMemberPlural": "{{count}} անդամ",
-  "CommDetailsPopupOK": "Լավ"
+  "CommDetailsPopupOK": "Լավ",
+  "CommDetailsMembers": "Անդամներ",
+  "CommDetailsMoreMembers": "Ավելին"
 }
 
 
