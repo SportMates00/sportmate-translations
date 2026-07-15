@@ -4,5 +4,10 @@
   "CommMatchesEmptySub": "Когда в этом сообществе появятся матчи, они будут отображаться здесь.",
   "CommMatchesUpcoming": "Предстоящие",
   "CommMatchesViewAll": "Показать все",
-  "CommMatchesRefreshing": "Обновляем..."
+  "CommMatchesRefreshing": "Обновляем...",
+  "CommMatchesLoading": "Загрузка матчей...",
+  "CommMatchesErrorTitle": "Не удалось загрузить матчи",
+  "CommMatchesErrorSub": "Что-то пошло не так. Попробуйте ещё раз.",
+  "CommMatchesRetry": "Попробовать снова",
+  "CommMatchesSubtitle": "Предстоящие мероприятия сообщества"
 }
