@@ -1,5 +1,13 @@
 {
   "CommMatchesListTitle": "Matches",
   "CommMatchesListNoUpcoming": "No upcoming matches yet.",
-  "CommMatchesListEmptySub": "Once matches are created for this community, they will appear here."
+  "CommMatchesListEmptySub": "Once matches are created for this community, they will appear here.",
+  "CommMatchesListHeaderTitle": "Upcoming matches",
+  "CommMatchesListHeaderSub": "Join a match from this community",
+  "CommMatchesListRefresh": "Refresh",
+  "CommMatchesListErrorTitle": "Could not load matches",
+  "CommMatchesListErrorSub": "Something went wrong. Please try again.",
+  "CommMatchesListRetry": "Try again",
+  "CommMatchesListLoading": "Loading matches...",
+  "CommMatchesListEnd": "You’re all caught up"
 }
