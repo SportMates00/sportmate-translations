@@ -11,7 +11,14 @@
   "CommDetailsLeaveCommunity": "Դուրս գալ համայնքից",
   "CommDetailsHome": "Գլխավոր",
   "CommDetailsLeaderboard": "Վարկանիշ",
-  "CommDetailsMatches": "Խաղեր"
+  "CommDetailsMatches": "Խաղեր",
+  "CommDetailsLoadFailed": "Չհաջողվեց բեռնել համայնքը",
+  "CommDetailsCouldNotLoadCommunity": "Չհաջողվեց բեռնել համայնքի մանրամասները։",
+  "CommDetailsMembersFailed": "Չհաջողվեց բեռնել անդամներին",
+  "CommDetailsCouldNotLoadMoreMembers": "Չհաջողվեց բեռնել լրացուցիչ անդամներին։",
+  "CommDetailsMemberSingular": "1 անդամ",
+  "CommDetailsMemberPlural": "{{count}} անդամ",
+  "CommDetailsPopupOK": "Լավ"
 }
 
 
