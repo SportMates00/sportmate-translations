@@ -11,5 +11,12 @@
   "CommDetailsLeaveCommunity": "Leave Community",
   "CommDetailsHome": "Home",
   "CommDetailsLeaderboard": "Leaderboard",
-  "CommDetailsMatches": "Matches"
+  "CommDetailsMatches": "Matches",
+  "CommDetailsLoadFailed": "Could not load community",
+  "CommDetailsCouldNotLoadCommunity": "Could not load community details.",
+  "CommDetailsMembersFailed": "Could not load members",
+  "CommDetailsCouldNotLoadMoreMembers": "Could not load more members.",
+  "CommDetailsMemberSingular": "1 member",
+  "CommDetailsMemberPlural": "{{count}} members",
+  "CommDetailsPopupOK": "OK"
 }
