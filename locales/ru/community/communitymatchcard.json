@@ -22,5 +22,12 @@
   "CommMatchLoading": "Загрузка...",
   "CommMatchAskToJoin": "Запросить участие",
   "CommMatchJoin": "Присоединиться",
-  "CommMatchHost": "Организатор"
-}
+  "CommMatchHost": "Организатор",
+  "CommMatchFull": "Мест нет",
+  "CommMatchHostedBy": "Организатор",
+  "CommMatchLevel": "Уровень",
+  "CommMatchDateTime": "Дата и время",
+  "CommMatchTypeSport": "Спорт",
+  "CommMatchTypeActivity": "Активность",
+  "CommMatchTypeCustomActivity": "Другая активность"
+  }
