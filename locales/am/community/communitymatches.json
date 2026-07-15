@@ -4,5 +4,11 @@
   "CommMatchesEmptySub": "Երբ այս համայնքի համար խաղեր ստեղծվեն, դրանք կհայտնվեն այստեղ։",
   "CommMatchesUpcoming": "Առաջիկա",
   "CommMatchesViewAll": "Տեսնել բոլորը",
-  "CommMatchesRefreshing": "Թարմացվում է..."
+  "CommMatchesRefreshing": "Թարմացվում է...",
+  "CommMatchesLoading": "Խաղերը բեռնվում են...",
+  "CommMatchesErrorTitle": "Չհաջողվեց բեռնել խաղերը",
+  "CommMatchesErrorSub": "Ինչ-որ բան սխալ է տեղի ունեցել։ Խնդրում ենք կրկին փորձել։",
+  "CommMatchesRetry": "Կրկին փորձել",
+  "CommMatchesSubtitle": "Համայնքի առաջիկա միջոցառումները"
+  
 }
