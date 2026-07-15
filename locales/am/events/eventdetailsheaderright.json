@@ -23,5 +23,12 @@
   "ShareEventDetailsHeader": "Կիսվել միջոցառմամբ",
   "CancelEventDetailsHeader": "Չեղարկել միջոցառումը",
   "LeaveEventDetailsHeader": "Դուրս գալ միջոցառումից",
-  "CancelDetailsHeader": "Չեղարկել"
+  "CancelDetailsHeader": "Չեղարկել",
+  "EditEventDesc": "Թարմացնել միջոցառման տվյալները",
+  "InvitePlayersDesc": "Հրավիրել ընկերներին այս միջոցառմանը",
+  "ShareEventDesc": "Ուղարկել այս միջոցառումը ուրիշներին",
+  "CancelEventDesc": "Չեղարկել այս միջոցառումը բոլորի համար",
+  "LeaveEventDesc": "Դուրս գալ այս միջոցառումից",
+  "HostActionsDesc": "Կառավարել այս միջոցառումը որպես կազմակերպիչ",
+  "PlayerActionsDesc": "Ձեզ հասանելի միջոցառման գործողությունները"
 }
