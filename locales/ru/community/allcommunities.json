@@ -6,10 +6,11 @@
   "AllCommAddCommunity": "Добавить сообщество",
   "AllCommCommunityFallback": "Сообщество",
   "AllCommVenueFallback": "Площадка",
-  "AllCommCreateGameHere": "Создать матч здесь",
+  "AllCommCreateEventHere": "Создать мероприятие здесь",
   "AllCommJoinCommunity": "Вступить в сообщество",
   "AllCommJoined": "Вы уже участник",
   "AllCommViewMore": "Показать ещё",
+  "AllCommViewDetails": "Подробнее",
 
   "CommAllCommunities": "Все сообщества",
   "CommMyCommunities": "Мои сообщества",
