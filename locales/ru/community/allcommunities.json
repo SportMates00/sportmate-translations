@@ -31,5 +31,7 @@
   "CommMapCommunities": "Сообщества",
   "CommMapLoadingMapCommunities": "Загружаем сообщества на карте...",
   "CommMapCommunity": "Сообщество",
-  "CommMapViewCommunity": "Посмотреть сообщество"
+  "CommMapViewCommunity": "Посмотреть сообщество",
+  "CommMapCenter": "По центру",
+  "CommMapCommunityCount": "Сообществ: {{count}}"
 }
