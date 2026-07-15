@@ -1,5 +1,13 @@
 {
   "CommMatchesListTitle": "Матчи",
   "CommMatchesListNoUpcoming": "Пока нет предстоящих матчей.",
-  "CommMatchesListEmptySub": "Когда в этом сообществе появятся матчи, они будут отображаться здесь."
+  "CommMatchesListEmptySub": "Когда в этом сообществе появятся матчи, они будут отображаться здесь.",
+  "CommMatchesListHeaderTitle": "Предстоящие матчи",
+  "CommMatchesListHeaderSub": "Присоединитесь к матчу этого сообщества",
+  "CommMatchesListRefresh": "Обновить",
+  "CommMatchesListErrorTitle": "Не удалось загрузить матчи",
+  "CommMatchesListErrorSub": "Что-то пошло не так. Попробуйте ещё раз.",
+  "CommMatchesListRetry": "Попробовать снова",
+  "CommMatchesListLoading": "Загрузка матчей...",
+  "CommMatchesListEnd": "Вы просмотрели все матчи"
 }
