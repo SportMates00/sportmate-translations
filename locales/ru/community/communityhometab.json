@@ -10,5 +10,7 @@
   "CommHomePricing": "Стоимость",
   "CommHomeOpeningTimes": "Часы работы",
   "CommHomeSuggestEdit": "Предложить правку",
-  "CommHomeLocationFallback": "Местоположение"
+  "CommHomeLocationFallback": "Местоположение",
+  "CommHomeSeeAll": "Показать все",
+  "CommHomeOpenInMaps": "Открыть на карте"
 }
