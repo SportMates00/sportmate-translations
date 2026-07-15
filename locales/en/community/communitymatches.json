@@ -4,5 +4,10 @@
   "CommMatchesEmptySub": "When matches are created for this community, they will appear here.",
   "CommMatchesUpcoming": "Upcoming",
   "CommMatchesViewAll": "View all",
-  "CommMatchesRefreshing": "Refreshing..."
+  "CommMatchesRefreshing": "Refreshing...",
+  "CommMatchesLoading": "Loading matches...",
+  "CommMatchesErrorTitle": "Could not load matches",
+  "CommMatchesErrorSub": "Something went wrong. Please try again.",
+  "CommMatchesRetry": "Try again",
+  "CommMatchesSubtitle": "Upcoming community events"
 }
