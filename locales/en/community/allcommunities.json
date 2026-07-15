@@ -31,5 +31,7 @@
   "CommMapCommunities": "Communities",
   "CommMapLoadingMapCommunities": "Loading communities on the map...",
   "CommMapCommunity": "Community",
-  "CommMapViewCommunity": "View Community"
+  "CommMapViewCommunity": "View Community",
+  "CommMapCenter": "Center",
+  "CommMapCommunityCount": "Communities: {{count}}"
 }
