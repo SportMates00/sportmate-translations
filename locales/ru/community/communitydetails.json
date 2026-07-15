@@ -18,5 +18,7 @@
   "CommDetailsCouldNotLoadMoreMembers": "Не удалось загрузить больше участников.",
   "CommDetailsMemberSingular": "1 участник",
   "CommDetailsMemberPlural": "Участников: {{count}}",
-  "CommDetailsPopupOK": "ОК"
+  "CommDetailsPopupOK": "ОК",
+  "CommDetailsMembers": "Участники",
+  "CommDetailsMoreMembers": "Ещё"
 }
