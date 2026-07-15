@@ -16,5 +16,11 @@
   "EventDetailsDate": "Date & Time",
   "EventDetailsNotes": "Notes",
   "EventDetailsNoNotes": "No additional notes are provided",
-  "EventDetailsRequestToJoin" : "Request to join"
+  "EventDetailsRequestToJoin" : "Request to join",
+  "EventDetailsCourtStatus": "Court status",
+  "EventDetailsViewOnMap": "View on map",
+  "EventDetailsSeeMore": "See more",
+  "EventDetailsShowLess": "Show less",
+  "EventDetailsHost": "Host",
+  "EventDetailsParticipantRole": "Participant"
 }
