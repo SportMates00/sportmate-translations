@@ -11,5 +11,12 @@
   "CommDetailsLeaveCommunity": "Покинуть сообщество",
   "CommDetailsHome": "Главная",
   "CommDetailsLeaderboard": "Рейтинг",
-  "CommDetailsMatches": "Матчи"
+  "CommDetailsMatches": "Матчи",
+  "CommDetailsLoadFailed": "Не удалось загрузить сообщество",
+  "CommDetailsCouldNotLoadCommunity": "Не удалось загрузить данные сообщества.",
+  "CommDetailsMembersFailed": "Не удалось загрузить участников",
+  "CommDetailsCouldNotLoadMoreMembers": "Не удалось загрузить больше участников.",
+  "CommDetailsMemberSingular": "1 участник",
+  "CommDetailsMemberPlural": "Участников: {{count}}",
+  "CommDetailsPopupOK": "ОК"
 }
