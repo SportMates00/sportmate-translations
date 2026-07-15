@@ -6,10 +6,11 @@
   "AllCommAddCommunity": "Add Community",
   "AllCommCommunityFallback": "Community",
   "AllCommVenueFallback": "Venue",
-  "AllCommCreateGameHere": "Create Game Here",
+  "AllCommCreateEventHere": "Create Event Here",
   "AllCommJoinCommunity": "Join Community",
   "AllCommJoined": "Joined",
   "AllCommViewMore": "View more",
+  "AllCommViewDetails": "View Details",
 
   "CommAllCommunities": "All Communities",
   "CommMyCommunities": "My Communities",
