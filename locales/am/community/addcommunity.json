@@ -31,6 +31,14 @@
   "AddCommSubmit": "Ուղարկել հայտը",
   "AddCommFooterNote": "Ուղարկելով՝ հաստատում եք, որ տվյալները ճիշտ են։ Անհրաժեշտության դեպքում մենք կարող ենք կապ հաստատել ձեզ հետ՝ լրացուցիչ մանրամասներ ճշտելու համար։",
   "AddCommPopupOk": "Լավ",
-  
-  "AddCommOpeningTimes": "Աշխատանքային ժամեր"
+  "AddCommOpeningTimes": "Աշխատանքային ժամեր",
+  "AddCommBasicInfo": "Հիմնական տեղեկություններ",
+  "AddCommContact": "Կոնտակտային տվյալներ",
+  "AddCommDayMon": "Երկ",
+  "AddCommDayTue": "Երք",
+  "AddCommDayWed": "Չրք",
+  "AddCommDayThu": "Հնգ",
+  "AddCommDayFri": "Ուրբ",
+  "AddCommDaySat": "Շբթ",
+  "AddCommDaySun": "Կիր"
 }
