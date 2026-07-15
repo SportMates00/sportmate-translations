@@ -10,5 +10,7 @@
   "CommHomePricing": "Pricing",
   "CommHomeOpeningTimes": "Opening times",
   "CommHomeSuggestEdit": "Suggest an edit",
-  "CommHomeLocationFallback": "Location"
+  "CommHomeLocationFallback": "Location",
+  "CommHomeSeeAll": "See all",
+  "CommHomeOpenInMaps": "Open in Maps"
 }
