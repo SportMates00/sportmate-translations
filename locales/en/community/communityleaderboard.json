@@ -4,9 +4,14 @@
   "CommLeaderboardAllTime": "All time",
   "CommLeaderboardPlayerFallback": "Player",
   "CommLeaderboardHint": "Complete events in this community to appear in leaderboard.",
-  "CommLeaderboardTitle": "Leaderboard",
+  "CommLeaderboardTitle": "Top Players",
   "CommLeaderboardPts": "pts",
   "CommLeaderboardNoData": "No data yet",
   "CommLeaderboardPlayers": "Players",
-  "CommLeaderboardEventsPlayed": "Events played"
+  "CommLeaderboardEventsPlayed": "Events played",
+  "CommLeaderboardSubtitle": "Best performers in this community",
+  "CommLeaderboardRankings": "Rankings",
+  "CommLeaderboardEmptyTitle": "No rankings yet",
+  "CommLeaderboardEmptyDescription": "Once members play events, their scores will appear here.",
+  "CommLeaderboardEmptyHint": "Play events to climb the leaderboard"
 }
