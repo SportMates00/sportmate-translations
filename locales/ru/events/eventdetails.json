@@ -16,5 +16,12 @@
   "EventDetailsDate": "Дата и время",
   "EventDetailsNotes": "Заметки",
   "EventDetailsNoNotes": "Дополнительных заметок нет",
-  "EventDetailsRequestToJoin": "Отправить запрос на присоединение"
+  "EventDetailsRequestToJoin": "Отправить запрос на присоединение",
+  "EventDetailsCourtStatus": "Статус площадки",
+  "EventDetailsViewOnMap": "Посмотреть на карте",
+  "EventDetailsSeeMore": "Показать больше",
+  "EventDetailsShowLess": "Показать меньше",
+  "EventDetailsUserFallback": "Пользователь",
+  "EventDetailsHost": "Организатор",
+  "EventDetailsParticipantRole": "Участник"
 }
