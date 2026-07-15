@@ -6,10 +6,11 @@
   "AllCommAddCommunity": "Ավելացնել համայնք",
   "AllCommCommunityFallback": "Համայնք",
   "AllCommVenueFallback": "Վայր",
-  "AllCommCreateGameHere": "Ստեղծել խաղ այստեղ",
+  "AllCommCreateEventHere": "Ստեղծել միջոցառում այստեղ",
   "AllCommJoinCommunity": "Միանալ համայնքին",
   "AllCommJoined": "Միացած եք",
   "AllCommViewMore": "Տեսնել ավելին",
+  "AllCommViewDetails": "Դիտել մանրամասները",
 
   "CommAllCommunities": "Բոլոր համայնքները",
   "CommMyCommunities": "Իմ համայնքները",
