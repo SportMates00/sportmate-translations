@@ -31,5 +31,7 @@
   "CommMapCommunities": "Համայնքներ",
   "CommMapLoadingMapCommunities": "Համայնքները բեռնվում են քարտեզի վրա...",
   "CommMapCommunity": "Համայնք",
-  "CommMapViewCommunity": "Դիտել համայնքը"
+  "CommMapViewCommunity": "Դիտել համայնքը",
+  "CommMapCenter": "Կենտրոնացնել",
+  "CommMapCommunityCount": "Համայնքներ՝ {{count}}"
 }
