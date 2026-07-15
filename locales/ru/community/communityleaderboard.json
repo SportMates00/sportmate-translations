@@ -4,9 +4,14 @@
   "CommLeaderboardAllTime": "За всё время",
   "CommLeaderboardPlayerFallback": "Игрок",
   "CommLeaderboardHint": "Участвуйте в мероприятиях этого сообщества, чтобы попасть в рейтинг.",
-  "CommLeaderboardTitle": "Рейтинг",
+  "CommLeaderboardTitle": "Лучшие игроки",
   "CommLeaderboardPts": "очк.",
   "CommLeaderboardNoData": "Пока нет данных",
   "CommLeaderboardPlayers": "Игроки",
-  "CommLeaderboardEventsPlayed": "Участий в мероприятиях"
+  "CommLeaderboardEventsPlayed": "Участий в мероприятиях",
+  "CommLeaderboardSubtitle": "Лучшие участники этого сообщества",
+  "CommLeaderboardRankings": "Рейтинг участников",
+  "CommLeaderboardEmptyTitle": "Рейтинга пока нет",
+  "CommLeaderboardEmptyDescription": "Когда участники сыграют в мероприятиях, их результаты появятся здесь.",
+  "CommLeaderboardEmptyHint": "Участвуйте в мероприятиях, чтобы подняться в рейтинге"
 }
