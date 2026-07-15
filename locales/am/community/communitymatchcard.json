@@ -23,6 +23,13 @@
   "CommMatchLoading": "Բեռնվում է...",
   "CommMatchAskToJoin": "Ուղարկել միանալու հայտ",
   "CommMatchJoin": "Միանալ",
-  "CommMatchHost": "Կազմակերպիչ"
+  "CommMatchHost": "Կազմակերպիչ",
+  "CommMatchFull": "Տեղ չկա",
+  "CommMatchHostedBy": "Կազմակերպիչ",
+  "CommMatchLevel": "Մակարդակ",
+  "CommMatchDateTime": "Ամսաթիվ և ժամ",
+  "CommMatchTypeSport": "Սպորտաձև",
+  "CommMatchTypeActivity": "Ակտիվություն",
+  "CommMatchTypeCustomActivity": "Հատուկ ակտիվություն"
 }
 
