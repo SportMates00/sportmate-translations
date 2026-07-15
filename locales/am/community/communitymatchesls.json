@@ -1,6 +1,14 @@
 {
   "CommMatchesListTitle": "Խաղեր",
   "CommMatchesListNoUpcoming": "Առաջիկա խաղեր դեռ չկան։",
-  "CommMatchesListEmptySub": "Երբ այս համայնքի համար խաղեր ստեղծվեն, դրանք կհայտնվեն այստեղ։"
+  "CommMatchesListEmptySub": "Երբ այս համայնքի համար խաղեր ստեղծվեն, դրանք կհայտնվեն այստեղ։",
+  "CommMatchesListHeaderTitle": "Առաջիկա խաղեր",
+  "CommMatchesListHeaderSub": "Միացեք այս համայնքի խաղերից մեկին",
+  "CommMatchesListRefresh": "Թարմացնել",
+  "CommMatchesListErrorTitle": "Չհաջողվեց բեռնել խաղերը",
+  "CommMatchesListErrorSub": "Ինչ-որ բան սխալ է տեղի ունեցել։ Խնդրում ենք կրկին փորձել։",
+  "CommMatchesListRetry": "Կրկին փորձել",
+  "CommMatchesListLoading": "Խաղերը բեռնվում են...",
+  "CommMatchesListEnd": "Դուք դիտել եք բոլոր խաղերը"
 }
 
