@@ -4,9 +4,14 @@
   "CommLeaderboardAllTime": "Ընդհանուր",
   "CommLeaderboardPlayerFallback": "Խաղացող",
   "CommLeaderboardHint": "Մասնակցեք այս համայնքի ավարտված միջոցառումներին՝ վարկանիշում հայտնվելու համար։",
-  "CommLeaderboardTitle": "Վարկանիշ",
+  "CommLeaderboardTitle": "Լավագույն խաղացողները",
   "CommLeaderboardPts": "միավ.",
   "CommLeaderboardNoData": "Տվյալներ դեռ չկան",
   "CommLeaderboardPlayers": "Խաղացողներ",
-  "CommLeaderboardEventsPlayed": "Մասնակցած միջոցառումներ"
+  "CommLeaderboardEventsPlayed": "Մասնակցած միջոցառումներ",
+  "CommLeaderboardSubtitle": "Այս համայնքի լավագույն մասնակիցները",
+  "CommLeaderboardRankings": "Վարկանիշային աղյուսակ",
+  "CommLeaderboardEmptyTitle": "Դեռ վարկանիշ չկա",
+  "CommLeaderboardEmptyDescription": "Երբ անդամները մասնակցեն միջոցառումներին, նրանց միավորները կհայտնվեն այստեղ։",
+  "CommLeaderboardEmptyHint": "Մասնակցեք միջոցառումներին՝ վարկանիշում բարձրանալու համար"
 }
