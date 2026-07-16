@@ -6,5 +6,13 @@
   "ChatScreenReplying": "Ответ",
   "ChatScreenNotMember": "Вы больше не являетесь участником этого чата.",
   "ChatScreenTypeMessage": "Введите сообщение...",
-  "ChatScreenNotMemberPlaceholder": "Вы больше не являетесь участником этого чата."
+  "ChatScreenNotMemberPlaceholder": "Вы больше не являетесь участником этого чата.",
+
+  "ChatVoiceMessage": "Голосовое сообщение",
+  "ChatOpenKeyboard": "Открыть клавиатуру",
+  "ChatOpenEmojiPicker": "Открыть панель эмодзи",
+
+  "ChatCancelReply": "Отменить ответ",
+  "ChatSendMessage": "Отправить сообщение",
+  "ChatRecordVoiceMessage": "Записать голосовое сообщение"
 }
