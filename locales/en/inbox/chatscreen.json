@@ -6,5 +6,13 @@
   "ChatScreenReplying": "Replying",
   "ChatScreenNotMember": "You are no longer a member of this chat.",
   "ChatScreenTypeMessage": "Type a message...",
-  "ChatScreenNotMemberPlaceholder": "You are no longer a member of this chat."
+  "ChatScreenNotMemberPlaceholder": "You are no longer a member of this chat.",
+  
+  "ChatVoiceMessage": "Voice message",
+  "ChatOpenKeyboard": "Open keyboard",
+  "ChatOpenEmojiPicker": "Open emoji picker",
+
+  "ChatCancelReply": "Cancel reply",
+  "ChatSendMessage": "Send message",
+  "ChatRecordVoiceMessage": "Record voice message"
 }
