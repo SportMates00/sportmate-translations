@@ -6,6 +6,14 @@
   "ChatScreenReplying": "Պատասխանում եք",
   "ChatScreenNotMember": "Դուք այլևս այս չատի անդամ չեք։",
   "ChatScreenTypeMessage": "Գրեք հաղորդագրություն...",
-  "ChatScreenNotMemberPlaceholder": "Դուք այլևս այս չատի անդամ չեք։"
+  "ChatScreenNotMemberPlaceholder": "Դուք այլևս այս չատի անդամ չեք։",
+
+  "ChatVoiceMessage": "Ձայնային հաղորդագրություն",
+  "ChatOpenKeyboard": "Բացել ստեղնաշարը",
+  "ChatOpenEmojiPicker": "Բացել էմոջիների ընտրիչը",
+
+  "ChatCancelReply": "Չեղարկել պատասխանը",
+  "ChatSendMessage": "Ուղարկել հաղորդագրությունը",
+  "ChatRecordVoiceMessage": "Ձայնագրել ձայնային հաղորդագրություն"
 }
 
