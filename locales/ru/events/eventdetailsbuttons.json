@@ -34,5 +34,14 @@
   "Cancelling": "Отменяем...",
   "CancelRequestFailed": "Не удалось отменить запрос",
   "RequestCancelled": "Запрос отменён",
-  "RequestCancelledSuccessMessage": "Ваш запрос на участие успешно отменён."
+  "RequestCancelledSuccessMessage": "Ваш запрос на участие успешно отменён.",
+
+  "ProfileCompletionProfilePhoto": "Добавьте фото профиля",
+  "ESProfileIncomplete": "Перед созданием мероприятия или присоединением к нему полностью заполните свой профиль.",
+  "ESProfileIncompleteTitle": "Заполните профиль",
+  "ESProfileIncompleteMessage": "Чтобы создать мероприятие или присоединиться к нему, заполните все обязательные данные профиля и добавьте фотографию.",
+  "ESProfileIncompleteAction": "Заполнить профиль",
+  "ESRequesterProfileIncomplete": "Этот пользователь должен полностью заполнить профиль, чтобы присоединиться к мероприятию.",
+  "ESRequesterProfileIncompleteTitle": "Профиль не заполнен",
+  "ESRequesterProfileIncompleteMessage": "Этот пользователь должен полностью заполнить профиль, прежде чем присоединиться к мероприятию."
 }
