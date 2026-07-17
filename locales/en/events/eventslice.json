@@ -46,5 +46,16 @@
   "ESMaxPlayersBelowCurrent": "Maximum participants cannot be lower than the number of players already in this event.",
   "ESRemovedFromEvent": "You can no longer join this event.",
   "ESHostCannotLeave": "Host cannot leave their own event. Please cancel or complete the event instead.",
-  "ESEventChangedRefresh": "This event changed while you were editing it. Please refresh and try again."
+  "ESEventChangedRefresh": "This event changed while you were editing it. Please refresh and try again.",
+
+  "EventCreateLimitTitle": "Event limit reached",
+  "EventCreateLimitMessage": "You can host up to {{limit}} open events. Complete or cancel one before creating another.",
+  "ESHostedEventLimitReached": "You can host up to 3 open events. Complete or cancel one before creating another.",
+  "ESJoinedEventLimitReached": "You can join up to 3 open events. Leave one before joining another.",
+  "ESPendingJoinRequestLimitReached": "You can have up to 3 pending join requests. Cancel one before sending another request.",
+  "ESInvitedUserLimitReached": "One or more selected users cannot receive another event invitation right now.",
+  "ESRequesterJoinedEventLimitReached": "This user has already reached the limit of 3 open joined events.",
+  "ESOnlyHostCanInvite": "Only the event host can invite players.",
+  "ESOnlyHostCanCancel": "Only the event host can cancel this event.",
+  "InviteFriendLMUnavailable": "Unavailable"
 }
