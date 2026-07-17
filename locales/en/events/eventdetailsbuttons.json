@@ -34,5 +34,15 @@
   "Cancelling": "Cancelling",
   "CancelRequestFailed": "Failed to cancel request",
   "RequestCancelled": "Request Cancelled",
-  "RequestCancelledSuccessMessage": "Your join request has been cancelled successfully."
+  "RequestCancelledSuccessMessage": "Your join request has been cancelled successfully.",
+
+  "ProfileCompletionProfilePhoto": "Add a profile photo",
+  "ESProfileIncomplete": "Please complete your profile before creating or joining an event.",
+  "ESProfileIncompleteTitle": "Complete your profile",
+  "ESProfileIncompleteMessage": "Please complete all required profile details, including adding a profile photo, before creating or joining an event.",
+  "ESProfileIncompleteAction": "Complete Profile",
+  "ESRequesterProfileIncomplete": "This user must complete their profile before joining the event.",
+  "ESRequesterProfileIncompleteTitle": "Profile incomplete",
+  "ESRequesterProfileIncompleteMessage": "This user must complete their profile before they can join the event."
+  
 }
