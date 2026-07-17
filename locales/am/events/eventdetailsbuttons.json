@@ -34,5 +34,14 @@
   "Cancelling": "Չեղարկվում է",
   "CancelRequestFailed": "Չհաջողվեց չեղարկել հայտը",
   "RequestCancelled": "Հայտը չեղարկված է",
-  "RequestCancelledSuccessMessage": "Ձեր միանալու հայտը հաջողությամբ չեղարկվել է։"
+  "RequestCancelledSuccessMessage": "Ձեր միանալու հայտը հաջողությամբ չեղարկվել է։",
+
+  "ProfileCompletionProfilePhoto": "Ավելացրեք պրոֆիլի լուսանկար",
+  "ESProfileIncomplete": "Միջոցառում ստեղծելու կամ դրան միանալու համար նախ ամբողջությամբ լրացրեք ձեր պրոֆիլը։",
+  "ESProfileIncompleteTitle": "Լրացրեք ձեր պրոֆիլը",
+  "ESProfileIncompleteMessage": "Միջոցառում ստեղծելու կամ դրան միանալու համար լրացրեք պրոֆիլի բոլոր պարտադիր տվյալները և ավելացրեք պրոֆիլի լուսանկար։",
+  "ESProfileIncompleteAction": "Լրացնել պրոֆիլը",
+  "ESRequesterProfileIncomplete": "Այս օգտատերը պետք է ամբողջությամբ լրացնի իր պրոֆիլը՝ միջոցառմանը միանալու համար։",
+  "ESRequesterProfileIncompleteTitle": "Պրոֆիլը լրացված չէ",
+  "ESRequesterProfileIncompleteMessage": "Այս օգտատերը պետք է ամբողջությամբ լրացնի իր պրոֆիլը, նախքան միջոցառմանը միանալը։"
 }
