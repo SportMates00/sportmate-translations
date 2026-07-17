@@ -17,5 +17,7 @@
 
   "ProgressBarbarCompleteProfileTitle": "Complete your profile",
   "ProgressBarbarProfileCompletion": "Profile Completion",
-  "ProgressBarbarProfileCompletionCaption": "Complete your profile to help other users know you better."
+  "ProgressBarbarProfileCompletionCaption": "Complete your profile to help other users know you better.",
+
+  "ProfileCompletionProfilePhoto": "Add a profile photo"
 }
