@@ -17,5 +17,7 @@
 
   "ProgressBarbarCompleteProfileTitle": "Заполните профиль",
   "ProgressBarbarProfileCompletion": "Заполненность профиля",
-  "ProgressBarbarProfileCompletionCaption": "Заполните профиль, чтобы другим пользователям было проще узнать вас."
+  "ProgressBarbarProfileCompletionCaption": "Заполните профиль, чтобы другим пользователям было проще узнать вас.",
+
+  "ProfileCompletionProfilePhoto": "Добавьте фото профиля"
 }
