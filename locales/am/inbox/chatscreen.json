@@ -16,6 +16,16 @@
 
   "ChatCancelReply": "Չեղարկել պատասխանը",
   "ChatSendMessage": "Ուղարկել հաղորդագրությունը",
-  "ChatRecordVoiceMessage": "Ձայնագրել ձայնային հաղորդագրություն"
+  "ChatRecordVoiceMessage": "Ձայնագրել ձայնային հաղորդագրություն",
+
+  "ChatMessageReply": "Պատասխանել",
+  "ChatMessageCopy": "Պատճենել",
+  "ChatMessageReport": "Բողոքել",
+
+  "ChatRetryMessage": "Կրկին ուղարկել հաղորդագրությունը",
+
+  "ChatReactionPeopleTitle": "Արձագանքներ",
+  "ChatReactionYou": "Դուք",
+  "ChatReactionPeopleEmpty": "Դեռ արձագանքներ չկան։"
 }
 
