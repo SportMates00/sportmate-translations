@@ -16,6 +16,12 @@
 
   "ChatCancelReply": "Cancel reply",
   "ChatSendMessage": "Send message",
-  "ChatRecordVoiceMessage": "Record voice message"
+  "ChatRecordVoiceMessage": "Record voice message",
+
+  "ChatMessageReply": "Reply",
+  "ChatMessageCopy": "Copy",
+  "ChatMessageReport": "Report",
+
+  "ChatRetryMessage": "Retry sending message"
 
 }
