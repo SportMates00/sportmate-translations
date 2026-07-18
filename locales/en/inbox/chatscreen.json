@@ -22,6 +22,10 @@
   "ChatMessageCopy": "Copy",
   "ChatMessageReport": "Report",
 
-  "ChatRetryMessage": "Retry sending message"
+  "ChatRetryMessage": "Retry sending message",
+
+  "ChatReactionPeopleTitle": "Reactions",
+  "ChatReactionYou": "You",
+  "ChatReactionPeopleEmpty": "No reactions yet."
 
 }
