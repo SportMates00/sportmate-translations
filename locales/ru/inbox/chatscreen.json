@@ -7,6 +7,8 @@
   "ChatScreenNotMember": "Вы больше не являетесь участником этого чата.",
   "ChatScreenTypeMessage": "Введите сообщение...",
   "ChatScreenNotMemberPlaceholder": "Вы больше не являетесь участником этого чата.",
+  "ChatScreenToday": "Сегодня",
+  "ChatScreenYesterday": "Вчера",
 
   "ChatVoiceMessage": "Голосовое сообщение",
   "ChatOpenKeyboard": "Открыть клавиатуру",
