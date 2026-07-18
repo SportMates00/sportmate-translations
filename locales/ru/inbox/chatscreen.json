@@ -16,5 +16,15 @@
 
   "ChatCancelReply": "Отменить ответ",
   "ChatSendMessage": "Отправить сообщение",
-  "ChatRecordVoiceMessage": "Записать голосовое сообщение"
+  "ChatRecordVoiceMessage": "Записать голосовое сообщение",
+
+  "ChatMessageReply": "Ответить",
+  "ChatMessageCopy": "Копировать",
+  "ChatMessageReport": "Пожаловаться",
+
+  "ChatRetryMessage": "Повторить отправку сообщения",
+
+  "ChatReactionPeopleTitle": "Реакции",
+  "ChatReactionYou": "Вы",
+  "ChatReactionPeopleEmpty": "Реакций пока нет."
 }
