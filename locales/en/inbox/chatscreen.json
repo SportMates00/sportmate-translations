@@ -7,6 +7,8 @@
   "ChatScreenNotMember": "You are no longer a member of this chat.",
   "ChatScreenTypeMessage": "Type a message...",
   "ChatScreenNotMemberPlaceholder": "You are no longer a member of this chat.",
+  "ChatScreenToday": "Today",
+  "ChatScreenYesterday": "Yesterday",
   
   "ChatVoiceMessage": "Voice message",
   "ChatOpenKeyboard": "Open keyboard",
@@ -15,4 +17,5 @@
   "ChatCancelReply": "Cancel reply",
   "ChatSendMessage": "Send message",
   "ChatRecordVoiceMessage": "Record voice message"
+
 }
